@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-language="English" tvg-logo="" group-title="Entertainment",SONY PIX HD
+http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-language="English" tvg-logo="" group-title="Entertainment",AXN
+http://103.81.104.118/hls/stream2.m3u8
+#EXTINF:-1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-language="English" tvg-logo="" group-title="Entertainment",STAR MOVIES
+http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-name="STAR SPORTS 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY SIX HD
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 1 HD
+http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 2 HD
+http://103.81.104.118/hls/stream39.m3u8
