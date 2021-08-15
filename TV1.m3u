@@ -7,8 +7,6 @@ http://103.81.104.118/hls/stream2.m3u8
 http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:-1 tvg-id="&pictures HD" tvg-name="&pictures HD" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",&pictures HD
 http://103.81.104.118/hls/stream14.m3u8
-#EXTINF:-1 tvg-id="History TV HD" tvg-name="History TV HD" tvg-language="English" tvg-logo="" group-title="Entertainment",History TV HD
-http://rv.bleutv.net:80/live/477816014111154/477816014111154/83961.ts
 
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
 http://103.81.104.118/hls/stream15.m3u8
@@ -27,72 +25,74 @@ http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS" tvg-name="PTV SPORTS" tvg-language="English" tvg-logo="" group-title="Sports",PTV SPORTS
 http://103.81.104.118/hls/stream11.m3u8
 
-#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD
+#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 1
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
-#EXTINF:-1,StarVijayHD 
+#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 2
 http://watchindia.net:8880/live/33253/72963/846.ts 
-#EXTINF:-1,StarVijayHD2 
+#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 3 
 http://watchindia.net:8880/live/33253/72963/2140.ts 
-#EXTINF:-1,StarVijaySuper 
-http://watchindia.net:8880/live/33253/72963/2190.ts 
-#EXTINF:-1,SunTVHD 
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD 
 http://watchindia.net:8880/live/33253/72963/843.ts 
-#EXTINF:-1,SunTVHDUSA 
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD USA
 http://watchindia.net:8880/live/33253/72963/2089.ts 
-#EXTINF:-1,SunLife 
-http://watchindia.net:8880/live/33253/72963/847.ts
-#EXTINF:-1,SunMusicHD 
-http://watchindia.net:8880/live/33253/72963/844.ts 
-#EXTINF:-1,SunNews 
-http://watchindia.net:8880/live/33253/72963/869.ts 
-#EXTINF:-1,SirippoliTV 
-http://watchindia.net:8880/live/33253/72963/2084.ts 
-#EXTINF:-1,AdithyaTV 
-http://watchindia.net:8880/live/33253/72963/855.ts
-#EXTINF:-1,ColorsTamil 
-http://watchindia.net:8880/live/33253/72963/2083.ts 
-#EXTINF:-1,CaptainNews 
-http://watchindia.net:8880/live/33253/72963/878.ts 
-#EXTINF:-1,CaptainTV 
-http://watchindia.net:8880/live/33253/72963/876.ts
-#EXTINF:-1,PuthiyaThalaimurai 
-http://watchindia.net:8880/live/33253/72963/879.ts 
-#EXTINF:-1,PuthuyugamTV 
-http://watchindia.net:8880/live/33253/72963/865.ts 
-#EXTINF:-1,RajDigitalPlus 
-http://watchindia.net:8880/live/33253/72963/857.ts 
-#EXTINF:-1,RajMusix 
-http://watchindia.net:8880/live/33253/72963/286.ts
-#EXTINF:-1,ThanthiTV 
-http://watchindia.net:8880/live/33253/72963/860.ts 
-#EXTINF:-1,ThanthiTV 
-http://watchindia.net:8880/live/33253/72963/947.ts
-#EXTINF:-1,ZeeTamil 
-http://watchindia.net:8880/live/33253/72963/887.ts
-#EXTINF:-1,NickTamil 
-http://watchindia.net:8880/live/33253/72963/2181.ts 
-#EXTINF:-1,Peppers 
-http://watchindia.net:8880/live/33253/72963/870.ts 
-#EXTINF:-1,PolimerTV 
-http://watchindia.net:8880/live/33253/72963/2147.ts 
-#EXTINF:-1,PolimerNews 
-http://watchindia.net:8880/live/33253/72963/877.ts
-#EXTINF:-1,News7 
-http://watchindia.net:8880/live/33253/72963/867.ts
-#EXTINF:-1,KTVHD 
-http://watchindia.net:8880/live/33253/72963/845.ts
-#EXTINF:-1,KalaignarTV 
-http://watchindia.net:8880/live/33253/72963/2148.ts
-#EXTINF:-1,JayaMax 
-http://watchindia.net:8880/live/33253/72963/852.ts 
-#EXTINF:-1,JayaMovie 
-http://watchindia.net:8880/live/33253/72963/849.ts 
-#EXTINF:-1,JayaPlus 
-http://watchindia.net:8880/live/33253/72963/850.ts 
-#EXTINF:-1,JayaTVHD 
+#EXTINF:-1 tvg-id="Kalaignar TV" tvg-name="Kalaignar TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Kalaignar TV 
+http://watchindia.net:8880/live/33253/72963/2148.ts 
+#EXTINF:-1 tvg-id="Jaya TV HD" tvg-name="Jaya TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Jaya TV HD 
 http://watchindia.net:8880/live/33253/72963/851.ts 
-#EXTINF:-1,JayaTV 
+#EXTINF:-1 tvg-id="Jaya TV" tvg-name="Jaya TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Jaya TV 
 http://watchindia.net:8880/live/33253/72963/964.ts
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Zee Tamil 
+http://watchindia.net:8880/live/33253/72963/887.ts
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Colors Tamil 
+http://watchindia.net:8880/live/33253/72963/2083.ts 
+#EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Polimer TV 
+http://watchindia.net:8880/live/33253/72963/2147.ts 
+#EXTINF:-1 tvg-id="Captain TV" tvg-name="Captain TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Captain TV 
+http://watchindia.net:8880/live/33253/72963/876.ts 
+#EXTINF:-1 tvg-id="Puthuyugam TV" tvg-name="Puthuyugam TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Puthuyugam TV 
+http://watchindia.net:8880/live/33253/72963/865.ts 
+#EXTINF:-1 tvg-id="Raj Digital Plus" tvg-name="Raj Digital Plus" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Raj Digital Plus 
+http://watchindia.net:8880/live/33253/72963/857.ts
+
+#EXTINF:-1 tvg-id="K TV HD" tvg-name="K TV HD" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",K TV HD 
+http://watchindia.net:8880/live/33253/72963/845.ts 
+#EXTINF:-1 tvg-id="Jaya Movie" tvg-name="Jaya Movie" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Jaya Movie 
+http://watchindia.net:8880/live/33253/72963/849.ts 
+#EXTINF:-1 tvg-id="Star Vijay Super" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Star Vijay Super 
+http://watchindia.net:8880/live/33253/72963/2190.ts 
+#EXTINF:-1 tvg-id="Sun Life" tvg-name="Sun Life" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Sun Life 
+http://watchindia.net:8880/live/33253/72963/847.ts 
+
+#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Sun Music HD 
+http://watchindia.net:8880/live/33253/72963/844.ts 
+#EXTINF:-1 tvg-id="Jaya Max" tvg-name="Jaya Max" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Jaya Max 
+http://watchindia.net:8880/live/33253/72963/852.ts 
+#EXTINF:-1 tvg-id="Raj Musix" tvg-name="Raj Musix" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Raj Musix 
+http://watchindia.net:8880/live/33253/72963/286.ts
+#EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Peppers 
+http://watchindia.net:8880/live/33253/72963/870.ts 
+
+#EXTINF:-1 tvg-id="Sun News" tvg-name="Sun News" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Sun News 
+http://watchindia.net:8880/live/33253/72963/869.ts 
+#EXTINF:-1 tvg-id="Jaya Plus" tvg-name="Jaya Plus" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Jaya Plus 
+http://watchindia.net:8880/live/33253/72963/850.ts 
+#EXTINF:-1 tvg-id="Puthiya Thalaimurai" tvg-name="Puthiya Thalaimurai" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Puthiya Thalaimurai 
+http://watchindia.net:8880/live/33253/72963/879.ts 
+#EXTINF:-1 tvg-id="Thanthi TV" tvg-name="Thanthi TV" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Thanthi TV HD 
+http://watchindia.net:8880/live/33253/72963/947.ts
+#EXTINF:-1 tvg-id="Thanthi TV" tvg-name="Thanthi TV" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Thanthi TV SD 
+http://watchindia.net:8880/live/33253/72963/860.ts 
+#EXTINF:-1 tvg-id="Polimer News" tvg-name="Polimer News" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Polimer News 
+http://watchindia.net:8880/live/33253/72963/877.ts
+#EXTINF:-1 tvg-id="News 7" tvg-name="News 7" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",News 7 
+http://watchindia.net:8880/live/33253/72963/867.ts
+#EXTINF:-1 tvg-id="Captain News" tvg-name="Captain News" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Captain News 
+http://watchindia.net:8880/live/33253/72963/878.ts 
+
+#EXTINF:-1 tvg-id="Adithya TV" tvg-name="Adithya TV" tvg-language="Tamil" tvg-logo="" group-title="Comedy - Tamil",Adithya TV 
+http://watchindia.net:8880/live/33253/72963/855.ts
+#EXTINF:-1 tvg-id="Sirippoli TV" tvg-name="Sirippoli TV" tvg-language="Tamil" tvg-logo="" group-title="Comedy - Tamil",Sirippoli TV 
+http://watchindia.net:8880/live/33253/72963/2084.ts 
 
 #EXTINF:-1 tvg-id="SONY BBC earth HD" tvg-name="SONY BBC earth HD" tvg-language="English" tvg-logo="" group-title="Science",SONY BBC earth HD
 http://103.81.104.118/hls/stream5.m3u8
@@ -105,7 +105,10 @@ http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1 tvg-id="travel xp HD" tvg-name="travel xp HD" tvg-language="English" tvg-logo="" group-title="Science",travel xp HD
 http://103.81.104.118/hls/stream37.m3u8
 
-#EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-language="English" tvg-logo="" group-title="Kids",nick
+
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-language="Tamil" tvg-logo="" group-title="Kids",nick - Tamil
+http://watchindia.net:8880/live/33253/72963/2181.ts 
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-language="Hindi" tvg-logo="" group-title="Kids",nick - Hindi
 http://103.81.104.118/hls/stream23.m3u8
-#EXTINF:-1 tvg-id="SONY YAY" tvg-name="SONY YAY" tvg-language="English" tvg-logo="" group-title="Kids",SONY YAY
+#EXTINF:-1 tvg-id="SONY YAY" tvg-name="SONY YAY" tvg-language="Hindo" tvg-logo="" group-title="Kids",SONY YAY - Hindi
 http://103.81.104.118/hls/stream32.m3u8
