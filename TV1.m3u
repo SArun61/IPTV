@@ -16,6 +16,7 @@ http://103.81.104.118/hls/stream16.m3u8
 http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY SIX HD
 http://103.81.104.118/hls/stream10.m3u8
+http://watchindia.net:8880/live/60275/20486/2144.ts
 #EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 2 HD
