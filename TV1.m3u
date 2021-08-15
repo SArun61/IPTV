@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-language="English" tvg-logo="" group-title="Entertainment",SONY PIX HD
+#EXTINF:-1 tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-language="English" tvg-logo="" group-title="Movies - English",SONY PIX HD
 http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-language="English" tvg-logo="" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-language="English" tvg-logo="" group-title="Movies - English",AXN
 http://103.81.104.118/hls/stream2.m3u8
-#EXTINF:-1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-language="English" tvg-logo="" group-title="Entertainment",STAR MOVIES
+#EXTINF:-1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-language="English" tvg-logo="" group-title="Movies - English",STAR MOVIES
 http://103.81.104.118/hls/stream3.m3u8
-#EXTINF:-1 tvg-id="&pictures HD" tvg-name="&pictures HD" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",&pictures HD
+#EXTINF:-1 tvg-id="&pictures HD" tvg-name="&pictures HD" tvg-language="Hindi" tvg-logo="" group-title="Movies - Hindi",&pictures HD
 http://103.81.104.118/hls/stream14.m3u8
 
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
@@ -39,8 +39,6 @@ http://watchindia.net:8880/live/33253/72963/2089.ts
 http://watchindia.net:8880/live/33253/72963/2148.ts 
 #EXTINF:-1 tvg-id="Jaya TV HD" tvg-name="Jaya TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Jaya TV HD 
 http://watchindia.net:8880/live/33253/72963/851.ts 
-#EXTINF:-1 tvg-id="Jaya TV" tvg-name="Jaya TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Jaya TV 
-http://watchindia.net:8880/live/33253/72963/964.ts
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Zee Tamil 
 http://watchindia.net:8880/live/33253/72963/887.ts
 #EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Colors Tamil 
