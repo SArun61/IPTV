@@ -9,12 +9,19 @@ http://103.81.104.118/hls/stream3.m3u8
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-name="STAR SPORTS 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
 http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-id="STAR SPORTS SELECT 1 HD" tvg-name="STAR SPORTS SELECT 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS SELECT 1 HD
+http://103.81.104.118/hls/stream12.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY SIX HD
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 2 HD
 http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1 tvg-id="TEN Cricket" tvg-name="TEN Cricket" tvg-language="English" tvg-logo="" group-title="Sports",TEN Cricket
+http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-id="PTV SPORTS" tvg-name="PTV SPORTS" tvg-language="English" tvg-logo="" group-title="Sports",PTV SPORTS
+http://103.81.104.118/hls/stream11.m3u8
+
 #EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 
@@ -26,6 +33,8 @@ http://103.81.104.118/hls/stream6.m3u8
 http://103.81.104.118/hls/stream9.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-language="English" tvg-logo="" group-title="Science",NATIONAL GEOGRAPHIC HD
 http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:-1 tvg-id="travel xp HD" tvg-name="travel xp HD" tvg-language="English" tvg-logo="" group-title="Science",travel xp HD
+http://103.81.104.118/hls/stream37.m3u8
 
 #EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-language="English" tvg-logo="" group-title="Kids",nick
 http://103.81.104.118/hls/stream23.m3u8
