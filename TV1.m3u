@@ -5,6 +5,11 @@ http://103.81.104.118/hls/stream1.m3u8
 http://103.81.104.118/hls/stream2.m3u8
 #EXTINF:-1 tvg-id="STAR MOVIES" tvg-name="STAR MOVIES" tvg-language="English" tvg-logo="" group-title="Entertainment",STAR MOVIES
 http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 tvg-id="&pictures HD" tvg-name="&pictures HD" tvg-language="Hindi" tvg-logo="" group-title="Entertainment",&pictures HD
+http://103.81.104.118/hls/stream14.m3u8
+#EXTINF:-1 tvg-id="History TV HD" tvg-name="History TV HD" tvg-language="English" tvg-logo="" group-title="Entertainment",History TV HD
+http://rv.bleutv.net:80/live/477816014111154/477816014111154/83961.ts
+
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-name="STAR SPORTS 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
