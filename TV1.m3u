@@ -20,3 +20,14 @@ http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY BBC earth HD" tvg-name="SONY BBC earth HD" tvg-language="English" tvg-logo="" group-title="Science",SONY BBC earth HD
 http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1 tvg-id="animal planet HD" tvg-name="animal planet HD" tvg-language="English" tvg-logo="" group-title="Science",animal planet HD
+http://103.81.104.118/hls/stream6.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-language="English" tvg-logo="" group-title="Science",Discovery HD
+http://103.81.104.118/hls/stream9.m3u8
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-language="English" tvg-logo="" group-title="Science",NATIONAL GEOGRAPHIC HD
+http://103.81.104.118/hls/stream13.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-language="English" tvg-logo="" group-title="Kids",nick
+http://103.81.104.118/hls/stream23.m3u8
+#EXTINF:-1 tvg-id="SONY YAY" tvg-name="SONY YAY" tvg-language="English" tvg-logo="" group-title="Kids",SONY YAY
+http://103.81.104.118/hls/stream32.m3u8
