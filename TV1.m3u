@@ -60,6 +60,8 @@ http://watchindia.net:8880/live/33253/72963/849.ts
 http://watchindia.net:8880/live/33253/72963/2190.ts 
 #EXTINF:-1 tvg-id="Sun Life" tvg-name="Sun Life" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Sun Life 
 http://watchindia.net:8880/live/33253/72963/847.ts 
+#EXTINF:-1 tvg-id="YUPP Thirai" tvg-name="YUPP Thirai" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",YUPP Thirai 
+http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
 
 #EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Sun Music HD 
 http://watchindia.net:8880/live/33253/72963/844.ts 
@@ -69,6 +71,10 @@ http://watchindia.net:8880/live/33253/72963/852.ts
 http://watchindia.net:8880/live/33253/72963/286.ts
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Peppers 
 http://watchindia.net:8880/live/33253/72963/870.ts 
+#EXTINF:-1 tvg-id="7S Music" tvg-name="7S Music" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",7S Music 
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="MK TV" tvg-name="MK TV" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",MK TV 
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 
 #EXTINF:-1 tvg-id="Sun News" tvg-name="Sun News" tvg-language="Tamil" tvg-logo="" group-title="News - Tamil",Sun News 
 http://watchindia.net:8880/live/33253/72963/869.ts 
