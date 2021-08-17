@@ -24,16 +24,22 @@ http://84.17.41.7:80/sonysixhd/mono.m3u8
 http://103.81.104.118/hls/stream10.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY SIX HD 3
 http://watchindia.net:8880/live/60275/20486/2144.ts
-#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 1 HD
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 1 HD - 1 
 http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="SONY TEN 1 HD" tvg-name="SONY TEN 1 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 1 HD - 2 
+http://watchindia.net:8880/live/60275/20486/1756.ts
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 2 HD - 1 
 http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1 tvg-id="SONY TEN 2 HD" tvg-name="SONY TEN 2 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 2 HD - 2 
+http://watchindia.net:8880/live/60275/20486/1757.ts
+#EXTINF:-1 tvg-id="SONY TEN 3 HD" tvg-name="SONY TEN 3 HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY TEN 3 HD - 1 
+http://watchindia.net:8880/live/60275/20486/1758.ts
 #EXTINF:-1 tvg-id="TEN Cricket" tvg-name="TEN Cricket" tvg-language="English" tvg-logo="" group-title="Sports",TEN Cricket
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-id="PTV SPORTS" tvg-name="PTV SPORTS" tvg-language="English" tvg-logo="" group-title="Sports",PTV SPORTS
 http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-id="SONY SIX HD" tvg-name="SONY SIX HD" tvg-language="English" tvg-logo="" group-title="Sports",SONY SIX HD
-
+http://watchindia.net:8880/live/60275/20486/1756.ts
 #EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 1
 http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 2
