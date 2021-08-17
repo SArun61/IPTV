@@ -50,8 +50,10 @@ http://watchindia.net:8880/live/33253/72963/2148.ts
 http://watchindia.net:8880/live/33253/72963/851.ts 
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Zee Tamil 
 http://watchindia.net:8880/live/33253/72963/887.ts
-#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Colors Tamil 
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Colors Tamil - 1
 http://watchindia.net:8880/live/33253/72963/2083.ts 
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Colors Tamil - 2
+http://uk1.zecast.com:1935/star-live/colours/index.m3u8
 #EXTINF:-1 tvg-id="Polimer TV" tvg-name="Polimer TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Polimer TV 
 http://watchindia.net:8880/live/33253/72963/2147.ts 
 #EXTINF:-1 tvg-id="Captain TV" tvg-name="Captain TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Captain TV 
