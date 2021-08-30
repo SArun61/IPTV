@@ -46,6 +46,8 @@ http://fr1.zecast.com:1935/star-live/vijay.stream/playlist.m3u8
 http://watchindia.net:8880/live/33253/72963/846.m3u8 
 #EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 3 
 http://watchindia.net:8880/live/33253/72963/2140.m3u8 
+#EXTINF:-1 tvg-id="Star Vijay HD" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Star Vijay HD 4 
+https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8?hdnts
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD 
 http://watchindia.net:8880/live/33253/72963/843.m3u8 
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD USA
@@ -73,6 +75,8 @@ http://watchindia.net:8880/live/60275/20486/2146.m3u8
 
 #EXTINF:-1 tvg-id="K TV HD" tvg-name="K TV HD" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",K TV HD 
 http://watchindia.net:8880/live/33253/72963/845.m3u8 
+#EXTINF:-1 tvg-id="K TV HD" tvg-name="K TV HD" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",K TV HD 2
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 #EXTINF:-1 tvg-id="Jaya Movie" tvg-name="Jaya Movie" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Jaya Movie 
 http://watchindia.net:8880/live/33253/72963/849.m3u8 
 #EXTINF:-1 tvg-id="Zee Thirai" tvg-name="Zee Thirai" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Zee Thirai 
