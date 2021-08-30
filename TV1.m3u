@@ -50,6 +50,8 @@ http://watchindia.net:8880/live/33253/72963/2140.m3u8
 https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8?hdnts
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD 
 http://watchindia.net:8880/live/33253/72963/843.m3u8 
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD 2
+http://tv.perfectiptv.tvip.xyz:80/live/fPnIwN2odkUo733/evJde3480/10175.m3u8
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Sun TV HD USA
 http://watchindia.net:8880/live/33253/72963/2089.m3u8 
 #EXTINF:-1 tvg-id="Kalaignar TV" tvg-name="Kalaignar TV" tvg-language="Tamil" tvg-logo="" group-title="Regional - Tamil",Kalaignar TV 
@@ -81,19 +83,27 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ktvhd/master.m3u8?hdnts
 http://watchindia.net:8880/live/33253/72963/849.m3u8 
 #EXTINF:-1 tvg-id="Zee Thirai" tvg-name="Zee Thirai" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Zee Thirai 
 http://watchindia.net:8880/live/60275/20486/2142.m3u8
-#EXTINF:-1 tvg-id="Star Vijay Super" tvg-name="Star Vijay HD" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Star Vijay Super 
+#EXTINF:-1 tvg-id="Star Vijay Super" tvg-name="Star Vijay Super" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Star Vijay Super 
 http://watchindia.net:8880/live/33253/72963/2190.m3u8 
+#EXTINF:-1 tvg-id="MON Tamil HD" tvg-name="MON Tamil HD" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",MON Tamil HD 
+http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1 tvg-id="Sun Life" tvg-name="Sun Life" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",Sun Life 
 http://watchindia.net:8880/live/33253/72963/847.m3u8 
 #EXTINF:-1 tvg-id="YUPP Thirai" tvg-name="YUPP Thirai" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",YUPP Thirai 
 http://119.81.82.28/encoded/yuppthirai_800/chunklist_w298926395.m3u8
+#EXTINF:-1 tvg-id="YUPP Thirai" tvg-name="YUPP Thirai" tvg-language="Tamil" tvg-logo="" group-title="Movies - Tamil",YUPP Thirai 2
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Sun Music HD 
 http://watchindia.net:8880/live/33253/72963/844.m3u8 
+#EXTINF:-1 tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Sun Music HD 2
+http://tv.perfectiptv.tvip.xyz:80/live/fPnIwN2odkUo733/evJde3480/10176.m3u8
 #EXTINF:-1 tvg-id="Isaiyaruvi" tvg-name="Isaiyaruvi" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Isaiyaruvi 
 http://watchindia.net:8880/live/60275/20486/2149.m3u8
 #EXTINF:-1 tvg-id="Jaya Max" tvg-name="Jaya Max" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Jaya Max 
 http://watchindia.net:8880/live/33253/72963/852.m3u8 
+#EXTINF:-1 tvg-id="Jaya Max" tvg-name="Jaya Max" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Jaya Max 2
+http://tv.perfectiptv.tvip.xyz:80/live/fPnIwN2odkUo733/evJde3480/10181.m3u8
 #EXTINF:-1 tvg-id="Raj Musix" tvg-name="Raj Musix" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Raj Musix 
 http://watchindia.net:8880/live/33253/72963/286.m3u8
 #EXTINF:-1 tvg-id="Peppers" tvg-name="Peppers" tvg-language="Tamil" tvg-logo="" group-title="Music - Tamil",Peppers 
