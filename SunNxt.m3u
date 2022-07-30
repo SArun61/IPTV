@@ -2,66 +2,66 @@
 x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="sun14020" tvg-logo="https://sund-images.sunnxt.com/14020/300x300_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SUN NEXT TAMIL",Sun TV HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=14020&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=14020&e=.m3u8
 #EXTINF:-1 tvg-id="sun9013" tvg-logo="https://sund-images.sunnxt.com/9013/300x300_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SUN NEXT TAMIL",Sun Music HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9013&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9013&e=.m3u8
 #EXTINF:-1 tvg-id="sun38926" tvg-logo="https://sund-images.sunnxt.com/38926/300x300_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="SUN NEXT TAMIL",Sun News 
-https://iamsom5.vercel.app/api/sunnxt.php?id=38926&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=38926&e=.m3u8
 #EXTINF:-1 tvg-id="sun75117" tvg-logo="https://sund-images.sunnxt.com/75117/300x300_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="SUN NEXT BENGALI",Sun Bangla 
-https://iamsom5.vercel.app/api/sunnxt.php?id=75117&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=75117&e=.m3u8
 #EXTINF:-1 tvg-id="sun9016" tvg-logo="https://sund-images.sunnxt.com/9016/300x300_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="SUN NEXT TAMIL",Sun TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9016&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9016&e=.m3u8
 #EXTINF:-1 tvg-id="sun26569" tvg-logo="https://sund-images.sunnxt.com/26569/300x300_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="SUN NEXT TAMIL",Sun Life 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26569&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26569&e=.m3u8
 #EXTINF:-1 tvg-id="sun9025" tvg-logo="https://sund-images.sunnxt.com/9025/300x300_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="SUN NEXT TAMIL",Sun Music 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9025&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9025&e=.m3u8
 #EXTINF:-1 tvg-id="sun14019" tvg-logo="https://sund-images.sunnxt.com/14019/300x300_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SUN NEXT TELUGU",Gemini TV HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=14019&e=.m3u8
 #EXTINF:-1 tvg-id="sun26570" tvg-logo="https://sund-images.sunnxt.com/26570/300x300_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="SUN NEXT TELUGU",Gemini Movies HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26570&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26570&e=.m3u8
 #EXTINF:-1 tvg-id="sun26568" tvg-logo="https://sund-images.sunnxt.com/26568/300x300_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="SUN NEXT TELUGU",Gemini Music HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26568&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26568&e=.m3u8
 #EXTINF:-1 tvg-id="sun9026" tvg-logo="https://sund-images.sunnxt.com/9026/300x300_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="SUN NEXT TELUGU",Gemini Music 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9026&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9026&e=.m3u8
 #EXTINF:-1 tvg-id="sun9015" tvg-logo="https://sund-images.sunnxt.com/9015/300x300_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="SUN NEXT TELUGU",Gemini Movies 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9015&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9015&e=.m3u8
 #EXTINF:-1 tvg-id="sun26572" tvg-logo="https://sund-images.sunnxt.com/26572/300x300_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="SUN NEXT TELUGU",Gemini Life 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26572&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26572&e=.m3u8
 #EXTINF:-1 tvg-id="sun9027" tvg-logo="https://sund-images.sunnxt.com/9027/300x300_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="SUN NEXT TELUGU",Gemini Comedy 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9027&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9027&e=.m3u8
 #EXTINF:-1 tvg-id="sun9017" tvg-logo="https://sund-images.sunnxt.com/9017/300x300_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="SUN NEXT TELUGU",Gemini TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9017&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9017&e=.m3u8
 #EXTINF:-1 tvg-id="sun30846" tvg-logo="https://sund-images.sunnxt.com/30846/300x300_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="SUN NEXT KANNADA",Udaya TV HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=30846&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=30846&e=.m3u8
 #EXTINF:-1 tvg-id="sun9029" tvg-logo="https://sund-images.sunnxt.com/9029/300x300_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="SUN NEXT KANNADA",Udaya TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9029&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9029&e=.m3u8
 #EXTINF:-1 tvg-id="sun9022" tvg-logo="https://sund-images.sunnxt.com/9022/300x300_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="SUN NEXT KANNADA",Udaya Music 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9022&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9022&e=.m3u8
 #EXTINF:-1 tvg-id="sun26576" tvg-logo="https://sund-images.sunnxt.com/26576/300x300_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="SUN NEXT KANNADA",Udaya Movies 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26576&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26576&e=.m3u8
 #EXTINF:-1 tvg-id="sun9014" tvg-logo="https://sund-images.sunnxt.com/9014/300x300_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SUN NEXT KANNADA",Udaya Comedy 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9014&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9014&e=.m3u8
 #EXTINF:-1 tvg-id="sun26574" tvg-logo="https://sund-images.sunnxt.com/26574/300x300_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" group-title="SUN NEXT MALAYALAM",Surya TV HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26574&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26574&e=.m3u8
 #EXTINF:-1 tvg-id="sun9018" tvg-logo="https://sund-images.sunnxt.com/9018/300x300_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" group-title="SUN NEXT MALAYALAM",Surya TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9018&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9018&e=.m3u8
 #EXTINF:-1 tvg-id="sun30835" tvg-logo="https://sund-images.sunnxt.com/30835/300x300_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="SUN NEXT MALAYALAM",Surya Comedy 
-https://iamsom5.vercel.app/api/sunnxt.php?id=30835&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=30835&e=.m3u8
 #EXTINF:-1 tvg-id="sun26575" tvg-logo="https://sund-images.sunnxt.com/26575/300x300_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="SUN NEXT MALAYALAM",Surya Music 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26575&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26575&e=.m3u8
 #EXTINF:-1 tvg-id="sun9019" tvg-logo="https://sund-images.sunnxt.com/9019/300x300_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="SUN NEXT MALAYALAM",Surya Movies 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9019&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9019&e=.m3u8
 #EXTINF:-1 tvg-id="sun26566" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SUN NEXT TAMIL",KTV HD 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26566&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26566&e=.m3u8
 #EXTINF:-1 tvg-id="sun32138" tvg-logo="https://sund-images.sunnxt.com/32138/300x300_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="SUN NEXT TAMIL",KTV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=32138&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=32138&e=.m3u8
 #EXTINF:-1 tvg-id="sun26577" tvg-logo="https://sund-images.sunnxt.com/26577/300x300_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="SUN NEXT KANNADA",Chintu TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26577&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26577&e=.m3u8
 #EXTINF:-1 tvg-id="sun26571" tvg-logo="https://sund-images.sunnxt.com/26571/300x300_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" group-title="SUN NEXT TELUGU",Kushi TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26571&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26571&e=.m3u8
 #EXTINF:-1 tvg-id="sun26573" tvg-logo="https://sund-images.sunnxt.com/26573/300x300_5787336f-08b9-480f-9c97-3db09999b558.jpg" group-title="SUN NEXT MALAYALAM",Kochu TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26573&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26573&e=.m3u8
 #EXTINF:-1 tvg-id="sun26567" tvg-logo="https://sund-images.sunnxt.com/26567/300x300_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="SUN NEXT TAMIL",Chutti TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=26567&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=26567&e=.m3u8
 #EXTINF:-1 tvg-id="sun9023" tvg-logo="https://sund-images.sunnxt.com/9023/300x300_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="SUN NEXT TAMIL",Adithya TV 
-https://iamsom5.vercel.app/api/sunnxt.php?id=9023&e=.m3u8
+https://jiotvlive.vercel.app/api/sunnxt.php?id=9023&e=.m3u8
