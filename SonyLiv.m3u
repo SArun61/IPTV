@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 #EXTINF: -1 tvg-id="1000009246" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Sony Liv", SONY HD
-https://bit.ly/3fKTNU8seTHd
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="1000009248" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sony Liv", SAB HD
-https://bit.ly/3fBsABhd
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="1000009259" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Sony Liv", SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF: -1 tvg-id="1000009273" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Sony Liv", SONY PAL
@@ -16,11 +16,11 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF: -1 tvg-id="1000009249" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Sony Liv", SONY MAX
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF: -1 tvg-id="1000009253" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Sony Liv", SONY WAH
-https://bit.ly/3j7sOnywAh
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF: -1 tvg-id="1000044878" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Sony Liv", SONY MAX2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF: -1 tvg-id="1000009258" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Sony Liv", SONY PIX HD
-https://bit.ly/32sOnypIXhd
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF: -1 tvg-id="1000009281" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sony Liv", SONY SIX HD
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF: -1 tvg-id="1000009276" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sony Liv", SONY TEN 1 HD
