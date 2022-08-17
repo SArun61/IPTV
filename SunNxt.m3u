@@ -42,15 +42,15 @@ https://jiotvlive.vercel.app/api/sunnxt.php?id=26576&e=.m3u8
 #EXTINF:-1 tvg-id="sun9014" tvg-logo="https://sund-images.sunnxt.com/9014/300x300_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="SUN NEXT KANNADA",Udaya Comedy 
 https://jiotvlive.vercel.app/api/sunnxt.php?id=9014&e=.m3u8
 #EXTINF:-1 tvg-id="sun26574" tvg-logo="https://sund-images.sunnxt.com/26574/300x300_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" group-title="SUN NEXT MALAYALAM",Surya TV HD 
-https://jiotvlive.vercel.app/api/sunnxt.php?id=26574&e=.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vulcan/suntvhd/chunks.m3u8
 #EXTINF:-1 tvg-id="sun9018" tvg-logo="https://sund-images.sunnxt.com/9018/300x300_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" group-title="SUN NEXT MALAYALAM",Surya TV 
-https://jiotvlive.vercel.app/api/sunnxt.php?id=9018&e=.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vulcan/suntv/chunks.m3u8
 #EXTINF:-1 tvg-id="sun30835" tvg-logo="https://sund-images.sunnxt.com/30835/300x300_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="SUN NEXT MALAYALAM",Surya Comedy 
-https://jiotvlive.vercel.app/api/sunnxt.php?id=30835&e=.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vulcan/suryacomedy/chunks.m3u8
 #EXTINF:-1 tvg-id="sun26575" tvg-logo="https://sund-images.sunnxt.com/26575/300x300_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="SUN NEXT MALAYALAM",Surya Music 
-https://jiotvlive.vercel.app/api/sunnxt.php?id=26575&e=.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vulcan/suryamusic/chunks.m3u8
 #EXTINF:-1 tvg-id="sun9019" tvg-logo="https://sund-images.sunnxt.com/9019/300x300_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="SUN NEXT MALAYALAM",Surya Movies 
-https://jiotvlive.vercel.app/api/sunnxt.php?id=9019&e=.m3u8
+http://0nelivezer0.rbtvnw.com:21190/vulcan/suryamovies/chunks.m3u8
 #EXTINF:-1 tvg-id="sun26566" tvg-logo="https://sund-images.sunnxt.com/26566/300x300_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SUN NEXT TAMIL",KTV HD 
 http://0nelivezer0.rbtvnw.com:21190/vulcan/ktvhd/chunks.m3u8
 #EXTINF:-1 tvg-id="sun32138" tvg-logo="https://sund-images.sunnxt.com/32138/300x300_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="SUN NEXT TAMIL",KTV 
