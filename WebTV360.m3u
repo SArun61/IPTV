@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="*--- INDIA ---*" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA",*--- INDIA ---*
 http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/76482
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| &TV FHD" tvg-logo="https://www.lyngsat-logo.com/logo/flag/az/in.png" group-title="TATA PLAY INDIA",|IN| &TV FHD
