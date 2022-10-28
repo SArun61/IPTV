@@ -1,907 +1,907 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="witv",Star Sports 1 HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 1(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 1 HD 1
 http://watchindia.net:8880/live/vvv/vvv/808.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 2" tvg-logo="" group-title="witv",Star Sports 1 HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 2(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 1 HD 2
 http://watchindia.net:8880/live/vvv/vvv/2162.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3" tvg-logo="" group-title="witv",Star Sports 1 HD 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 3(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 1 HD 3
 http://watchindia.net:8880/live/vvv/vvv/2186.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 4" tvg-logo="" group-title="witv",Star Sports 1 HD 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD 4(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 1 HD 4
 http://watchindia.net:8880/live/vvv/vvv/2232.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi 1" tvg-logo="" group-title="witv",Star Sports 1 HD Hindi 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi 1(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 1 HD Hindi 1
 http://watchindia.net:8880/live/vvv/vvv/1072.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi 2" tvg-logo="" group-title="witv",Star Sports 1 HD Hindi 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD Hindi 2(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 1 HD Hindi 2
 http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD 1" tvg-logo="" group-title="witv",Star Sports 2 HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD 1(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 2 HD 1
 http://watchindia.net:8880/live/vvv/vvv/1069.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD 2" tvg-logo="" group-title="witv",Star Sports 2 HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD 2(witv m3u8)" tvg-logo="" group-title="witv",Star Sports 2 HD 2
 http://watchindia.net:8880/live/vvv/vvv/2163.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD 1" tvg-logo="" group-title="witv",Star Sports Select 1 HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD 1(witv m3u8)" tvg-logo="" group-title="witv",Star Sports Select 1 HD 1
 http://watchindia.net:8880/live/vvv/vvv/1070.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="witv",Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD(witv m3u8)" tvg-logo="" group-title="witv",Star Sports Select 2 HD
 http://watchindia.net:8880/live/vvv/vvv/1071.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD 2" tvg-logo="" group-title="witv",Star Sports Select 1 HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD 2(witv m3u8)" tvg-logo="" group-title="witv",Star Sports Select 1 HD 2
 http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="witv",Sky Sports Cricket
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Cricket
 http://watchindia.net:8880/live/vvv/vvv/2090.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket 2" tvg-logo="" group-title="witv",Sky Sports Cricket 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket 2(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Cricket 2
 http://watchindia.net:8880/live/vvv/vvv/2143.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="witv",Sky Sports Main Event
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Main Event
 http://watchindia.net:8880/live/vvv/vvv/2091.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="witv",Sky Sports Premier League
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Premier League(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Premier League
 http://watchindia.net:8880/live/vvv/vvv/2092.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football" tvg-logo="" group-title="witv",Sky Sports Football
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Football(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Football
 http://watchindia.net:8880/live/vvv/vvv/2093.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="" group-title="witv",Sky Sports F1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports F1
 http://watchindia.net:8880/live/vvv/vvv/2094.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="" group-title="witv",Sky Sports Arena
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Arena
 http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf" tvg-logo="" group-title="witv",Sky Sports Golf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf(witv m3u8)" tvg-logo="" group-title="witv",Sky Sports Golf
 http://watchindia.net:8880/live/vvv/vvv/2096.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 1" tvg-logo="" group-title="witv",Sony Six HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 1(witv m3u8)" tvg-logo="" group-title="witv",Sony Six HD 1
 http://watchindia.net:8880/live/vvv/vvv/1763.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 2" tvg-logo="" group-title="witv",Sony Six HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Six HD 2(witv m3u8)" tvg-logo="" group-title="witv",Sony Six HD 2
 http://watchindia.net:8880/live/vvv/vvv/2144.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 1" tvg-logo="" group-title="witv",Sony Ten 1 HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 1(witv m3u8)" tvg-logo="" group-title="witv",Sony Ten 1 HD 1
 http://watchindia.net:8880/live/vvv/vvv/1756.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 2" tvg-logo="" group-title="witv",Sony Ten 1 HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 1 HD 2(witv m3u8)" tvg-logo="" group-title="witv",Sony Ten 1 HD 2
 http://watchindia.net:8880/live/vvv/vvv/2215.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD" tvg-logo="" group-title="witv",Sony Ten 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 2 HD(witv m3u8)" tvg-logo="" group-title="witv",Sony Ten 2 HD
 http://watchindia.net:8880/live/vvv/vvv/1757.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="witv",Sony Ten 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Ten 3 HD(witv m3u8)" tvg-logo="" group-title="witv",Sony Ten 3 HD
 http://watchindia.net:8880/live/vvv/vvv/1758.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports" tvg-logo="" group-title="witv",DD Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sports(witv m3u8)" tvg-logo="" group-title="witv",DD Sports
 http://watchindia.net:8880/live/vvv/vvv/2380.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow HD 1" tvg-logo="" group-title="witv",Willow HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow HD 1(witv m3u8)" tvg-logo="" group-title="witv",Willow HD 1
 http://watchindia.net:8880/live/vvv/vvv/1067.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow HD 2" tvg-logo="" group-title="witv",Willow HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow HD 2(witv m3u8)" tvg-logo="" group-title="witv",Willow HD 2
 http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet HD 1" tvg-logo="" group-title="witv",Asianet HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet HD 1(witv m3u8)" tvg-logo="" group-title="witv",Asianet HD 1
 http://watchindia.net:8880/live/vvv/vvv/276.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet HD 2" tvg-logo="" group-title="witv",Asianet HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet HD 2(witv m3u8)" tvg-logo="" group-title="witv",Asianet HD 2
 http://watchindia.net:8880/live/vvv/vvv/2216.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet" tvg-logo="" group-title="witv",Asianet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet(witv m3u8)" tvg-logo="" group-title="witv",Asianet
 http://watchindia.net:8880/live/vvv/vvv/2321.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Movies 1" tvg-logo="" group-title="witv",Asianet Movies 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Movies 1(witv m3u8)" tvg-logo="" group-title="witv",Asianet Movies 1
 http://watchindia.net:8880/live/vvv/vvv/278.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Movies 2" tvg-logo="" group-title="witv",Asianet Movies 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Movies 2(witv m3u8)" tvg-logo="" group-title="witv",Asianet Movies 2
 http://watchindia.net:8880/live/vvv/vvv/2217.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News 1" tvg-logo="" group-title="witv",Asianet News 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News 1(witv m3u8)" tvg-logo="" group-title="witv",Asianet News 1
 http://watchindia.net:8880/live/vvv/vvv/268.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News 2" tvg-logo="" group-title="witv",Asianet News 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet News 2(witv m3u8)" tvg-logo="" group-title="witv",Asianet News 2
 http://watchindia.net:8880/live/vvv/vvv/2035.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Plus 1" tvg-logo="" group-title="witv",Asianet Plus 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Plus 1(witv m3u8)" tvg-logo="" group-title="witv",Asianet Plus 1
 http://watchindia.net:8880/live/vvv/vvv/277.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Plus 2" tvg-logo="" group-title="witv",Asianet Plus 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asianet Plus 2(witv m3u8)" tvg-logo="" group-title="witv",Asianet Plus 2
 http://watchindia.net:8880/live/vvv/vvv/2240.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD 1" tvg-logo="" group-title="witv",Surya TV HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD 1(witv m3u8)" tvg-logo="" group-title="witv",Surya TV HD 1
 http://watchindia.net:8880/live/vvv/vvv/279.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD 2" tvg-logo="" group-title="witv",Surya TV HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD 2(witv m3u8)" tvg-logo="" group-title="witv",Surya TV HD 2
 http://watchindia.net:8880/live/vvv/vvv/2261.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD USA" tvg-logo="" group-title="witv",Surya TV HD USA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV HD USA(witv m3u8)" tvg-logo="" group-title="witv",Surya TV HD USA
 http://watchindia.net:8880/live/vvv/vvv/1938.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV" tvg-logo="" group-title="witv",Surya TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya TV(witv m3u8)" tvg-logo="" group-title="witv",Surya TV
 http://watchindia.net:8880/live/vvv/vvv/2322.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Comedy" tvg-logo="" group-title="witv",Surya Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Comedy(witv m3u8)" tvg-logo="" group-title="witv",Surya Comedy
 http://watchindia.net:8880/live/vvv/vvv/299.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Comedy USA" tvg-logo="" group-title="witv",Surya Comedy USA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Comedy USA(witv m3u8)" tvg-logo="" group-title="witv",Surya Comedy USA
 http://watchindia.net:8880/live/vvv/vvv/2020.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Movies" tvg-logo="" group-title="witv",Surya Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Movies(witv m3u8)" tvg-logo="" group-title="witv",Surya Movies
 http://watchindia.net:8880/live/vvv/vvv/298.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Movies USA" tvg-logo="" group-title="witv",Surya Movies USA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Movies USA(witv m3u8)" tvg-logo="" group-title="witv",Surya Movies USA
 http://watchindia.net:8880/live/vvv/vvv/2021.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Music" tvg-logo="" group-title="witv",Surya Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Surya Music(witv m3u8)" tvg-logo="" group-title="witv",Surya Music
 http://watchindia.net:8880/live/vvv/vvv/285.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD 1" tvg-logo="" group-title="witv",Mazhavil Manorama HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD 1(witv m3u8)" tvg-logo="" group-title="witv",Mazhavil Manorama HD 1
 http://watchindia.net:8880/live/vvv/vvv/280.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD 2" tvg-logo="" group-title="witv",Mazhavil Manorama HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD 2(witv m3u8)" tvg-logo="" group-title="witv",Mazhavil Manorama HD 2
 http://watchindia.net:8880/live/vvv/vvv/2231.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Keralam HD" tvg-logo="" group-title="witv",Zee Keralam HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Keralam HD(witv m3u8)" tvg-logo="" group-title="witv",Zee Keralam HD
 http://watchindia.net:8880/live/vvv/vvv/287.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV 1" tvg-logo="" group-title="witv",Flowers TV 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV 1(witv m3u8)" tvg-logo="" group-title="witv",Flowers TV 1
 http://watchindia.net:8880/live/vvv/vvv/2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV 2" tvg-logo="" group-title="witv",Flowers TV 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV 2(witv m3u8)" tvg-logo="" group-title="witv",Flowers TV 2
 http://watchindia.net:8880/live/vvv/vvv/2291.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News 1" tvg-logo="" group-title="witv",24 News 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News 1(witv m3u8)" tvg-logo="" group-title="witv",24 News 1
 http://watchindia.net:8880/live/vvv/vvv/1064.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News 2" tvg-logo="" group-title="witv",24 News 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 News 2(witv m3u8)" tvg-logo="" group-title="witv",24 News 2
 http://watchindia.net:8880/live/vvv/vvv/2082.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amrita" tvg-logo="" group-title="witv",Amrita
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amrita(witv m3u8)" tvg-logo="" group-title="witv",Amrita
 http://watchindia.net:8880/live/vvv/vvv/284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Darshana TV" tvg-logo="" group-title="witv",Darshana TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Darshana TV(witv m3u8)" tvg-logo="" group-title="witv",Darshana TV
 http://watchindia.net:8880/live/vvv/vvv/1315.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Malayalam" tvg-logo="" group-title="witv",DD Malayalam
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Malayalam(witv m3u8)" tvg-logo="" group-title="witv",DD Malayalam
 http://watchindia.net:8880/live/vvv/vvv/303.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garshom TV" tvg-logo="" group-title="witv",Garshom TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garshom TV(witv m3u8)" tvg-logo="" group-title="witv",Garshom TV
 http://watchindia.net:8880/live/vvv/vvv/1291.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goodness TV" tvg-logo="" group-title="witv",Goodness TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goodness TV(witv m3u8)" tvg-logo="" group-title="witv",Goodness TV
 http://watchindia.net:8880/live/vvv/vvv/2234.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harvest TV" tvg-logo="" group-title="witv",Harvest TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Harvest TV(witv m3u8)" tvg-logo="" group-title="witv",Harvest TV
 http://watchindia.net:8880/live/vvv/vvv/1303.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaihind" tvg-logo="" group-title="witv",Jaihind
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaihind(witv m3u8)" tvg-logo="" group-title="witv",Jaihind
 http://watchindia.net:8880/live/vvv/vvv/293.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janam TV" tvg-logo="" group-title="witv",Janam TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Janam TV(witv m3u8)" tvg-logo="" group-title="witv",Janam TV
 http://watchindia.net:8880/live/vvv/vvv/309.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV" tvg-logo="" group-title="witv",Jeevan TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeevan TV(witv m3u8)" tvg-logo="" group-title="witv",Jeevan TV
 http://watchindia.net:8880/live/vvv/vvv/300.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali Arabia" tvg-logo="" group-title="witv",Kairali Arabia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali Arabia(witv m3u8)" tvg-logo="" group-title="witv",Kairali Arabia
 http://watchindia.net:8880/live/vvv/vvv/2205.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali News" tvg-logo="" group-title="witv",Kairali News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali News(witv m3u8)" tvg-logo="" group-title="witv",Kairali News
 http://watchindia.net:8880/live/vvv/vvv/308.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali TV" tvg-logo="" group-title="witv",Kairali TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali TV(witv m3u8)" tvg-logo="" group-title="witv",Kairali TV
 http://watchindia.net:8880/live/vvv/vvv/307.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali We" tvg-logo="" group-title="witv",Kairali We
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali We(witv m3u8)" tvg-logo="" group-title="witv",Kairali We
 http://watchindia.net:8880/live/vvv/vvv/1761.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kappa TV" tvg-logo="" group-title="witv",Kappa TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kappa TV(witv m3u8)" tvg-logo="" group-title="witv",Kappa TV
 http://watchindia.net:8880/live/vvv/vvv/1762.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaumudy TV" tvg-logo="" group-title="witv",Kaumudy TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kaumudy TV(witv m3u8)" tvg-logo="" group-title="witv",Kaumudy TV
 http://watchindia.net:8880/live/vvv/vvv/305.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kochu TV" tvg-logo="" group-title="witv",Kochu TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kochu TV(witv m3u8)" tvg-logo="" group-title="witv",Kochu TV
 http://watchindia.net:8880/live/vvv/vvv/290.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magnavision TV" tvg-logo="" group-title="witv",Magnavision TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magnavision TV(witv m3u8)" tvg-logo="" group-title="witv",Magnavision TV
 http://watchindia.net:8880/live/vvv/vvv/2233.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malayalam Box Office" tvg-logo="" group-title="witv",Malayalam Box Office
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malayalam Box Office(witv m3u8)" tvg-logo="" group-title="witv",Malayalam Box Office
 http://watchindia.net:8880/live/vvv/vvv/2156.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manorama News" tvg-logo="" group-title="witv",Manorama News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manorama News(witv m3u8)" tvg-logo="" group-title="witv",Manorama News
 http://watchindia.net:8880/live/vvv/vvv/281.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mathrubhumi News" tvg-logo="" group-title="witv",Mathrubhumi News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mathrubhumi News(witv m3u8)" tvg-logo="" group-title="witv",Mathrubhumi News
 http://watchindia.net:8880/live/vvv/vvv/304.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Media One" tvg-logo="" group-title="witv",Media One
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Media One(witv m3u8)" tvg-logo="" group-title="witv",Media One
 http://watchindia.net:8880/live/vvv/vvv/302.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18" tvg-logo="" group-title="witv",News 18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18(witv m3u8)" tvg-logo="" group-title="witv",News 18
 http://watchindia.net:8880/live/vvv/vvv/301.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Powervision TV" tvg-logo="" group-title="witv",Powervision TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Powervision TV(witv m3u8)" tvg-logo="" group-title="witv",Powervision TV
 http://watchindia.net:8880/live/vvv/vvv/1290.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix" tvg-logo="" group-title="witv",Raj Musix
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix(witv m3u8)" tvg-logo="" group-title="witv",Raj Musix
 http://watchindia.net:8880/live/vvv/vvv/286.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News" tvg-logo="" group-title="witv",Raj News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News(witv m3u8)" tvg-logo="" group-title="witv",Raj News
 http://watchindia.net:8880/live/vvv/vvv/291.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV" tvg-logo="" group-title="witv",Reporter TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reporter TV(witv m3u8)" tvg-logo="" group-title="witv",Reporter TV
 http://watchindia.net:8880/live/vvv/vvv/306.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safari TV" tvg-logo="" group-title="witv",Safari TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safari TV(witv m3u8)" tvg-logo="" group-title="witv",Safari TV
 http://watchindia.net:8880/live/vvv/vvv/1301.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shalom TV" tvg-logo="" group-title="witv",Shalom TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shalom TV(witv m3u8)" tvg-logo="" group-title="witv",Shalom TV
 http://watchindia.net:8880/live/vvv/vvv/288.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD 1" tvg-logo="" group-title="witv",Colors TV HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD 1(witv m3u8)" tvg-logo="" group-title="witv",Colors TV HD 1
 http://watchindia.net:8880/live/vvv/vvv/801.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD 2" tvg-logo="" group-title="witv",Colors TV HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD 2(witv m3u8)" tvg-logo="" group-title="witv",Colors TV HD 2
 http://watchindia.net:8880/live/vvv/vvv/2264.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD UK" tvg-logo="" group-title="witv",Colors TV HD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors TV HD UK(witv m3u8)" tvg-logo="" group-title="witv",Colors TV HD UK
 http://watchindia.net:8880/live/vvv/vvv/2187.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey HD" tvg-logo="" group-title="witv",Colors Rishtey HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Rishtey HD(witv m3u8)" tvg-logo="" group-title="witv",Colors Rishtey HD
 http://watchindia.net:8880/live/vvv/vvv/830.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aapka Colors" tvg-logo="" group-title="witv",Aapka Colors
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aapka Colors(witv m3u8)" tvg-logo="" group-title="witv",Aapka Colors
 http://watchindia.net:8880/live/vvv/vvv/2320.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD 1" tvg-logo="" group-title="witv",Sony TV HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD 1(witv m3u8)" tvg-logo="" group-title="witv",Sony TV HD 1
 http://watchindia.net:8880/live/vvv/vvv/1969.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD 2" tvg-logo="" group-title="witv",Sony TV HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD 2(witv m3u8)" tvg-logo="" group-title="witv",Sony TV HD 2
 http://watchindia.net:8880/live/vvv/vvv/2141.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD UK" tvg-logo="" group-title="witv",Sony TV HD UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony TV HD UK(witv m3u8)" tvg-logo="" group-title="witv",Sony TV HD UK
 http://watchindia.net:8880/live/vvv/vvv/2117.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max 2" tvg-logo="" group-title="witv",Sony Max 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max 2(witv m3u8)" tvg-logo="" group-title="witv",Sony Max 2
 http://watchindia.net:8880/live/vvv/vvv/2024.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="witv",Sony Max HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD(witv m3u8)" tvg-logo="" group-title="witv",Sony Max HD
 http://watchindia.net:8880/live/vvv/vvv/788.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab UK" tvg-logo="" group-title="witv",Sony Sab UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sab UK(witv m3u8)" tvg-logo="" group-title="witv",Sony Sab UK
 http://watchindia.net:8880/live/vvv/vvv/2189.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal" tvg-logo="" group-title="witv",Sony Pal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pal(witv m3u8)" tvg-logo="" group-title="witv",Sony Pal
 http://watchindia.net:8880/live/vvv/vvv/812.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Wah" tvg-logo="" group-title="witv",Sony Wah
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Wah(witv m3u8)" tvg-logo="" group-title="witv",Sony Wah
 http://watchindia.net:8880/live/vvv/vvv/814.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay" tvg-logo="" group-title="witv",Sony Yay
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay(witv m3u8)" tvg-logo="" group-title="witv",Sony Yay
 http://watchindia.net:8880/live/vvv/vvv/2104.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD" tvg-logo="" group-title="witv",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony BBC Earth HD(witv m3u8)" tvg-logo="" group-title="witv",Sony BBC Earth HD
 http://watchindia.net:8880/live/vvv/vvv/789.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat HD" tvg-logo="" group-title="witv",Star Bharat HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Bharat HD(witv m3u8)" tvg-logo="" group-title="witv",Star Bharat HD
 http://watchindia.net:8880/live/vvv/vvv/780.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold India HD" tvg-logo="" group-title="witv",Star Gold India HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold India HD(witv m3u8)" tvg-logo="" group-title="witv",Star Gold India HD
 http://watchindia.net:8880/live/vvv/vvv/785.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD" tvg-logo="" group-title="witv",Star Gold Select HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Gold Select HD(witv m3u8)" tvg-logo="" group-title="witv",Star Gold Select HD
 http://watchindia.net:8880/live/vvv/vvv/784.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD 1" tvg-logo="" group-title="witv",Star Plus HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD 1(witv m3u8)" tvg-logo="" group-title="witv",Star Plus HD 1
 http://watchindia.net:8880/live/vvv/vvv/1924.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD 2" tvg-logo="" group-title="witv",Star Plus HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Plus HD 2(witv m3u8)" tvg-logo="" group-title="witv",Star Plus HD 2
 http://watchindia.net:8880/live/vvv/vvv/2278.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Pictures" tvg-logo="" group-title="witv",& Pictures
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Pictures(witv m3u8)" tvg-logo="" group-title="witv",& Pictures
 http://watchindia.net:8880/live/vvv/vvv/818.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Pictures HD" tvg-logo="" group-title="witv",& Pictures HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Pictures HD(witv m3u8)" tvg-logo="" group-title="witv",& Pictures HD
 http://watchindia.net:8880/live/vvv/vvv/783.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV HD" tvg-logo="" group-title="witv",& TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& TV HD(witv m3u8)" tvg-logo="" group-title="witv",& TV HD
 http://watchindia.net:8880/live/vvv/vvv/782.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&xplor HD" tvg-logo="" group-title="witv",&xplor HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="&xplor HD(witv m3u8)" tvg-logo="" group-title="witv",&xplor HD
 http://watchindia.net:8880/live/vvv/vvv/2204.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jalwa" tvg-logo="" group-title="witv",9X Jalwa
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jalwa(witv m3u8)" tvg-logo="" group-title="witv",9X Jalwa
 http://watchindia.net:8880/live/vvv/vvv/828.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM Music" tvg-logo="" group-title="witv",9XM Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM Music(witv m3u8)" tvg-logo="" group-title="witv",9XM Music
 http://watchindia.net:8880/live/vvv/vvv/827.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak HD" tvg-logo="" group-title="witv",Aaj Tak HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj Tak HD(witv m3u8)" tvg-logo="" group-title="witv",Aaj Tak HD
 http://watchindia.net:8880/live/vvv/vvv/807.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aastha TV UK" tvg-logo="" group-title="witv",Aastha TV UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aastha TV UK(witv m3u8)" tvg-logo="" group-title="witv",Aastha TV UK
 http://watchindia.net:8880/live/vvv/vvv/2150.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News" tvg-logo="" group-title="witv",ABP News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP News(witv m3u8)" tvg-logo="" group-title="witv",ABP News
 http://watchindia.net:8880/live/vvv/vvv/833.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music" tvg-logo="" group-title="witv",B4U Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Music(witv m3u8)" tvg-logo="" group-title="witv",B4U Music
 http://watchindia.net:8880/live/vvv/vvv/2113.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Plus" tvg-logo="" group-title="witv",B4U Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Plus(witv m3u8)" tvg-logo="" group-title="witv",B4U Plus
 http://watchindia.net:8880/live/vvv/vvv/823.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Box Office" tvg-logo="" group-title="witv",Bollywood Box Office
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Box Office(witv m3u8)" tvg-logo="" group-title="witv",Bollywood Box Office
 http://watchindia.net:8880/live/vvv/vvv/2157.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood BoxOffice HD" tvg-logo="" group-title="witv",Bollywood BoxOffice HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood BoxOffice HD(witv m3u8)" tvg-logo="" group-title="witv",Bollywood BoxOffice HD
 http://watchindia.net:8880/live/vvv/vvv/819.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Dilse HD" tvg-logo="" group-title="witv",Bollywood Dilse HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Dilse HD(witv m3u8)" tvg-logo="" group-title="witv",Bollywood Dilse HD
 http://watchindia.net:8880/live/vvv/vvv/795.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Pop HD" tvg-logo="" group-title="witv",Bollywood Pop HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Pop HD(witv m3u8)" tvg-logo="" group-title="witv",Bollywood Pop HD
 http://watchindia.net:8880/live/vvv/vvv/797.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Premier HD" tvg-logo="" group-title="witv",Bollywood Premier HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Premier HD(witv m3u8)" tvg-logo="" group-title="witv",Bollywood Premier HD
 http://watchindia.net:8880/live/vvv/vvv/800.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cineplex HD" tvg-logo="" group-title="witv",Cineplex HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cineplex HD(witv m3u8)" tvg-logo="" group-title="witv",Cineplex HD
 http://watchindia.net:8880/live/vvv/vvv/803.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilli Aaj Tak" tvg-logo="" group-title="witv",Dilli Aaj Tak
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dilli Aaj Tak(witv m3u8)" tvg-logo="" group-title="witv",Dilli Aaj Tak
 http://watchindia.net:8880/live/vvv/vvv/836.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Hindi" tvg-logo="" group-title="witv",Discovery Channel Hindi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel Hindi(witv m3u8)" tvg-logo="" group-title="witv",Discovery Channel Hindi
 http://watchindia.net:8880/live/vvv/vvv/841.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World HD" tvg-logo="" group-title="witv",Discovery World HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery World HD(witv m3u8)" tvg-logo="" group-title="witv",Discovery World HD
 http://watchindia.net:8880/live/vvv/vvv/793.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24" tvg-logo="" group-title="witv",E24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E24(witv m3u8)" tvg-logo="" group-title="witv",E24
 http://watchindia.net:8880/live/vvv/vvv/829.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic HD" tvg-logo="" group-title="witv",Epic HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Epic HD(witv m3u8)" tvg-logo="" group-title="witv",Epic HD
 http://watchindia.net:8880/live/vvv/vvv/794.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV18 HD" tvg-logo="" group-title="witv",History TV18 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History TV18 HD(witv m3u8)" tvg-logo="" group-title="witv",History TV18 HD
 http://watchindia.net:8880/live/vvv/vvv/791.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India Today TV" tvg-logo="" group-title="witv",India Today TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India Today TV(witv m3u8)" tvg-logo="" group-title="witv",India Today TV
 http://watchindia.net:8880/live/vvv/vvv/835.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kadak Hits HD" tvg-logo="" group-title="witv",Kadak Hits HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kadak Hits HD(witv m3u8)" tvg-logo="" group-title="witv",Kadak Hits HD
 http://watchindia.net:8880/live/vvv/vvv/798.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies" tvg-logo="" group-title="witv",Manoranjan Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manoranjan Movies(witv m3u8)" tvg-logo="" group-title="witv",Manoranjan Movies
 http://watchindia.net:8880/live/vvv/vvv/804.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="" group-title="witv",Mastiii
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii(witv m3u8)" tvg-logo="" group-title="witv",Mastiii
 http://watchindia.net:8880/live/vvv/vvv/826.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="witv",MTV Beats HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD(witv m3u8)" tvg-logo="" group-title="witv",MTV Beats HD
 http://watchindia.net:8880/live/vvv/vvv/786.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hindi" tvg-logo="" group-title="witv",MTV Hindi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hindi(witv m3u8)" tvg-logo="" group-title="witv",MTV Hindi
 http://watchindia.net:8880/live/vvv/vvv/825.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="" group-title="witv",Music India
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India(witv m3u8)" tvg-logo="" group-title="witv",Music India
 http://watchindia.net:8880/live/vvv/vvv/2293.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD" tvg-logo="" group-title="witv",National Geographic HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic HD(witv m3u8)" tvg-logo="" group-title="witv",National Geographic HD
 http://watchindia.net:8880/live/vvv/vvv/790.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News" tvg-logo="" group-title="witv",NDTV News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News(witv m3u8)" tvg-logo="" group-title="witv",NDTV News
 http://watchindia.net:8880/live/vvv/vvv/831.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV Profit" tvg-logo="" group-title="witv",NDTV Profit
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV Profit(witv m3u8)" tvg-logo="" group-title="witv",NDTV Profit
 http://watchindia.net:8880/live/vvv/vvv/837.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Nation" tvg-logo="" group-title="witv",News Nation
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News Nation(witv m3u8)" tvg-logo="" group-title="witv",News Nation
 http://watchindia.net:8880/live/vvv/vvv/838.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD Plus" tvg-logo="" group-title="witv",Nick HD Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick HD Plus(witv m3u8)" tvg-logo="" group-title="witv",Nick HD Plus
 http://watchindia.net:8880/live/vvv/vvv/2237.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Hindi" tvg-logo="" group-title="witv",Nick Hindi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Hindi(witv m3u8)" tvg-logo="" group-title="witv",Nick Hindi
 http://watchindia.net:8880/live/vvv/vvv/2182.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic Bharat" tvg-logo="" group-title="witv",Republic Bharat
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic Bharat(witv m3u8)" tvg-logo="" group-title="witv",Republic Bharat
 http://watchindia.net:8880/live/vvv/vvv/817.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic TV News" tvg-logo="" group-title="witv",Republic TV News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Republic TV News(witv m3u8)" tvg-logo="" group-title="witv",Republic TV News
 http://watchindia.net:8880/live/vvv/vvv/815.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanskar TV" tvg-logo="" group-title="witv",Sanskar TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sanskar TV(witv m3u8)" tvg-logo="" group-title="witv",Sanskar TV
 http://watchindia.net:8880/live/vvv/vvv/2151.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now" tvg-logo="" group-title="witv",Times Now
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times Now(witv m3u8)" tvg-logo="" group-title="witv",Times Now
 http://watchindia.net:8880/live/vvv/vvv/839.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC Hindi" tvg-logo="" group-title="witv",TLC Hindi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC Hindi(witv m3u8)" tvg-logo="" group-title="witv",TLC Hindi
 http://watchindia.net:8880/live/vvv/vvv/840.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TravelXP HD" tvg-logo="" group-title="witv",TravelXP HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TravelXP HD(witv m3u8)" tvg-logo="" group-title="witv",TravelXP HD
 http://watchindia.net:8880/live/vvv/vvv/792.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 News" tvg-logo="" group-title="witv",TV9 News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 News(witv m3u8)" tvg-logo="" group-title="witv",TV9 News
 http://watchindia.net:8880/live/vvv/vvv/834.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsav Gold UK" tvg-logo="" group-title="witv",Utsav Gold UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsav Gold UK(witv m3u8)" tvg-logo="" group-title="witv",Utsav Gold UK
 http://watchindia.net:8880/live/vvv/vvv/2300.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsav Plus UK" tvg-logo="" group-title="witv",Utsav Plus UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Utsav Plus UK(witv m3u8)" tvg-logo="" group-title="witv",Utsav Plus UK
 http://watchindia.net:8880/live/vvv/vvv/1925.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action" tvg-logo="" group-title="witv",UTV Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV Action(witv m3u8)" tvg-logo="" group-title="witv",UTV Action
 http://watchindia.net:8880/live/vvv/vvv/805.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="witv",UTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD(witv m3u8)" tvg-logo="" group-title="witv",UTV HD
 http://watchindia.net:8880/live/vvv/vvv/811.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wion News" tvg-logo="" group-title="witv",Wion News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wion News(witv m3u8)" tvg-logo="" group-title="witv",Wion News
 http://watchindia.net:8880/live/vvv/vvv/816.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action" tvg-logo="" group-title="witv",Zee Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Action(witv m3u8)" tvg-logo="" group-title="witv",Zee Action
 http://watchindia.net:8880/live/vvv/vvv/821.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol" tvg-logo="" group-title="witv",Zee Anmol
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol(witv m3u8)" tvg-logo="" group-title="witv",Zee Anmol
 http://watchindia.net:8880/live/vvv/vvv/813.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema" tvg-logo="" group-title="witv",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Anmol Cinema(witv m3u8)" tvg-logo="" group-title="witv",Zee Anmol Cinema
 http://watchindia.net:8880/live/vvv/vvv/820.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood" tvg-logo="" group-title="witv",Zee Bollywood
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bollywood(witv m3u8)" tvg-logo="" group-title="witv",Zee Bollywood
 http://watchindia.net:8880/live/vvv/vvv/822.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD" tvg-logo="" group-title="witv",Zee Cinema HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinema HD(witv m3u8)" tvg-logo="" group-title="witv",Zee Cinema HD
 http://watchindia.net:8880/live/vvv/vvv/787.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Classic" tvg-logo="" group-title="witv",Zee Classic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Classic(witv m3u8)" tvg-logo="" group-title="witv",Zee Classic
 http://watchindia.net:8880/live/vvv/vvv/802.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee News" tvg-logo="" group-title="witv",Zee News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee News(witv m3u8)" tvg-logo="" group-title="witv",Zee News
 http://watchindia.net:8880/live/vvv/vvv/832.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD" tvg-logo="" group-title="witv",Zee TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD(witv m3u8)" tvg-logo="" group-title="witv",Zee TV HD
 http://watchindia.net:8880/live/vvv/vvv/1970.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD USA" tvg-logo="" group-title="witv",Zee TV HD USA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TV HD USA(witv m3u8)" tvg-logo="" group-title="witv",Zee TV HD USA
 http://watchindia.net:8880/live/vvv/vvv/1971.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Zest HD" tvg-logo="" group-title="witv",Zee Zest HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Zest HD(witv m3u8)" tvg-logo="" group-title="witv",Zee Zest HD
 http://watchindia.net:8880/live/vvv/vvv/2359.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom" tvg-logo="" group-title="witv",Zoom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zoom(witv m3u8)" tvg-logo="" group-title="witv",Zoom
 http://watchindia.net:8880/live/vvv/vvv/842.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun TV HD" tvg-logo="" group-title="witv",Sun TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun TV HD(witv m3u8)" tvg-logo="" group-title="witv",Sun TV HD
 http://watchindia.net:8880/live/vvv/vvv/843.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun TV HD USA" tvg-logo="" group-title="witv",Sun TV HD USA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun TV HD USA(witv m3u8)" tvg-logo="" group-title="witv",Sun TV HD USA
 http://watchindia.net:8880/live/vvv/vvv/2089.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Life" tvg-logo="" group-title="witv",Sun Life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Life(witv m3u8)" tvg-logo="" group-title="witv",Sun Life
 http://watchindia.net:8880/live/vvv/vvv/847.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Music HD" tvg-logo="" group-title="witv",Sun Music HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Music HD(witv m3u8)" tvg-logo="" group-title="witv",Sun Music HD
 http://watchindia.net:8880/live/vvv/vvv/844.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun News" tvg-logo="" group-title="witv",Sun News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun News(witv m3u8)" tvg-logo="" group-title="witv",Sun News
 http://watchindia.net:8880/live/vvv/vvv/869.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay HD 1" tvg-logo="" group-title="witv",Star Vijay HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay HD 1(witv m3u8)" tvg-logo="" group-title="witv",Star Vijay HD 1
 http://watchindia.net:8880/live/vvv/vvv/846.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay HD 2" tvg-logo="" group-title="witv",Star Vijay HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay HD 2(witv m3u8)" tvg-logo="" group-title="witv",Star Vijay HD 2
 http://watchindia.net:8880/live/vvv/vvv/2140.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay Super" tvg-logo="" group-title="witv",Star Vijay Super
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Vijay Super(witv m3u8)" tvg-logo="" group-title="witv",Star Vijay Super
 http://watchindia.net:8880/live/vvv/vvv/2190.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adithya TV" tvg-logo="" group-title="witv",Adithya TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adithya TV(witv m3u8)" tvg-logo="" group-title="witv",Adithya TV
 http://watchindia.net:8880/live/vvv/vvv/855.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel TV HD" tvg-logo="" group-title="witv",Angel TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Angel TV HD(witv m3u8)" tvg-logo="" group-title="witv",Angel TV HD
 http://watchindia.net:8880/live/vvv/vvv/862.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain News" tvg-logo="" group-title="witv",Captain News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain News(witv m3u8)" tvg-logo="" group-title="witv",Captain News
 http://watchindia.net:8880/live/vvv/vvv/878.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain TV" tvg-logo="" group-title="witv",Captain TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Captain TV(witv m3u8)" tvg-logo="" group-title="witv",Captain TV
 http://watchindia.net:8880/live/vvv/vvv/876.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chutti TV" tvg-logo="" group-title="witv",Chutti TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chutti TV(witv m3u8)" tvg-logo="" group-title="witv",Chutti TV
 http://watchindia.net:8880/live/vvv/vvv/882.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Tamil HD" tvg-logo="" group-title="witv",Colors Tamil HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Tamil HD(witv m3u8)" tvg-logo="" group-title="witv",Colors Tamil HD
 http://watchindia.net:8880/live/vvv/vvv/2083.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dan News" tvg-logo="" group-title="witv",Dan News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dan News(witv m3u8)" tvg-logo="" group-title="witv",Dan News
 http://watchindia.net:8880/live/vvv/vvv/859.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Tamil" tvg-logo="" group-title="witv",Discovery Tamil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Tamil(witv m3u8)" tvg-logo="" group-title="witv",Discovery Tamil
 http://watchindia.net:8880/live/vvv/vvv/2085.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isaiaruvi TV" tvg-logo="" group-title="witv",Isaiaruvi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Isaiaruvi TV(witv m3u8)" tvg-logo="" group-title="witv",Isaiaruvi TV
 http://watchindia.net:8880/live/vvv/vvv/2149.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Max" tvg-logo="" group-title="witv",Jaya Max
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Max(witv m3u8)" tvg-logo="" group-title="witv",Jaya Max
 http://watchindia.net:8880/live/vvv/vvv/852.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Movie" tvg-logo="" group-title="witv",Jaya Movie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Movie(witv m3u8)" tvg-logo="" group-title="witv",Jaya Movie
 http://watchindia.net:8880/live/vvv/vvv/849.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Plus" tvg-logo="" group-title="witv",Jaya Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya Plus(witv m3u8)" tvg-logo="" group-title="witv",Jaya Plus
 http://watchindia.net:8880/live/vvv/vvv/850.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya TV HD" tvg-logo="" group-title="witv",Jaya TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jaya TV HD(witv m3u8)" tvg-logo="" group-title="witv",Jaya TV HD
 http://watchindia.net:8880/live/vvv/vvv/851.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kalaignar TV" tvg-logo="" group-title="witv",Kalaignar TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kalaignar TV(witv m3u8)" tvg-logo="" group-title="witv",Kalaignar TV
 http://watchindia.net:8880/live/vvv/vvv/2148.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kollywood Box Office" tvg-logo="" group-title="witv",Kollywood Box Office
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kollywood Box Office(witv m3u8)" tvg-logo="" group-title="witv",Kollywood Box Office
 http://watchindia.net:8880/live/vvv/vvv/2152.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD" tvg-logo="" group-title="witv",KTV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV HD(witv m3u8)" tvg-logo="" group-title="witv",KTV HD
 http://watchindia.net:8880/live/vvv/vvv/845.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madha TV" tvg-logo="" group-title="witv",Madha TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madha TV(witv m3u8)" tvg-logo="" group-title="witv",Madha TV
 http://watchindia.net:8880/live/vvv/vvv/875.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkal TV" tvg-logo="" group-title="witv",Makkal TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Makkal TV(witv m3u8)" tvg-logo="" group-title="witv",Makkal TV
 http://watchindia.net:8880/live/vvv/vvv/871.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Murasu TV" tvg-logo="" group-title="witv",Murasu TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Murasu TV(witv m3u8)" tvg-logo="" group-title="witv",Murasu TV
 http://watchindia.net:8880/live/vvv/vvv/880.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nambikkai TV" tvg-logo="" group-title="witv",Nambikkai TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nambikkai TV(witv m3u8)" tvg-logo="" group-title="witv",Nambikkai TV
 http://watchindia.net:8880/live/vvv/vvv/856.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18" tvg-logo="" group-title="witv",News 18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18(witv m3u8)" tvg-logo="" group-title="witv",News 18
 http://watchindia.net:8880/live/vvv/vvv/873.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 7" tvg-logo="" group-title="witv",News 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 7(witv m3u8)" tvg-logo="" group-title="witv",News 7
 http://watchindia.net:8880/live/vvv/vvv/867.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Tamil" tvg-logo="" group-title="witv",Nick Tamil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Tamil(witv m3u8)" tvg-logo="" group-title="witv",Nick Tamil
 http://watchindia.net:8880/live/vvv/vvv/2181.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppers" tvg-logo="" group-title="witv",Peppers
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppers(witv m3u8)" tvg-logo="" group-title="witv",Peppers
 http://watchindia.net:8880/live/vvv/vvv/870.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer News" tvg-logo="" group-title="witv",Polimer News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer News(witv m3u8)" tvg-logo="" group-title="witv",Polimer News
 http://watchindia.net:8880/live/vvv/vvv/877.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer TV" tvg-logo="" group-title="witv",Polimer TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Polimer TV(witv m3u8)" tvg-logo="" group-title="witv",Polimer TV
 http://watchindia.net:8880/live/vvv/vvv/2147.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthiya Thalaimurai" tvg-logo="" group-title="witv",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthiya Thalaimurai(witv m3u8)" tvg-logo="" group-title="witv",Puthiya Thalaimurai
 http://watchindia.net:8880/live/vvv/vvv/879.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthuyugam TV" tvg-logo="" group-title="witv",Puthuyugam TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Puthuyugam TV(witv m3u8)" tvg-logo="" group-title="witv",Puthuyugam TV
 http://watchindia.net:8880/live/vvv/vvv/865.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus" tvg-logo="" group-title="witv",Raj Digital Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Digital Plus(witv m3u8)" tvg-logo="" group-title="witv",Raj Digital Plus
 http://watchindia.net:8880/live/vvv/vvv/857.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Tamil" tvg-logo="" group-title="witv",Raj Musix Tamil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Tamil(witv m3u8)" tvg-logo="" group-title="witv",Raj Musix Tamil
 http://watchindia.net:8880/live/vvv/vvv/861.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News 24x7" tvg-logo="" group-title="witv",Raj News 24x7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News 24x7(witv m3u8)" tvg-logo="" group-title="witv",Raj News 24x7
 http://watchindia.net:8880/live/vvv/vvv/853.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj TV" tvg-logo="" group-title="witv",Raj TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj TV(witv m3u8)" tvg-logo="" group-title="witv",Raj TV
 http://watchindia.net:8880/live/vvv/vvv/854.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sirippoli TV" tvg-logo="" group-title="witv",Sirippoli TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sirippoli TV(witv m3u8)" tvg-logo="" group-title="witv",Sirippoli TV
 http://watchindia.net:8880/live/vvv/vvv/2084.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay Tamil" tvg-logo="" group-title="witv",Sony Yay Tamil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay Tamil(witv m3u8)" tvg-logo="" group-title="witv",Sony Yay Tamil
 http://watchindia.net:8880/live/vvv/vvv/2125.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sri Sankara TV" tvg-logo="" group-title="witv",Sri Sankara TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sri Sankara TV(witv m3u8)" tvg-logo="" group-title="witv",Sri Sankara TV
 http://watchindia.net:8880/live/vvv/vvv/2164.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="witv",Tamil Vision TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV(witv m3u8)" tvg-logo="" group-title="witv",Tamil Vision TV
 http://watchindia.net:8880/live/vvv/vvv/863.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="" group-title="witv",Thanthi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV(witv m3u8)" tvg-logo="" group-title="witv",Thanthi TV
 http://watchindia.net:8880/live/vvv/vvv/860.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP Tamil" tvg-logo="" group-title="witv",Travel XP Tamil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP Tamil(witv m3u8)" tvg-logo="" group-title="witv",Travel XP Tamil
 http://watchindia.net:8880/live/vvv/vvv/872.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasanth TV" tvg-logo="" group-title="witv",Vasanth TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vasanth TV(witv m3u8)" tvg-logo="" group-title="witv",Vasanth TV
 http://watchindia.net:8880/live/vvv/vvv/858.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vendhar TV" tvg-logo="" group-title="witv",Vendhar TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vendhar TV(witv m3u8)" tvg-logo="" group-title="witv",Vendhar TV
 http://watchindia.net:8880/live/vvv/vvv/2146.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tamil" tvg-logo="" group-title="witv",Zee Tamil
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Tamil(witv m3u8)" tvg-logo="" group-title="witv",Zee Tamil
 http://watchindia.net:8880/live/vvv/vvv/887.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Thirai" tvg-logo="" group-title="witv",Zee Thirai
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Thirai(witv m3u8)" tvg-logo="" group-title="witv",Zee Thirai
 http://watchindia.net:8880/live/vvv/vvv/2142.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD 1" tvg-logo="" group-title="witv",Star Maa HD 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD 1(witv m3u8)" tvg-logo="" group-title="witv",Star Maa HD 1
 http://watchindia.net:8880/live/vvv/vvv/933.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD 2" tvg-logo="" group-title="witv",Star Maa HD 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa HD 2(witv m3u8)" tvg-logo="" group-title="witv",Star Maa HD 2
 http://watchindia.net:8880/live/vvv/vvv/2168.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies HD" tvg-logo="" group-title="witv",Star Maa Movies HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Movies HD(witv m3u8)" tvg-logo="" group-title="witv",Star Maa Movies HD
 http://watchindia.net:8880/live/vvv/vvv/934.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Music" tvg-logo="" group-title="witv",Star Maa Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Music(witv m3u8)" tvg-logo="" group-title="witv",Star Maa Music
 http://watchindia.net:8880/live/vvv/vvv/2192.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold" tvg-logo="" group-title="witv",Star Maa Gold
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Maa Gold(witv m3u8)" tvg-logo="" group-title="witv",Star Maa Gold
 http://watchindia.net:8880/live/vvv/vvv/935.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini TV" tvg-logo="" group-title="witv",Gemini TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini TV(witv m3u8)" tvg-logo="" group-title="witv",Gemini TV
 http://watchindia.net:8880/live/vvv/vvv/928.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Comedy" tvg-logo="" group-title="witv",Gemini Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Comedy(witv m3u8)" tvg-logo="" group-title="witv",Gemini Comedy
 http://watchindia.net:8880/live/vvv/vvv/971.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD" tvg-logo="" group-title="witv",Gemini Movies HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Movies HD(witv m3u8)" tvg-logo="" group-title="witv",Gemini Movies HD
 http://watchindia.net:8880/live/vvv/vvv/930.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music HD" tvg-logo="" group-title="witv",Gemini Music HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Music HD(witv m3u8)" tvg-logo="" group-title="witv",Gemini Music HD
 http://watchindia.net:8880/live/vvv/vvv/929.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Life HD" tvg-logo="" group-title="witv",Gemini Life HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini Life HD(witv m3u8)" tvg-logo="" group-title="witv",Gemini Life HD
 http://watchindia.net:8880/live/vvv/vvv/931.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini News" tvg-logo="" group-title="witv",Gemini News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gemini News(witv m3u8)" tvg-logo="" group-title="witv",Gemini News
 http://watchindia.net:8880/live/vvv/vvv/973.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV" tvg-logo="" group-title="witv",10 TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="10 TV(witv m3u8)" tvg-logo="" group-title="witv",10 TV
 http://watchindia.net:8880/live/vvv/vvv/981.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN News" tvg-logo="" group-title="witv",ABN News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABN News(witv m3u8)" tvg-logo="" group-title="witv",ABN News
 http://watchindia.net:8880/live/vvv/vvv/980.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bhakti TV" tvg-logo="" group-title="witv",Bhakti TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bhakti TV(witv m3u8)" tvg-logo="" group-title="witv",Bhakti TV
 http://watchindia.net:8880/live/vvv/vvv/977.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CVR News" tvg-logo="" group-title="witv",CVR News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CVR News(witv m3u8)" tvg-logo="" group-title="witv",CVR News
 http://watchindia.net:8880/live/vvv/vvv/975.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Saptagiri" tvg-logo="" group-title="witv",DD Saptagiri
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Saptagiri(witv m3u8)" tvg-logo="" group-title="witv",DD Saptagiri
 http://watchindia.net:8880/live/vvv/vvv/974.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="" group-title="witv",ETV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD(witv m3u8)" tvg-logo="" group-title="witv",ETV HD
 http://watchindia.net:8880/live/vvv/vvv/936.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD" tvg-logo="" group-title="witv",ETV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV HD(witv m3u8)" tvg-logo="" group-title="witv",ETV HD
 http://watchindia.net:8880/live/vvv/vvv/2203.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Life" tvg-logo="" group-title="witv",ETV Life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Life(witv m3u8)" tvg-logo="" group-title="witv",ETV Life
 http://watchindia.net:8880/live/vvv/vvv/938.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus" tvg-logo="" group-title="witv",ETV Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV Plus(witv m3u8)" tvg-logo="" group-title="witv",ETV Plus
 http://watchindia.net:8880/live/vvv/vvv/937.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV News" tvg-logo="" group-title="witv",NTV News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV News(witv m3u8)" tvg-logo="" group-title="witv",NTV News
 http://watchindia.net:8880/live/vvv/vvv/2193.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Telugu" tvg-logo="" group-title="witv",Raj Musix Telugu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Telugu(witv m3u8)" tvg-logo="" group-title="witv",Raj Musix Telugu
 http://watchindia.net:8880/live/vvv/vvv/957.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News Telugu" tvg-logo="" group-title="witv",Raj News Telugu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News Telugu(witv m3u8)" tvg-logo="" group-title="witv",Raj News Telugu
 http://watchindia.net:8880/live/vvv/vvv/956.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV" tvg-logo="" group-title="witv",Sakshi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sakshi TV(witv m3u8)" tvg-logo="" group-title="witv",Sakshi TV
 http://watchindia.net:8880/live/vvv/vvv/955.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay Telugu" tvg-logo="" group-title="witv",Sony Yay Telugu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Yay Telugu(witv m3u8)" tvg-logo="" group-title="witv",Sony Yay Telugu
 http://watchindia.net:8880/live/vvv/vvv/2126.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T News" tvg-logo="" group-title="witv",T News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T News(witv m3u8)" tvg-logo="" group-title="witv",T News
 http://watchindia.net:8880/live/vvv/vvv/949.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu Box Office" tvg-logo="" group-title="witv",Telugu Box Office
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telugu Box Office(witv m3u8)" tvg-logo="" group-title="witv",Telugu Box Office
 http://watchindia.net:8880/live/vvv/vvv/2155.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV" tvg-logo="" group-title="witv",Thanthi TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thanthi TV(witv m3u8)" tvg-logo="" group-title="witv",Thanthi TV
 http://watchindia.net:8880/live/vvv/vvv/947.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="" group-title="witv",TV9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9(witv m3u8)" tvg-logo="" group-title="witv",TV9
 http://watchindia.net:8880/live/vvv/vvv/945.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V6 News" tvg-logo="" group-title="witv",V6 News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V6 News(witv m3u8)" tvg-logo="" group-title="witv",V6 News
 http://watchindia.net:8880/live/vvv/vvv/943.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vissa TV" tvg-logo="" group-title="witv",Vissa TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vissa TV(witv m3u8)" tvg-logo="" group-title="witv",Vissa TV
 http://watchindia.net:8880/live/vvv/vvv/942.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu" tvg-logo="" group-title="witv",Zee Cinemalu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Cinemalu(witv m3u8)" tvg-logo="" group-title="witv",Zee Cinemalu
 http://watchindia.net:8880/live/vvv/vvv/941.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu" tvg-logo="" group-title="witv",Zee Telugu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Telugu(witv m3u8)" tvg-logo="" group-title="witv",Zee Telugu
 http://watchindia.net:8880/live/vvv/vvv/940.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD Kannada" tvg-logo="" group-title="witv",Colors HD Kannada
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD Kannada(witv m3u8)" tvg-logo="" group-title="witv",Colors HD Kannada
 http://watchindia.net:8880/live/vvv/vvv/982.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Super HD" tvg-logo="" group-title="witv",Colors Super HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Super HD(witv m3u8)" tvg-logo="" group-title="witv",Colors Super HD
 http://watchindia.net:8880/live/vvv/vvv/983.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Cinema" tvg-logo="" group-title="witv",Colors Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Cinema(witv m3u8)" tvg-logo="" group-title="witv",Colors Cinema
 http://watchindia.net:8880/live/vvv/vvv/2158.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prajaa TV" tvg-logo="" group-title="witv",Prajaa TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prajaa TV(witv m3u8)" tvg-logo="" group-title="witv",Prajaa TV
 http://watchindia.net:8880/live/vvv/vvv/997.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public TV" tvg-logo="" group-title="witv",Public TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public TV(witv m3u8)" tvg-logo="" group-title="witv",Public TV
 http://watchindia.net:8880/live/vvv/vvv/996.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Kannada" tvg-logo="" group-title="witv",Raj Musix Kannada
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj Musix Kannada(witv m3u8)" tvg-logo="" group-title="witv",Raj Musix Kannada
 http://watchindia.net:8880/live/vvv/vvv/993.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News Kannada" tvg-logo="" group-title="witv",Raj News Kannada
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raj News Kannada(witv m3u8)" tvg-logo="" group-title="witv",Raj News Kannada
 http://watchindia.net:8880/live/vvv/vvv/995.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna HD" tvg-logo="" group-title="witv",Suvarna HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna HD(witv m3u8)" tvg-logo="" group-title="witv",Suvarna HD
 http://watchindia.net:8880/live/vvv/vvv/985.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna News" tvg-logo="" group-title="witv",Suvarna News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna News(witv m3u8)" tvg-logo="" group-title="witv",Suvarna News
 http://watchindia.net:8880/live/vvv/vvv/990.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna Plus" tvg-logo="" group-title="witv",Suvarna Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suvarna Plus(witv m3u8)" tvg-logo="" group-title="witv",Suvarna Plus
 http://watchindia.net:8880/live/vvv/vvv/984.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 News" tvg-logo="" group-title="witv",TV5 News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 News(witv m3u8)" tvg-logo="" group-title="witv",TV5 News
 http://watchindia.net:8880/live/vvv/vvv/987.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 News" tvg-logo="" group-title="witv",TV9 News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 News(witv m3u8)" tvg-logo="" group-title="witv",TV9 News
 http://watchindia.net:8880/live/vvv/vvv/986.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Comedy" tvg-logo="" group-title="witv",Udaya Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Comedy(witv m3u8)" tvg-logo="" group-title="witv",Udaya Comedy
 http://watchindia.net:8880/live/vvv/vvv/988.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya HD" tvg-logo="" group-title="witv",Udaya HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya HD(witv m3u8)" tvg-logo="" group-title="witv",Udaya HD
 http://watchindia.net:8880/live/vvv/vvv/1002.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Movies" tvg-logo="" group-title="witv",Udaya Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Movies(witv m3u8)" tvg-logo="" group-title="witv",Udaya Movies
 http://watchindia.net:8880/live/vvv/vvv/1004.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Music" tvg-logo="" group-title="witv",Udaya Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Udaya Music(witv m3u8)" tvg-logo="" group-title="witv",Udaya Music
 http://watchindia.net:8880/live/vvv/vvv/1003.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Kannada" tvg-logo="" group-title="witv",Zee Kannada
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Kannada(witv m3u8)" tvg-logo="" group-title="witv",Zee Kannada
 http://watchindia.net:8880/live/vvv/vvv/1001.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jhakaas" tvg-logo="" group-title="witv",9X Jhakaas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jhakaas(witv m3u8)" tvg-logo="" group-title="witv",9X Jhakaas
 http://watchindia.net:8880/live/vvv/vvv/926.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Majha" tvg-logo="" group-title="witv",ABP Majha
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Majha(witv m3u8)" tvg-logo="" group-title="witv",ABP Majha
 http://watchindia.net:8880/live/vvv/vvv/925.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD Marathi" tvg-logo="" group-title="witv",Colors HD Marathi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors HD Marathi(witv m3u8)" tvg-logo="" group-title="witv",Colors HD Marathi
 http://watchindia.net:8880/live/vvv/vvv/912.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sahyadri" tvg-logo="" group-title="witv",DD Sahyadri
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Sahyadri(witv m3u8)" tvg-logo="" group-title="witv",DD Sahyadri
 http://watchindia.net:8880/live/vvv/vvv/927.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fakt" tvg-logo="" group-title="witv",Fakt
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fakt(witv m3u8)" tvg-logo="" group-title="witv",Fakt
 http://watchindia.net:8880/live/vvv/vvv/924.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maiboli" tvg-logo="" group-title="witv",Maiboli
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maiboli(witv m3u8)" tvg-logo="" group-title="witv",Maiboli
 http://watchindia.net:8880/live/vvv/vvv/923.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 Lokmat" tvg-logo="" group-title="witv",News 18 Lokmat
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 18 Lokmat(witv m3u8)" tvg-logo="" group-title="witv",News 18 Lokmat
 http://watchindia.net:8880/live/vvv/vvv/922.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saam" tvg-logo="" group-title="witv",Saam
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saam(witv m3u8)" tvg-logo="" group-title="witv",Saam
 http://watchindia.net:8880/live/vvv/vvv/921.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet" tvg-logo="" group-title="witv",Sangeet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet(witv m3u8)" tvg-logo="" group-title="witv",Sangeet
 http://watchindia.net:8880/live/vvv/vvv/920.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Marathi" tvg-logo="" group-title="witv",Sony Marathi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Marathi(witv m3u8)" tvg-logo="" group-title="witv",Sony Marathi
 http://watchindia.net:8880/live/vvv/vvv/919.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Pravah HD" tvg-logo="" group-title="witv",Star Pravah HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Pravah HD(witv m3u8)" tvg-logo="" group-title="witv",Star Pravah HD
 http://watchindia.net:8880/live/vvv/vvv/918.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="" group-title="witv",TV9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9(witv m3u8)" tvg-logo="" group-title="witv",TV9
 http://watchindia.net:8880/live/vvv/vvv/917.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Taas" tvg-logo="" group-title="witv",Zee 24 Taas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Taas(witv m3u8)" tvg-logo="" group-title="witv",Zee 24 Taas
 http://watchindia.net:8880/live/vvv/vvv/916.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee HD Marathi" tvg-logo="" group-title="witv",Zee HD Marathi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee HD Marathi(witv m3u8)" tvg-logo="" group-title="witv",Zee HD Marathi
 http://watchindia.net:8880/live/vvv/vvv/913.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="" group-title="witv",Zee Talkies HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD(witv m3u8)" tvg-logo="" group-title="witv",Zee Talkies HD
 http://watchindia.net:8880/live/vvv/vvv/914.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Yuva" tvg-logo="" group-title="witv",Zee Yuva
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Yuva(witv m3u8)" tvg-logo="" group-title="witv",Zee Yuva
 http://watchindia.net:8880/live/vvv/vvv/915.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath" tvg-logo="" group-title="witv",Aakash Aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aakash Aath(witv m3u8)" tvg-logo="" group-title="witv",Aakash Aath
 http://watchindia.net:8880/live/vvv/vvv/2295.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda" tvg-logo="" group-title="witv",ABP Ananda
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda(witv m3u8)" tvg-logo="" group-title="witv",ABP Ananda
 http://watchindia.net:8880/live/vvv/vvv/2285.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="" group-title="witv",Colors Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla(witv m3u8)" tvg-logo="" group-title="witv",Colors Bangla
 http://watchindia.net:8880/live/vvv/vvv/2284.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="" group-title="witv",Dhoom Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music(witv m3u8)" tvg-logo="" group-title="witv",Dhoom Music
 http://watchindia.net:8880/live/vvv/vvv/2289.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="" group-title="witv",Jalsha Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies(witv m3u8)" tvg-logo="" group-title="witv",Jalsha Movies
 http://watchindia.net:8880/live/vvv/vvv/2282.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla" tvg-logo="" group-title="witv",Sangeet Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet Bangla(witv m3u8)" tvg-logo="" group-title="witv",Sangeet Bangla
 http://watchindia.net:8880/live/vvv/vvv/2288.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="" group-title="witv",Sony Aath
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath(witv m3u8)" tvg-logo="" group-title="witv",Sony Aath
 http://watchindia.net:8880/live/vvv/vvv/2286.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="" group-title="witv",Star Jalsha HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD(witv m3u8)" tvg-logo="" group-title="witv",Star Jalsha HD
 http://watchindia.net:8880/live/vvv/vvv/2281.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla" tvg-logo="" group-title="witv",Sun Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Bangla(witv m3u8)" tvg-logo="" group-title="witv",Sun Bangla
 http://watchindia.net:8880/live/vvv/vvv/2290.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="" group-title="witv",Zee Bangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla(witv m3u8)" tvg-logo="" group-title="witv",Zee Bangla
 http://watchindia.net:8880/live/vvv/vvv/2283.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="witv",Zee Bangla Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema(witv m3u8)" tvg-logo="" group-title="witv",Zee Bangla Cinema
 http://watchindia.net:8880/live/vvv/vvv/2287.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Asmita HD" tvg-logo="" group-title="witv",ABP Asmita HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Asmita HD(witv m3u8)" tvg-logo="" group-title="witv",ABP Asmita HD
 http://watchindia.net:8880/live/vvv/vvv/1012.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Bajar" tvg-logo="" group-title="witv",CNBC Bajar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC Bajar(witv m3u8)" tvg-logo="" group-title="witv",CNBC Bajar
 http://watchindia.net:8880/live/vvv/vvv/1919.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Gujarati" tvg-logo="" group-title="witv",Colors Gujarati
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Gujarati(witv m3u8)" tvg-logo="" group-title="witv",Colors Gujarati
 http://watchindia.net:8880/live/vvv/vvv/1006.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Girnar" tvg-logo="" group-title="witv",DD Girnar
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Girnar(witv m3u8)" tvg-logo="" group-title="witv",DD Girnar
 http://watchindia.net:8880/live/vvv/vvv/1918.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GSTV" tvg-logo="" group-title="witv",GSTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GSTV(witv m3u8)" tvg-logo="" group-title="witv",GSTV
 http://watchindia.net:8880/live/vvv/vvv/1922.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kartavya TV" tvg-logo="" group-title="witv",Kartavya TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kartavya TV(witv m3u8)" tvg-logo="" group-title="witv",Kartavya TV
 http://watchindia.net:8880/live/vvv/vvv/1920.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kathamrut TV" tvg-logo="" group-title="witv",Kathamrut TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kathamrut TV(witv m3u8)" tvg-logo="" group-title="witv",Kathamrut TV
 http://watchindia.net:8880/live/vvv/vvv/1923.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lakshya TV HD" tvg-logo="" group-title="witv",Lakshya TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lakshya TV HD(witv m3u8)" tvg-logo="" group-title="witv",Lakshya TV HD
 http://watchindia.net:8880/live/vvv/vvv/1014.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mitra" tvg-logo="" group-title="witv",Mitra
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mitra(witv m3u8)" tvg-logo="" group-title="witv",Mitra
 http://watchindia.net:8880/live/vvv/vvv/1921.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News18" tvg-logo="" group-title="witv",News18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News18(witv m3u8)" tvg-logo="" group-title="witv",News18
 http://watchindia.net:8880/live/vvv/vvv/1010.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandesh News" tvg-logo="" group-title="witv",Sandesh News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandesh News(witv m3u8)" tvg-logo="" group-title="witv",Sandesh News
 http://watchindia.net:8880/live/vvv/vvv/1011.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Gujarati" tvg-logo="" group-title="witv",TV9 Gujarati
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9 Gujarati(witv m3u8)" tvg-logo="" group-title="witv",TV9 Gujarati
 http://watchindia.net:8880/live/vvv/vvv/1007.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV News" tvg-logo="" group-title="witv",VTV News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VTV News(witv m3u8)" tvg-logo="" group-title="witv",VTV News
 http://watchindia.net:8880/live/vvv/vvv/1009.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Kalak" tvg-logo="" group-title="witv",Zee 24 Kalak
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee 24 Kalak(witv m3u8)" tvg-logo="" group-title="witv",Zee 24 Kalak
 http://watchindia.net:8880/live/vvv/vvv/1008.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News" tvg-logo="" group-title="witv",92 News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News(witv m3u8)" tvg-logo="" group-title="witv",92 News
 http://watchindia.net:8880/live/vvv/vvv/1060.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News UK" tvg-logo="" group-title="witv",92 News UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="92 News UK(witv m3u8)" tvg-logo="" group-title="witv",92 News UK
 http://watchindia.net:8880/live/vvv/vvv/1050.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Plus" tvg-logo="" group-title="witv",A Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Plus(witv m3u8)" tvg-logo="" group-title="witv",A Plus
 http://watchindia.net:8880/live/vvv/vvv/1021.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj News" tvg-logo="" group-title="witv",Aaj News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aaj News(witv m3u8)" tvg-logo="" group-title="witv",Aaj News
 http://watchindia.net:8880/live/vvv/vvv/1051.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abbtakk News" tvg-logo="" group-title="witv",Abbtakk News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abbtakk News(witv m3u8)" tvg-logo="" group-title="witv",Abbtakk News
 http://watchindia.net:8880/live/vvv/vvv/1062.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="App News" tvg-logo="" group-title="witv",App News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="App News(witv m3u8)" tvg-logo="" group-title="witv",App News
 http://watchindia.net:8880/live/vvv/vvv/1058.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aruj Tv" tvg-logo="" group-title="witv",Aruj Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aruj Tv(witv m3u8)" tvg-logo="" group-title="witv",Aruj Tv
 http://watchindia.net:8880/live/vvv/vvv/1035.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Digital" tvg-logo="" group-title="witv",Ary Digital
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Digital(witv m3u8)" tvg-logo="" group-title="witv",Ary Digital
 http://watchindia.net:8880/live/vvv/vvv/1018.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary News" tvg-logo="" group-title="witv",Ary News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary News(witv m3u8)" tvg-logo="" group-title="witv",Ary News
 http://watchindia.net:8880/live/vvv/vvv/1042.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary World UK" tvg-logo="" group-title="witv",Ary World UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary World UK(witv m3u8)" tvg-logo="" group-title="witv",Ary World UK
 http://watchindia.net:8880/live/vvv/vvv/1041.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zauk" tvg-logo="" group-title="witv",Ary Zauk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zauk(witv m3u8)" tvg-logo="" group-title="witv",Ary Zauk
 http://watchindia.net:8880/live/vvv/vvv/1026.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zindagi" tvg-logo="" group-title="witv",Ary Zindagi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ary Zindagi(witv m3u8)" tvg-logo="" group-title="witv",Ary Zindagi
 http://watchindia.net:8880/live/vvv/vvv/1025.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Entertainment" tvg-logo="" group-title="witv",Bol Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Entertainment(witv m3u8)" tvg-logo="" group-title="witv",Bol Entertainment
 http://watchindia.net:8880/live/vvv/vvv/1030.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Tv News" tvg-logo="" group-title="witv",Bol Tv News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bol Tv News(witv m3u8)" tvg-logo="" group-title="witv",Bol Tv News
 http://watchindia.net:8880/live/vvv/vvv/1052.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital Tv News" tvg-logo="" group-title="witv",Capital Tv News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital Tv News(witv m3u8)" tvg-logo="" group-title="witv",Capital Tv News
 http://watchindia.net:8880/live/vvv/vvv/1049.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 44 UK" tvg-logo="" group-title="witv",Channel 44 UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 44 UK(witv m3u8)" tvg-logo="" group-title="witv",Channel 44 UK
 http://watchindia.net:8880/live/vvv/vvv/1040.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dawn News" tvg-logo="" group-title="witv",Dawn News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dawn News(witv m3u8)" tvg-logo="" group-title="witv",Dawn News
 http://watchindia.net:8880/live/vvv/vvv/1044.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duniya News UK" tvg-logo="" group-title="witv",Duniya News UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duniya News UK(witv m3u8)" tvg-logo="" group-title="witv",Duniya News UK
 http://watchindia.net:8880/live/vvv/vvv/1038.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya News" tvg-logo="" group-title="witv",Dunya News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dunya News(witv m3u8)" tvg-logo="" group-title="witv",Dunya News
 http://watchindia.net:8880/live/vvv/vvv/1061.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express Entertainment" tvg-logo="" group-title="witv",Express Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express Entertainment(witv m3u8)" tvg-logo="" group-title="witv",Express Entertainment
 http://watchindia.net:8880/live/vvv/vvv/1029.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express News" tvg-logo="" group-title="witv",Express News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Express News(witv m3u8)" tvg-logo="" group-title="witv",Express News
 http://watchindia.net:8880/live/vvv/vvv/1047.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment" tvg-logo="" group-title="witv",Geo Entertainment
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Entertainment(witv m3u8)" tvg-logo="" group-title="witv",Geo Entertainment
 http://watchindia.net:8880/live/vvv/vvv/2267.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Kahani" tvg-logo="" group-title="witv",Geo Kahani
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Kahani(witv m3u8)" tvg-logo="" group-title="witv",Geo Kahani
 http://watchindia.net:8880/live/vvv/vvv/2268.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo News UK" tvg-logo="" group-title="witv",Geo News UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo News UK(witv m3u8)" tvg-logo="" group-title="witv",Geo News UK
 http://watchindia.net:8880/live/vvv/vvv/1037.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Super" tvg-logo="" group-title="witv",Geo Super
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Super(witv m3u8)" tvg-logo="" group-title="witv",Geo Super
 http://watchindia.net:8880/live/vvv/vvv/1016.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Tez" tvg-logo="" group-title="witv",Geo Tez
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Geo Tez(witv m3u8)" tvg-logo="" group-title="witv",Geo Tez
 http://watchindia.net:8880/live/vvv/vvv/1043.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gnn News" tvg-logo="" group-title="witv",Gnn News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gnn News(witv m3u8)" tvg-logo="" group-title="witv",Gnn News
 http://watchindia.net:8880/live/vvv/vvv/1045.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Masala UK" tvg-logo="" group-title="witv",Hum Masala UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Masala UK(witv m3u8)" tvg-logo="" group-title="witv",Hum Masala UK
 http://watchindia.net:8880/live/vvv/vvv/1023.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray" tvg-logo="" group-title="witv",Hum Sitaray
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Sitaray(witv m3u8)" tvg-logo="" group-title="witv",Hum Sitaray
 http://watchindia.net:8880/live/vvv/vvv/1024.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum TV HD" tvg-logo="" group-title="witv",Hum TV HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum TV HD(witv m3u8)" tvg-logo="" group-title="witv",Hum TV HD
 http://watchindia.net:8880/live/vvv/vvv/1022.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Tv UK" tvg-logo="" group-title="witv",Hum Tv UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hum Tv UK(witv m3u8)" tvg-logo="" group-title="witv",Hum Tv UK
 http://watchindia.net:8880/live/vvv/vvv/1019.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kay 2" tvg-logo="" group-title="witv",Kay 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kay 2(witv m3u8)" tvg-logo="" group-title="witv",Kay 2
 http://watchindia.net:8880/live/vvv/vvv/1027.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber News" tvg-logo="" group-title="witv",Khyber News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber News(witv m3u8)" tvg-logo="" group-title="witv",Khyber News
 http://watchindia.net:8880/live/vvv/vvv/1054.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber Tv" tvg-logo="" group-title="witv",Khyber Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khyber Tv(witv m3u8)" tvg-logo="" group-title="witv",Khyber Tv
 http://watchindia.net:8880/live/vvv/vvv/1034.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lahore News" tvg-logo="" group-title="witv",Lahore News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lahore News(witv m3u8)" tvg-logo="" group-title="witv",Lahore News
 http://watchindia.net:8880/live/vvv/vvv/1046.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minhaj Tv" tvg-logo="" group-title="witv",Minhaj Tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minhaj Tv(witv m3u8)" tvg-logo="" group-title="witv",Minhaj Tv
 http://watchindia.net:8880/live/vvv/vvv/1056.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News UK" tvg-logo="" group-title="witv",NDTV News UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV News UK(witv m3u8)" tvg-logo="" group-title="witv",NDTV News UK
 http://watchindia.net:8880/live/vvv/vvv/1055.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo News HD" tvg-logo="" group-title="witv",Neo News HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neo News HD(witv m3u8)" tvg-logo="" group-title="witv",Neo News HD
 http://watchindia.net:8880/live/vvv/vvv/1057.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News One" tvg-logo="" group-title="witv",News One
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News One(witv m3u8)" tvg-logo="" group-title="witv",News One
 http://watchindia.net:8880/live/vvv/vvv/1017.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pashto 1" tvg-logo="" group-title="witv",Pashto 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pashto 1(witv m3u8)" tvg-logo="" group-title="witv",Pashto 1
 http://watchindia.net:8880/live/vvv/vvv/1036.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV" tvg-logo="" group-title="witv",Peace TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peace TV(witv m3u8)" tvg-logo="" group-title="witv",Peace TV
 http://watchindia.net:8880/live/vvv/vvv/1063.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Global UK" tvg-logo="" group-title="witv",PTV Global UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Global UK(witv m3u8)" tvg-logo="" group-title="witv",PTV Global UK
 http://watchindia.net:8880/live/vvv/vvv/1032.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Home" tvg-logo="" group-title="witv",PTV Home
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Home(witv m3u8)" tvg-logo="" group-title="witv",PTV Home
 http://watchindia.net:8880/live/vvv/vvv/1033.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV News UK" tvg-logo="" group-title="witv",PTV News UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV News UK(witv m3u8)" tvg-logo="" group-title="witv",PTV News UK
 http://watchindia.net:8880/live/vvv/vvv/1053.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public News" tvg-logo="" group-title="witv",Public News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public News(witv m3u8)" tvg-logo="" group-title="witv",Public News
 http://watchindia.net:8880/live/vvv/vvv/1059.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samaa News UK" tvg-logo="" group-title="witv",Samaa News UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Samaa News UK(witv m3u8)" tvg-logo="" group-title="witv",Samaa News UK
 http://watchindia.net:8880/live/vvv/vvv/1039.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stage Darama" tvg-logo="" group-title="witv",Stage Darama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stage Darama(witv m3u8)" tvg-logo="" group-title="witv",Stage Darama
 http://watchindia.net:8880/live/vvv/vvv/1031.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv One" tvg-logo="" group-title="witv",Tv One
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tv One(witv m3u8)" tvg-logo="" group-title="witv",Tv One
 http://watchindia.net:8880/live/vvv/vvv/1028.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urdu 1" tvg-logo="" group-title="witv",Urdu 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Urdu 1(witv m3u8)" tvg-logo="" group-title="witv",Urdu 1
 http://watchindia.net:8880/live/vvv/vvv/1020.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Waqt News" tvg-logo="" group-title="witv",Waqt News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Waqt News(witv m3u8)" tvg-logo="" group-title="witv",Waqt News
 http://watchindia.net:8880/live/vvv/vvv/1048.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports" tvg-logo="" group-title="witv",PTV Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports(witv m3u8)" tvg-logo="" group-title="witv",PTV Sports
 http://watchindia.net:8880/live/vvv/vvv/2325.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5AAB TV" tvg-logo="" group-title="witv",5AAB TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5AAB TV(witv m3u8)" tvg-logo="" group-title="witv",5AAB TV
 http://watchindia.net:8880/live/vvv/vvv/2195.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Tashan" tvg-logo="" group-title="witv",9X Tashan
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Tashan(witv m3u8)" tvg-logo="" group-title="witv",9X Tashan
 http://watchindia.net:8880/live/vvv/vvv/1950.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Sanjha" tvg-logo="" group-title="witv",ABP Sanjha
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Sanjha(witv m3u8)" tvg-logo="" group-title="witv",ABP Sanjha
 http://watchindia.net:8880/live/vvv/vvv/1953.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaal Channel" tvg-logo="" group-title="witv",Akaal Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Akaal Channel(witv m3u8)" tvg-logo="" group-title="witv",Akaal Channel
 http://watchindia.net:8880/live/vvv/vvv/2199.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balle Balle" tvg-logo="" group-title="witv",Balle Balle
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Balle Balle(witv m3u8)" tvg-logo="" group-title="witv",Balle Balle
 http://watchindia.net:8880/live/vvv/vvv/1955.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Bol Haddipa HD" tvg-logo="" group-title="witv",Bollywood Bol Haddipa HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood Bol Haddipa HD(witv m3u8)" tvg-logo="" group-title="witv",Bollywood Bol Haddipa HD
 http://watchindia.net:8880/live/vvv/vvv/796.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Punjabi" tvg-logo="" group-title="witv",DD Punjabi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD Punjabi(witv m3u8)" tvg-logo="" group-title="witv",DD Punjabi
 http://watchindia.net:8880/live/vvv/vvv/1947.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel" tvg-logo="" group-title="witv",Desi Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Channel(witv m3u8)" tvg-logo="" group-title="witv",Desi Channel
 http://watchindia.net:8880/live/vvv/vvv/1954.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fateh TV" tvg-logo="" group-title="witv",Fateh TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fateh TV(witv m3u8)" tvg-logo="" group-title="witv",Fateh TV
 http://watchindia.net:8880/live/vvv/vvv/1956.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH One Music" tvg-logo="" group-title="witv",MH One Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH One Music(witv m3u8)" tvg-logo="" group-title="witv",MH One Music
 http://watchindia.net:8880/live/vvv/vvv/1949.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH One News" tvg-logo="" group-title="witv",MH One News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH One News(witv m3u8)" tvg-logo="" group-title="witv",MH One News
 http://watchindia.net:8880/live/vvv/vvv/1948.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1" tvg-logo="" group-title="witv",MH1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1(witv m3u8)" tvg-logo="" group-title="witv",MH1
 http://watchindia.net:8880/live/vvv/vvv/2198.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Asia TV" tvg-logo="" group-title="witv",Prime Asia TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime Asia TV(witv m3u8)" tvg-logo="" group-title="witv",Prime Asia TV
 http://watchindia.net:8880/live/vvv/vvv/2197.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Chakde" tvg-logo="" group-title="witv",PTC Chakde
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Chakde(witv m3u8)" tvg-logo="" group-title="witv",PTC Chakde
 http://watchindia.net:8880/live/vvv/vvv/1944.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC IN" tvg-logo="" group-title="witv",PTC IN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC IN(witv m3u8)" tvg-logo="" group-title="witv",PTC IN
 http://watchindia.net:8880/live/vvv/vvv/1941.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Music" tvg-logo="" group-title="witv",PTC Music
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Music(witv m3u8)" tvg-logo="" group-title="witv",PTC Music
 http://watchindia.net:8880/live/vvv/vvv/1945.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC News" tvg-logo="" group-title="witv",PTC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC News(witv m3u8)" tvg-logo="" group-title="witv",PTC News
 http://watchindia.net:8880/live/vvv/vvv/1943.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Simran" tvg-logo="" group-title="witv",PTC Simran
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTC Simran(witv m3u8)" tvg-logo="" group-title="witv",PTC Simran
 http://watchindia.net:8880/live/vvv/vvv/1946.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Alpha" tvg-logo="" group-title="witv",Zee Alpha
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Alpha(witv m3u8)" tvg-logo="" group-title="witv",Zee Alpha
 http://watchindia.net:8880/live/vvv/vvv/2196.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="" group-title="witv",Zee Punjab Haryana Himachal
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjab Haryana Himachal(witv m3u8)" tvg-logo="" group-title="witv",Zee Punjab Haryana Himachal
 http://watchindia.net:8880/live/vvv/vvv/1952.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjabi" tvg-logo="" group-title="witv",Zee Punjabi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Punjabi(witv m3u8)" tvg-logo="" group-title="witv",Zee Punjabi
 http://watchindia.net:8880/live/vvv/vvv/1951.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="" group-title="witv",& Flix HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD(witv m3u8)" tvg-logo="" group-title="witv",& Flix HD
 http://watchindia.net:8880/live/vvv/vvv/2088.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Prive HD" tvg-logo="" group-title="witv",& Prive HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Prive HD(witv m3u8)" tvg-logo="" group-title="witv",& Prive HD
 http://watchindia.net:8880/live/vvv/vvv/2103.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now HD" tvg-logo="" group-title="witv",Movies Now HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies Now HD(witv m3u8)" tvg-logo="" group-title="witv",Movies Now HD
 http://watchindia.net:8880/live/vvv/vvv/2102.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now" tvg-logo="" group-title="witv",Romedy Now
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Romedy Now(witv m3u8)" tvg-logo="" group-title="witv",Romedy Now
 http://watchindia.net:8880/live/vvv/vvv/2188.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Action" tvg-logo="" group-title="witv",Sky Cinema Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Action(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Action
 http://watchindia.net:8880/live/vvv/vvv/2176.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Comedy" tvg-logo="" group-title="witv",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Comedy(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Comedy
 http://watchindia.net:8880/live/vvv/vvv/2177.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Disney" tvg-logo="" group-title="witv",Sky Cinema Disney
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Disney(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Disney
 http://watchindia.net:8880/live/vvv/vvv/2175.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Drama" tvg-logo="" group-title="witv",Sky Cinema Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Drama(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Drama
 http://watchindia.net:8880/live/vvv/vvv/2179.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Family" tvg-logo="" group-title="witv",Sky Cinema Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Family(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Family
 http://watchindia.net:8880/live/vvv/vvv/2173.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Greats" tvg-logo="" group-title="witv",Sky Cinema Greats
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Greats(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Greats
 http://watchindia.net:8880/live/vvv/vvv/2172.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Hits" tvg-logo="" group-title="witv",Sky Cinema Hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Hits(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Hits
 http://watchindia.net:8880/live/vvv/vvv/2171.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Premiere" tvg-logo="" group-title="witv",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Premiere(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Premiere
 http://watchindia.net:8880/live/vvv/vvv/2169.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="" group-title="witv",Sky Cinema Sci-Fi/Horror
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Sci-Fi/Horror(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Sci-Fi/Horror
 http://watchindia.net:8880/live/vvv/vvv/2180.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Select" tvg-logo="" group-title="witv",Sky Cinema Select
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Select(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Select
 http://watchindia.net:8880/live/vvv/vvv/2170.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Thriller" tvg-logo="" group-title="witv",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Cinema Thriller(witv m3u8)" tvg-logo="" group-title="witv",Sky Cinema Thriller
 http://watchindia.net:8880/live/vvv/vvv/2178.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD" tvg-logo="" group-title="witv",Sony Pix HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix HD(witv m3u8)" tvg-logo="" group-title="witv",Sony Pix HD
 http://watchindia.net:8880/live/vvv/vvv/2101.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD" tvg-logo="" group-title="witv",Star Movies HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies HD(witv m3u8)" tvg-logo="" group-title="witv",Star Movies HD
 http://watchindia.net:8880/live/vvv/vvv/2080.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World HD" tvg-logo="" group-title="witv",Star World HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World HD(witv m3u8)" tvg-logo="" group-title="witv",Star World HD
 http://watchindia.net:8880/live/vvv/vvv/2191.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E Network" tvg-logo="" group-title="witv",A&E Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E Network(witv m3u8)" tvg-logo="" group-title="witv",A&E Network
 http://watchindia.net:8880/live/vvv/vvv/2044.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News" tvg-logo="" group-title="witv",ABC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News(witv m3u8)" tvg-logo="" group-title="witv",ABC News
 http://watchindia.net:8880/live/vvv/vvv/2120.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="" group-title="witv",AMC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC(witv m3u8)" tvg-logo="" group-title="witv",AMC
 http://watchindia.net:8880/live/vvv/vvv/2043.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet" tvg-logo="" group-title="witv",Animal Planet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet(witv m3u8)" tvg-logo="" group-title="witv",Animal Planet
 http://watchindia.net:8880/live/vvv/vvv/2039.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC America" tvg-logo="" group-title="witv",BBC America
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC America(witv m3u8)" tvg-logo="" group-title="witv",BBC America
 http://watchindia.net:8880/live/vvv/vvv/2055.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET" tvg-logo="" group-title="witv",BET
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BET(witv m3u8)" tvg-logo="" group-title="witv",BET
 http://watchindia.net:8880/live/vvv/vvv/2063.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg" tvg-logo="" group-title="witv",Bloomberg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg(witv m3u8)" tvg-logo="" group-title="witv",Bloomberg
 http://watchindia.net:8880/live/vvv/vvv/2301.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang" tvg-logo="" group-title="witv",Boomerang
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang(witv m3u8)" tvg-logo="" group-title="witv",Boomerang
 http://watchindia.net:8880/live/vvv/vvv/1295.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo" tvg-logo="" group-title="witv",Bravo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bravo(witv m3u8)" tvg-logo="" group-title="witv",Bravo
 http://watchindia.net:8880/live/vvv/vvv/2305.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network" tvg-logo="" group-title="witv",Cartoon Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network(witv m3u8)" tvg-logo="" group-title="witv",Cartoon Network
 http://watchindia.net:8880/live/vvv/vvv/2052.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Network" tvg-logo="" group-title="witv",CBS Sports Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Sports Network(witv m3u8)" tvg-logo="" group-title="witv",CBS Sports Network
 http://watchindia.net:8880/live/vvv/vvv/2121.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="" group-title="witv",Cinemax
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax(witv m3u8)" tvg-logo="" group-title="witv",Cinemax
 http://watchindia.net:8880/live/vvv/vvv/2065.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC" tvg-logo="" group-title="witv",CNBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC(witv m3u8)" tvg-logo="" group-title="witv",CNBC
 http://watchindia.net:8880/live/vvv/vvv/2053.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC World" tvg-logo="" group-title="witv",CNBC World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC World(witv m3u8)" tvg-logo="" group-title="witv",CNBC World
 http://watchindia.net:8880/live/vvv/vvv/2326.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN" tvg-logo="" group-title="witv",CNN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN(witv m3u8)" tvg-logo="" group-title="witv",CNN
 http://watchindia.net:8880/live/vvv/vvv/2058.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="" group-title="witv",Comedy Central
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central(witv m3u8)" tvg-logo="" group-title="witv",Comedy Central
 http://watchindia.net:8880/live/vvv/vvv/2056.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel" tvg-logo="" group-title="witv",Discovery Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel(witv m3u8)" tvg-logo="" group-title="witv",Discovery Channel
 http://watchindia.net:8880/live/vvv/vvv/2036.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Life" tvg-logo="" group-title="witv",Discovery Life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Life(witv m3u8)" tvg-logo="" group-title="witv",Discovery Life
 http://watchindia.net:8880/live/vvv/vvv/2124.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel" tvg-logo="" group-title="witv",Disney Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Channel(witv m3u8)" tvg-logo="" group-title="witv",Disney Channel
 http://watchindia.net:8880/live/vvv/vvv/2046.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr." tvg-logo="" group-title="witv",Disney Jr.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Jr.(witv m3u8)" tvg-logo="" group-title="witv",Disney Jr.
 http://watchindia.net:8880/live/vvv/vvv/2105.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD" tvg-logo="" group-title="witv",Disney XD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD(witv m3u8)" tvg-logo="" group-title="witv",Disney XD
 http://watchindia.net:8880/live/vvv/vvv/2066.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="witv",ESPN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN(witv m3u8)" tvg-logo="" group-title="witv",ESPN
 http://watchindia.net:8880/live/vvv/vvv/2161.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2" tvg-logo="" group-title="witv",ESPN2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN2(witv m3u8)" tvg-logo="" group-title="witv",ESPN2
 http://watchindia.net:8880/live/vvv/vvv/2307.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network" tvg-logo="" group-title="witv",Food Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food Network(witv m3u8)" tvg-logo="" group-title="witv",Food Network
 http://watchindia.net:8880/live/vvv/vvv/2045.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Business" tvg-logo="" group-title="witv",Fox Business
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Business(witv m3u8)" tvg-logo="" group-title="witv",Fox Business
 http://watchindia.net:8880/live/vvv/vvv/2201.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News" tvg-logo="" group-title="witv",Fox News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox News(witv m3u8)" tvg-logo="" group-title="witv",Fox News
 http://watchindia.net:8880/live/vvv/vvv/2057.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freeform" tvg-logo="" group-title="witv",Freeform
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Freeform(witv m3u8)" tvg-logo="" group-title="witv",Freeform
 http://watchindia.net:8880/live/vvv/vvv/2137.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX" tvg-logo="" group-title="witv",FX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FX(witv m3u8)" tvg-logo="" group-title="witv",FX
 http://watchindia.net:8880/live/vvv/vvv/2136.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show Network" tvg-logo="" group-title="witv",Game Show Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Show Network(witv m3u8)" tvg-logo="" group-title="witv",Game Show Network
 http://watchindia.net:8880/live/vvv/vvv/2298.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark Channel" tvg-logo="" group-title="witv",Hallmark Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hallmark Channel(witv m3u8)" tvg-logo="" group-title="witv",Hallmark Channel
 http://watchindia.net:8880/live/vvv/vvv/2302.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV" tvg-logo="" group-title="witv",HGTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HGTV(witv m3u8)" tvg-logo="" group-title="witv",HGTV
 http://watchindia.net:8880/live/vvv/vvv/2118.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="" group-title="witv",History
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History(witv m3u8)" tvg-logo="" group-title="witv",History
 http://watchindia.net:8880/live/vvv/vvv/2038.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="" group-title="witv",Investigation Discovery
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery(witv m3u8)" tvg-logo="" group-title="witv",Investigation Discovery
 http://watchindia.net:8880/live/vvv/vvv/2303.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network" tvg-logo="" group-title="witv",MLB Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Network(witv m3u8)" tvg-logo="" group-title="witv",MLB Network
 http://watchindia.net:8880/live/vvv/vvv/2308.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotorTrend" tvg-logo="" group-title="witv",MotorTrend
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotorTrend(witv m3u8)" tvg-logo="" group-title="witv",MotorTrend
 http://watchindia.net:8880/live/vvv/vvv/2306.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC" tvg-logo="" group-title="witv",MSNBC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSNBC(witv m3u8)" tvg-logo="" group-title="witv",MSNBC
 http://watchindia.net:8880/live/vvv/vvv/2060.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="" group-title="witv",MTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV(witv m3u8)" tvg-logo="" group-title="witv",MTV
 http://watchindia.net:8880/live/vvv/vvv/2062.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild" tvg-logo="" group-title="witv",Nat Geo Wild
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild(witv m3u8)" tvg-logo="" group-title="witv",Nat Geo Wild
 http://watchindia.net:8880/live/vvv/vvv/2047.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="witv",National Geographic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic(witv m3u8)" tvg-logo="" group-title="witv",National Geographic
 http://watchindia.net:8880/live/vvv/vvv/2037.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV" tvg-logo="" group-title="witv",NBA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA TV(witv m3u8)" tvg-logo="" group-title="witv",NBA TV
 http://watchindia.net:8880/live/vvv/vvv/2309.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Network" tvg-logo="" group-title="witv",NBC Sports Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC Sports Network(witv m3u8)" tvg-logo="" group-title="witv",NBC Sports Network
 http://watchindia.net:8880/live/vvv/vvv/2266.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsmax TV" tvg-logo="" group-title="witv",Newsmax TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsmax TV(witv m3u8)" tvg-logo="" group-title="witv",Newsmax TV
 http://watchindia.net:8880/live/vvv/vvv/2202.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network" tvg-logo="" group-title="witv",NFL Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL Network(witv m3u8)" tvg-logo="" group-title="witv",NFL Network
 http://watchindia.net:8880/live/vvv/vvv/2165.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone" tvg-logo="" group-title="witv",NFL RedZone
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL RedZone(witv m3u8)" tvg-logo="" group-title="witv",NFL RedZone
 http://watchindia.net:8880/live/vvv/vvv/2160.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="" group-title="witv",Nick Jr.
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr.(witv m3u8)" tvg-logo="" group-title="witv",Nick Jr.
 http://watchindia.net:8880/live/vvv/vvv/2059.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon" tvg-logo="" group-title="witv",Nickelodeon
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon(witv m3u8)" tvg-logo="" group-title="witv",Nickelodeon
 http://watchindia.net:8880/live/vvv/vvv/2049.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons" tvg-logo="" group-title="witv",Nicktoons
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons(witv m3u8)" tvg-logo="" group-title="witv",Nicktoons
 http://watchindia.net:8880/live/vvv/vvv/2064.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One America News" tvg-logo="" group-title="witv",One America News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One America News(witv m3u8)" tvg-logo="" group-title="witv",One America News
 http://watchindia.net:8880/live/vvv/vvv/2138.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="" group-title="witv",Outdoor Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel(witv m3u8)" tvg-logo="" group-title="witv",Outdoor Channel
 http://watchindia.net:8880/live/vvv/vvv/2119.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paw Patrol" tvg-logo="" group-title="witv",Paw Patrol
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paw Patrol(witv m3u8)" tvg-logo="" group-title="witv",Paw Patrol
 http://watchindia.net:8880/live/vvv/vvv/1297.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig" tvg-logo="" group-title="witv",Peppa Pig
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peppa Pig(witv m3u8)" tvg-logo="" group-title="witv",Peppa Pig
 http://watchindia.net:8880/live/vvv/vvv/1298.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PJ Masks" tvg-logo="" group-title="witv",PJ Masks
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PJ Masks(witv m3u8)" tvg-logo="" group-title="witv",PJ Masks
 http://watchindia.net:8880/live/vvv/vvv/1299.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime" tvg-logo="" group-title="witv",Showtime
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime(witv m3u8)" tvg-logo="" group-title="witv",Showtime
 http://watchindia.net:8880/live/vvv/vvv/2054.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy" tvg-logo="" group-title="witv",Syfy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy(witv m3u8)" tvg-logo="" group-title="witv",Syfy
 http://watchindia.net:8880/live/vvv/vvv/2127.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS" tvg-logo="" group-title="witv",TBS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBS(witv m3u8)" tvg-logo="" group-title="witv",TBS
 http://watchindia.net:8880/live/vvv/vvv/2050.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel" tvg-logo="" group-title="witv",Tennis Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis Channel(witv m3u8)" tvg-logo="" group-title="witv",Tennis Channel
 http://watchindia.net:8880/live/vvv/vvv/2358.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Weather Channel" tvg-logo="" group-title="witv",The Weather Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Weather Channel(witv m3u8)" tvg-logo="" group-title="witv",The Weather Channel
 http://watchindia.net:8880/live/vvv/vvv/2042.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="witv",TLC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC(witv m3u8)" tvg-logo="" group-title="witv",TLC
 http://watchindia.net:8880/live/vvv/vvv/2139.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT" tvg-logo="" group-title="witv",TNT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT(witv m3u8)" tvg-logo="" group-title="witv",TNT
 http://watchindia.net:8880/live/vvv/vvv/2051.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel" tvg-logo="" group-title="witv",Travel Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel Channel(witv m3u8)" tvg-logo="" group-title="witv",Travel Channel
 http://watchindia.net:8880/live/vvv/vvv/2123.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Land" tvg-logo="" group-title="witv",TV Land
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Land(witv m3u8)" tvg-logo="" group-title="witv",TV Land
 http://watchindia.net:8880/live/vvv/vvv/2304.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="" group-title="witv",VH1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1(witv m3u8)" tvg-logo="" group-title="witv",VH1
 http://watchindia.net:8880/live/vvv/vvv/2185.m3u8
