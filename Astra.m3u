@@ -1,396 +1,995 @@
 #EXTM3U
-#EXTINF:-1 group-title="Astra-1", &flix HD
-http://103.162.136.235:4500/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Astra-1", &pictures HD
-http://103.162.136.235:4500/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Astra-1", &prive HD
-http://103.162.136.235:4500/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Astra-1", &tv HD
-http://103.162.136.235:4500/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Astra-1", 13 Ulica HD
-http://103.162.136.235:4500/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Astra-1", AXN SPIN
-http://103.162.136.235:4500/play/a02q/index.m3u8
-#EXTINF:-1 group-title="Astra-1", BBC EARTH HD
-http://103.162.136.235:4500/play/a035/index.m3u8
-#EXTINF:-1 group-title="Astra-1", BLACK
-http://103.162.136.235:4500/play/a039/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Boomerang HD
-http://103.162.136.235:4500/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Colors HD
-http://103.162.136.235:4500/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Colors Infinity HD
-http://103.162.136.235:4500/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Comedy Central
-http://103.162.136.235:4500/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Discovery HD
-http://103.162.136.235:4500/play/a008/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Discovery Kids
-http://103.162.136.235:4500/play/a01j/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Discovery Science
-http://103.162.136.235:4500/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Discovry Life
-http://103.162.136.235:4500/play/a031/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Discovry Poland
-http://103.162.136.235:4500/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Disney Channel
-http://103.162.136.235:4500/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Disney Jr.
-http://103.162.136.235:4500/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Fightbox HD
-http://103.162.136.235:4500/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Fox Life HD
-http://103.162.136.235:4500/play/a011/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Golf Chanell
-http://103.162.136.235:4500/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Astra-1", HBO 3
-http://103.162.136.235:4500/play/a02p/index.m3u8
-#EXTINF:-1 group-title="Astra-1", HBO2
-http://103.162.136.235:4500/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Astra-1", HGTV
-http://103.162.136.235:4500/play/a033/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Hungama
-http://103.162.136.235:4500/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Astra-1", MN+ HD
-http://103.162.136.235:4500/play/a004/index.m3u8
-#EXTINF:-1 group-title="Astra-1", MNX
-http://103.162.136.235:4500/play/a012/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Max HD
-http://103.162.136.235:4500/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Movies Now
-http://103.162.136.235:4500/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Mtv
-http://103.162.136.235:4500/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Nat Geo HD
-http://103.162.136.235:4500/play/a007/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Nat Geo Wild HD
-http://103.162.136.235:4500/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Nick
-http://103.162.136.235:4500/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Nick HD+
-http://103.162.136.235:4500/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Nick Jr.
-http://103.162.136.235:4500/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Pix HD
-http://103.162.136.235:4500/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Pogo
-http://103.162.136.235:4500/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Astra-1", RED SD
-http://103.162.136.235:4500/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Astra-1", RT Sports
-http://103.162.136.235:4500/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Romedy Now
-http://103.162.136.235:4500/play/a009/index.m3u8
-#EXTINF:-1 group-title="Astra-1", SCI- FI
-http://103.162.136.235:4500/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Astra-1", SET HD
-http://103.162.136.235:4500/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sab HD
-http://103.162.136.235:4500/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Astra-1", SciFi HD
-http://103.162.136.235:4500/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Six HD
-http://103.162.136.235:4500/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sonic
-http://103.162.136.235:4500/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sony BBC Earth HD
-http://103.162.136.235:4500/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sony Ten 1 HD
-http://103.162.136.235:4500/play/a018/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sony Ten 2 HD
-http://103.162.136.235:4500/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sony Ten 3 HD
-http://103.162.136.235:4500/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Bharat HD
-http://103.162.136.235:4500/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Gold 2
-http://103.162.136.235:4500/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Gold HD
-http://103.162.136.235:4500/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Gold Select HD
-http://103.162.136.235:4500/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Movies HD
-http://103.162.136.235:4500/play/a005/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Movies Select HD
-http://103.162.136.235:4500/play/a006/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Plus HD
-http://103.162.136.235:4500/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Select 1 HD
-http://103.162.136.235:4500/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Select 2 HD
-http://103.162.136.235:4500/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Sports 1 HD
-http://103.162.136.235:4500/play/a015/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Sports 1 Hindi HD
-http://103.162.136.235:4500/play/a017/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Sports 2 HD
-http://103.162.136.235:4500/play/a016/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star Sports 3
-http://103.162.136.235:4500/play/a013/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star World HD
-http://103.162.136.235:4500/play/a019/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Star World Premier HD
-http://103.162.136.235:4500/play/a014/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Sundance HD
-http://103.162.136.235:4500/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Super Sports HD
-http://103.162.136.235:4500/play/a02a/index.m3u8
-#EXTINF:-1 group-title="Astra-1", TLC
-http://103.162.136.235:4500/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Astra-1", TLC HD
-http://103.162.136.235:4500/play/a001/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Utv Movies
-http://103.162.136.235:4500/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Zee Cafe HD
-http://103.162.136.235:4500/play/a003/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Zee Cinema HD
-http://103.162.136.235:4500/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Astra-1", Zee TV HD
-http://103.162.136.235:4500/play/a00e/index.m3u8
-
-#EXTINF:-1 group-title="Astra-2", 1-&flix HD
-http://103.99.249.107:81/play/a00x
-#EXTINF:-1 group-title="Astra-2", 10-Color Bangla HD
-http://103.99.249.107:81/play/a00j
-#EXTINF:-1 group-title="Astra-2", 11-Colors HD
-http://103.99.249.107:81/play/a00v
-#EXTINF:-1 group-title="Astra-2", 12-Colors Infinity HD
-http://103.99.249.107:81/play/a01g
-#EXTINF:-1 group-title="Astra-2", 13-Discovery HD
-http://103.99.249.107:81/play/a00m
-#EXTINF:-1 group-title="Astra-2", 14-Discovery Kids SD
-http://103.99.249.107:81/play/a02c
-#EXTINF:-1 group-title="Astra-2", 15-Discovery Science SD
-http://103.99.249.107:81/play/a01u
-#EXTINF:-1 group-title="Astra-2", 16-Discovery Turbo
-http://103.99.249.107:81/play/a01q
-#EXTINF:-1 group-title="Astra-2", 17-Disney Channel SD
-http://103.99.249.107:81/play/a025
-#EXTINF:-1 group-title="Astra-2", 18-Disney Junior SD
-http://103.99.249.107:81/play/a024
-#EXTINF:-1 group-title="Astra-2", 19-EuroSports HD
-http://103.99.249.107:81/play/a00y
-#EXTINF:-1 group-title="Astra-2", 2-&pictures HD
-http://103.99.249.107:81/play/a01c
-#EXTINF:-1 group-title="Astra-2", 20-Fox life HD
-http://103.99.249.107:81/play/a01p
-#EXTINF:-1 group-title="Astra-2", 21-History TV HD
-http://103.99.249.107:81/play/a017
-#EXTINF:-1 group-title="Astra-2", 22-Hungama TV SD
-http://103.99.249.107:81/play/a023
-#EXTINF:-1 group-title="Astra-2", 23-Investigation Discovery
-http://103.99.249.107:81/play/a013
-#EXTINF:-1 group-title="Astra-2", 24-KTV HD
-http://103.99.249.107:81/play/a02g
-#EXTINF:-1 group-title="Astra-2", 25-Jalsha Movies HD
-http://103.99.249.107:81/play/a00k
-#EXTINF:-1 group-title="Astra-2", 26-MN+ HD
-http://103.99.249.107:81/play/a00g
-#EXTINF:-1 group-title="Astra-2", 27-Movies Active HD
-http://103.99.249.107:81/play/a00i
-#EXTINF:-1 group-title="Astra-2", 28-Movies Active SD
-http://103.99.249.107:81/play/a01v
-#EXTINF:-1 group-title="Astra-2", 29-MTV
-http://103.99.249.107:81/play/a02a
-#EXTINF:-1 group-title="Astra-2", 3-&prive HD
-http://103.99.249.107:81/play/a01i
-#EXTINF:-1 group-title="Astra-2", 30-Nat Geo SD
-http://103.99.249.107:81/play/a02j
-#EXTINF:-1 group-title="Astra-2", 31-Nat Geo Wild HD
-http://103.99.249.107:81/play/a008
-#EXTINF:-1 group-title="Astra-2", 32-National Geo HD
-http://103.99.249.107:81/play/a00n
-#EXTINF:-1 group-title="Astra-2", 33-Nick HD+
-http://103.99.249.107:81/play/a01h
-#EXTINF:-1 group-title="Astra-2", 34-Nick Junior SD
-http://103.99.249.107:81/play/a02b
-#EXTINF:-1 group-title="Astra-2", 35-Nickelodeon SD
-http://103.99.249.107:81/play/a026
-#EXTINF:-1 group-title="Astra-2", 36-PoGo SD
-http://103.99.249.107:81/play/a029
-#EXTINF:-1 group-title="Astra-2", 38-Sonic Nickelodeon SD
-http://103.99.249.107:81/play/a028
-#EXTINF:-1 group-title="Astra-2", 39-Sony Aath
-http://103.99.249.107:81/play/a00f
-#EXTINF:-1 group-title="Astra-2", 4-&tv
-http://103.99.249.107:81/play/a01l
-#EXTINF:-1 group-title="Astra-2", 40-SONY HD
-http://103.99.249.107:81/play/a00w
-#EXTINF:-1 group-title="Astra-2", 41-Sony Max 2 SD
-http://103.99.249.107:81/play/a01x
-#EXTINF:-1 group-title="Astra-2", 42-Sony Max HD
-http://103.99.249.107:81/play/a009
-#EXTINF:-1 group-title="Astra-2", 43-Sony Pal
-http://103.99.249.107:81/play/a01n
-#EXTINF:-1 group-title="Astra-2", 44-Sony Pix HD
-http://103.99.249.107:81/play/a01b
-#EXTINF:-1 group-title="Astra-2", 45-Sony Sab SD
-http://103.99.249.107:81/play/a01j
-#EXTINF:-1 group-title="Astra-2", 46-Sony Six HD
-http://103.99.249.107:81/play/a03o
-#EXTINF:-1 group-title="Astra-2", 47-SONY TEN 1 HD
-http://103.99.249.107:81/play/a00b
-#EXTINF:-1 group-title="Astra-2", 48-SONY TEN 2 HD
-http://103.99.249.107:81/play/a01f
-#EXTINF:-1 group-title="Astra-2", 49-SONY TEN 3 HD
-http://103.99.249.107:81/play/a006
-#EXTINF:-1 group-title="Astra-2", 5-Animal Planet HD
-http://103.99.249.107:81/play/a015
-#EXTINF:-1 group-title="Astra-2", 50-SONY TEN 4
-http://103.99.249.107:81/play/a021
-#EXTINF:-1 group-title="Astra-2", 51-STAR BHARAT HD
-http://103.99.249.107:81/play/a01w
-#EXTINF:-1 group-title="Astra-2", 52-Star Gold 2 SD
-http://103.99.249.107:81/play/a020
-#EXTINF:-1 group-title="Astra-2", 53-Star Gold HD
-http://103.99.249.107:81/play/a016
-#EXTINF:-1 group-title="Astra-2", 54-Star Gold Sel HD
-http://103.99.249.107:81/play/a018
-#EXTINF:-1 group-title="Astra-2", 55-Star Jalsha HD
-http://103.99.249.107:81/play/a00l
-#EXTINF:-1 group-title="Astra-2", 56-Star Movies HD
-http://103.99.249.107:81/play/a00o
-#EXTINF:-1 group-title="Astra-2", 57-Star Movies Select HD
-http://103.99.249.107:81/play/a02e
-#EXTINF:-1 group-title="Astra-2", 58-Star Plus HD
-http://103.99.249.107:81/play/a00t
-#EXTINF:-1 group-title="Astra-2", 59-Star Sports 2 HD
-http://103.99.249.107:81/play/a00c
-#EXTINF:-1 group-title="Astra-2", 6-BBC Earth HD
-http://103.99.249.107:81/play/a019
-#EXTINF:-1 group-title="Astra-2", 60-Star Sports 1 HD
-http://103.99.249.107:81/play/a00d
-#EXTINF:-1 group-title="Astra-2", 61-Star Sports 3 Hindi HD
-http://103.99.249.107:81/play/a00q
-#EXTINF:-1 group-title="Astra-2", 62-Star Sports Select 1 HD
-http://103.99.249.107:81/play/a01d
-#EXTINF:-1 group-title="Astra-2", 63-Star Sports Select 2 HD
-http://103.99.249.107:81/play/a01e
-#EXTINF:-1 group-title="Astra-2", 64-Star World HD
-http://103.99.249.107:81/play/a03m
-#EXTINF:-1 group-title="Astra-2", 65-Star World Premiere HD
-http://103.99.249.107:81/play/a00e
-#EXTINF:-1 group-title="Astra-2", 66-Sun Bangla SD
-http://103.99.249.107:81/play/a02h
-#EXTINF:-1 group-title="Astra-2", 67-Super Hungama
-http://103.99.249.107:81/play/a07i
-#EXTINF:-1 group-title="Astra-2", 68-TLC HD
-http://103.99.249.107:81/play/a00h
-#EXTINF:-1 group-title="Astra-2", 69-UTV Action SD
-http://103.99.249.107:81/play/a01s
-#EXTINF:-1 group-title="Astra-2", 7-Bindass SD
-http://103.99.249.107:81/play/a01k
-#EXTINF:-1 group-title="Astra-2", 70-UTV Movies SD
-http://103.99.249.107:81/play/a01t
-#EXTINF:-1 group-title="Astra-2", 71-Zee Bangla Cinema SD
-http://103.99.249.107:81/play/a01m
-#EXTINF:-1 group-title="Astra-2", 72-Zee Bangla HD
-http://103.99.249.107:81/play/a01a
-#EXTINF:-1 group-title="Astra-2", 73-Zee Bollywod SD
-http://103.99.249.107:81/play/a01r
-#EXTINF:-1 group-title="Astra-2", 74-Zee Cafe HD
-http://103.99.249.107:81/play/a00p
-#EXTINF:-1 group-title="Astra-2", 75-Zee Cinema HD
-http://103.99.249.107:81/play/a014
-#EXTINF:-1 group-title="Astra-2", 76-Zee TV HD
-http://103.99.249.107:81/play/a00u
-#EXTINF:-1 group-title="Astra-2", 77-ZEE CINEMALU HD
-http://103.99.249.107:81/play/a07u
-#EXTINF:-1 group-title="Astra-2", 8-Cartoon Network SD
-http://103.99.249.107:81/play/a022
-#EXTINF:-1 group-title="Astra-2", 9-Cine Active SD
-http://103.99.249.107:81/play/a02i
-#EXTINF:-1 group-title="Astra-2", INCL_&pictures HD
-http://103.99.249.107:81/play/a032
-#EXTINF:-1 group-title="Astra-2", INCL_COLORS BANGLA
-http://103.99.249.107:81/play/a02x
-#EXTINF:-1 group-title="Astra-2", INCL_COLORS HINDI
-http://103.99.249.107:81/play/a038
-#EXTINF:-1 group-title="Astra-2", INCL_DISCOVERY
-http://103.99.249.107:81/play/a02v
-#EXTINF:-1 group-title="Astra-2", INCL_JALSHA MOVIES
-http://103.99.249.107:81/play/a02w
-#EXTINF:-1 group-title="Astra-2", INCL_NGC BANGLA
-http://103.99.249.107:81/play/a033
-#EXTINF:-1 group-title="Astra-2", INCL_NICK BANGLA
-http://103.99.249.107:81/play/a03g
-#EXTINF:-1 group-title="Astra-2", INCL_SONY AATH
-http://103.99.249.107:81/play/a03f
-#EXTINF:-1 group-title="Astra-2", INCL_SONY ENTERTAINMENT
-http://103.99.249.107:81/play/a034
-#EXTINF:-1 group-title="Astra-2", INCL_SONY MAX
-http://103.99.249.107:81/play/a03c
-#EXTINF:-1 group-title="Astra-2", INCL_SONY SIX
-http://103.99.249.107:81/play/a031
-#EXTINF:-1 group-title="Astra-2", INCL_SONY TEN 1
-http://103.99.249.107:81/play/a03n
-#EXTINF:-1 group-title="Astra-2", INCL_SONY TEN 2
-http://103.99.249.107:81/play/a03h
-#EXTINF:-1 group-title="Astra-2", INCL_SONY YAY BANGLA
-http://103.99.249.107:81/play/a02u
-#EXTINF:-1 group-title="Astra-2", INCL_STAR GOLD
-http://103.99.249.107:81/play/a02n
-#EXTINF:-1 group-title="Astra-2", INCL_STAR JALSHA
-http://103.99.249.107:81/play/a030
-#EXTINF:-1 group-title="Astra-2", INCL_STAR PLUS
-http://103.99.249.107:81/play/a03e
-#EXTINF:-1 group-title="Astra-2", INCL_STAR SPORT SEL 1
-http://103.99.249.107:81/play/a03d
-#EXTINF:-1 group-title="Astra-2", INCL_STAR SPORTS 1
-http://103.99.249.107:81/play/a03b
-#EXTINF:-1 group-title="Astra-2", INCL_Sun Bangla
-http://103.99.249.107:81/play/a037
-#EXTINF:-1 group-title="Astra-2", INCL_ZEE BANGLA
-http://103.99.249.107:81/play/a02z
-#EXTINF:-1 group-title="Astra-2", INCL_ZEE CINEMA
-http://103.99.249.107:81/play/a036
-#EXTINF:-1 group-title="Astra-2", INCL_ZEE TV
-http://103.99.249.107:81/play/a03a
-#EXTINF:-1 group-title="Astra-2", INCL_Zee Bangla Cinema
-http://103.99.249.107:81/play/a039
-#EXTINF:-1 group-title="Astra-2", IPTV- BeiN Sports 1 EN
-http://103.99.249.107:81/play/a07q
-#EXTINF:-1 group-title="Astra-2", IPTV- Brat TV HD
-http://103.99.249.107:81/play/a08d
-#EXTINF:-1 group-title="Astra-2", IPTV- HBO
-http://103.99.249.107:81/play/a080
-#EXTINF:-1 group-title="Astra-2", IPTV- HBO Hits
-http://103.99.249.107:81/play/a07z
-#EXTINF:-1 group-title="Astra-2", IPTV- NASA TV HD
-http://103.99.249.107:81/play/a08c
-#EXTINF:-1 group-title="Astra-2", IPTV--BeiN Sports XTRA
-http://103.99.249.107:81/play/a07w
-#EXTINF:-1 group-title="Astra-2", IPTV-37-PTV Sports
-http://103.99.249.107:81/play/a02l
-#EXTINF:-1 group-title="Astra-2", IPTV-BeiN Sports 3 AR
-http://103.99.249.107:81/play/a02d
-#EXTINF:-1 group-title="Astra-2", IPTV-Bein Sport 2 AR
-http://103.99.249.107:81/play/a06f
-#EXTINF:-1 group-title="Astra-2", IPTV-LaLiga HD
-http://103.99.249.107:81/play/a05h
-#EXTINF:-1 group-title="Astra-2", IPTV-SUPER SPORTS PSL
-http://103.99.249.107:81/play/a05o
-#EXTINF:-1 group-title="Astra-2", IPTV-SUPER SPORTS W W E
-http://103.99.249.107:81/play/a07k
-#EXTINF:-1 group-title="Astra-2", M- AXN HD
-http://103.99.249.107:81/play/a082
-#EXTINF:-1 group-title="Astra-2", M- BBC NEWS
-http://103.99.249.107:81/play/a05e
-#EXTINF:-1 group-title="Astra-2", M- CNN NEWS
-http://103.99.249.107:81/play/a05g
-#EXTINF:-1 group-title="Astra-2", M- GAZI TV HD
-http://103.99.249.107:81/play/a02m
-#EXTINF:-1 group-title="Astra-2", M- Golf Sports
-http://103.99.249.107:81/play/golfsports
-#EXTINF:-1 group-title="Astra-2", M- SONY TEN 1 HD
-http://103.99.249.107:81/play/a05k
-#EXTINF:-1 group-title="Astra-2", M- SONY TEN 2 HD
-http://103.99.249.107:81/play/a05l
-#EXTINF:-1 group-title="Astra-2", M- SONY TEN 3 HD
-http://103.99.249.107:81/play/a05m
-#EXTINF:-1 group-title="Astra-2", M- T Sports HD
-http://103.99.249.107:81/play/a02k
-#EXTINF:-1 group-title="Astra-2", M- Ten Cricket
-http://103.99.249.107:81/play/a03r
-#EXTINF:-1 group-title="Astra-2", M- Wedigital HD
-http://103.99.249.107:81/play/a02f
+#EXTINF:-1,&Prive HD - Rs 6.00
+http://103.178.58.10:8000/play/a02m/index.m3u8
+#EXTINF:-1,&Xplor HD - Rs 4.00
+http://103.178.58.10:8000/play/a02p/index.m3u8
+#EXTINF:-1,&flix HD - Rs 19.00
+http://103.178.58.10:8000/play/a005/index.m3u8
+#EXTINF:-1,&pictures HD - Rs 19.00
+http://103.178.58.10:8000/play/a021/index.m3u8
+#EXTINF:-1,&tv HD - Rs 19.00
+http://103.178.58.10:8000/play/a022/index.m3u8
+#EXTINF:-1,ABP Majha
+http://103.178.58.10:8000/play/a04v/index.m3u8
+#EXTINF:-1,Adhitya TV
+http://103.178.58.10:8000/play/a04z/index.m3u8
+#EXTINF:-1,Animal Planet HD  - Rs 5.00
+http://103.178.58.10:8000/play/a02f/index.m3u8
+#EXTINF:-1,Asianet HD - Rs 22.00
+http://103.178.58.10:8000/play/a01s/index.m3u8
+#EXTINF:-1,Asianet Movies HD - Rs 19.00
+http://103.178.58.10:8000/play/a02q/index.m3u8
+#EXTINF:-1,Asianet Plus
+http://103.178.58.10:8000/play/a04p/index.m3u8
+#EXTINF:-1,Colors Cineplex HD - Rs 19.00
+http://103.178.58.10:8000/play/a02d/index.m3u8
+#EXTINF:-1,Colors HD - Rs 19.00
+http://103.178.58.10:8000/play/a00v/index.m3u8
+#EXTINF:-1,Colors Kannada Cinema - Rs 5.00
+http://103.178.58.10:8000/play/a043/index.m3u8
+#EXTINF:-1,Colors Kannada HD - Rs 19.00
+http://103.178.58.10:8000/play/a01k/index.m3u8
+#EXTINF:-1,Colors Marathi HD - Rs 19.00
+http://103.178.58.10:8000/play/a00n/index.m3u8
+#EXTINF:-1,Colors Super
+http://103.178.58.10:8000/play/a052/index.m3u8
+#EXTINF:-1,Colors Tamil HD - Rs 7.00
+http://103.178.58.10:8000/play/a01f/index.m3u8
+#EXTINF:-1,Discovery HD - Rs 8.00
+http://103.178.58.10:8000/play/a02n/index.m3u8
+#EXTINF:-1,EPIC - Rs 5.00
+http://103.178.58.10:8000/play/a00e/index.m3u8
+#EXTINF:-1,ETV Abhiruchi - Rs 3.00
+http://103.178.58.10:8000/play/a01z/index.m3u8
+#EXTINF:-1,ETV Cinema - Rs 15.00
+http://103.178.58.10:8000/play/a049/index.m3u8
+#EXTINF:-1,ETV HD - Rs 19.00
+http://103.178.58.10:8000/play/a039/index.m3u8
+#EXTINF:-1,ETV Plus - Rs 12.00
+http://103.178.58.10:8000/play/a04d/index.m3u8
+#EXTINF:-1,ETV Telangana
+http://103.178.58.10:8000/play/a04t/index.m3u8
+#EXTINF:-1,Flowers TV
+http://103.178.58.10:8000/play/a04k/index.m3u8
+#EXTINF:-1,Gemini Comedy - Rs 5.00
+http://103.178.58.10:8000/play/a048/index.m3u8
+#EXTINF:-1,Gemini Movies HD - Rs 19.00
+http://103.178.58.10:8000/play/a00l/index.m3u8
+#EXTINF:-1,Gemini Music
+http://103.178.58.10:8000/play/a04m/index.m3u8
+#EXTINF:-1,Gemini TV HD - Rs 19.00
+http://103.178.58.10:8000/play/a004/index.m3u8
+#EXTINF:-1,History TV18 HD - Rs 7.00
+http://103.178.58.10:8000/play/a01w/index.m3u8
+#EXTINF:-1,Isai Aruvi - Rs 4.00
+http://103.178.58.10:8000/play/a047/index.m3u8
+#EXTINF:-1,J Movies
+http://103.178.58.10:8000/play/a04u/index.m3u8
+#EXTINF:-1,Jaya Max - Rs 2.25
+http://103.178.58.10:8000/play/a046/index.m3u8
+#EXTINF:-1,Jaya TV HD - Rs 6.00
+http://103.178.58.10:8000/play/a00p/index.m3u8
+#EXTINF:-1,KTV HD - Rs 19.00
+http://103.178.58.10:8000/play/a00m/index.m3u8
+#EXTINF:-1,Kochu TV - Rs 5.00
+http://103.178.58.10:8000/play/a02c/index.m3u8
+#EXTINF:-1,MN+ HD - Rs 10.00
+http://103.178.58.10:8000/play/a026/index.m3u8
+#EXTINF:-1,MNX HD - Rs 10.00
+http://103.178.58.10:8000/play/a028/index.m3u8
+#EXTINF:-1,MTV Beats HD - Rs 1.00
+http://103.178.58.10:8000/play/a01t/index.m3u8
+#EXTINF:-1,MTV HD - Rs 2.00
+http://103.178.58.10:8000/play/a01l/index.m3u8
+#EXTINF:-1,Mazhavil Manorama HD - Free
+http://103.178.58.10:8000/play/a027/index.m3u8
+#EXTINF:-1,Mega 24
+http://103.178.58.10:8000/play/a053/index.m3u8
+#EXTINF:-1,Mega TV - Rs 3.00
+http://103.178.58.10:8000/play/a04b/index.m3u8
+#EXTINF:-1,Movies Now HD - Rs 14.00
+http://103.178.58.10:8000/play/a02g/index.m3u8
+#EXTINF:-1,Murasu TV - Rs 12.00
+http://103.178.58.10:8000/play/a00d/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://103.178.58.10:8000/play/a02k/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD - Rs 8.00
+http://103.178.58.10:8000/play/a02i/index.m3u8
+#EXTINF:-1,Polimer News - Free
+http://103.178.58.10:8000/play/a02a/index.m3u8
+#EXTINF:-1,Polimer TV
+http://103.178.58.10:8000/play/a051/index.m3u8
+#EXTINF:-1,Raj News Telugu
+http://103.178.58.10:8000/play/a04r/index.m3u8
+#EXTINF:-1,Raj TV - Rs 4.00
+http://103.178.58.10:8000/play/a04c/index.m3u8
+#EXTINF:-1,SET HD - Rs 19.00
+http://103.178.58.10:8000/play/a00s/index.m3u8
+#EXTINF:-1,SONY BBC EARTH HD - Rs 19.00
+http://103.178.58.10:8000/play/a01x/index.m3u8
+#EXTINF:-1,SONY MAX HD - Rs 19.00
+http://103.178.58.10:8000/play/a01m/index.m3u8
+#EXTINF:-1,SONY PIX HD - Rs 19.00
+http://103.178.58.10:8000/play/a01p/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 1 HD - Rs 19.00
+http://103.178.58.10:8000/play/a01j/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 2 HD - Rs 19.00
+http://103.178.58.10:8000/play/a01n/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 3 HD - Rs 19.00
+http://103.178.58.10:8000/play/a01o/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 5 HD - Rs 19.00
+http://103.178.58.10:8000/play/a01q/index.m3u8
+#EXTINF:-1,STAR Maa HD - Rs 22.00
+http://103.178.58.10:8000/play/a002/index.m3u8
+#EXTINF:-1,STAR Movies HD - Rs 19.00
+http://103.178.58.10:8000/play/a01r/index.m3u8
+#EXTINF:-1,STAR Movies Select HD - Rs 19.00
+http://103.178.58.10:8000/play/a00i/index.m3u8
+#EXTINF:-1,STAR Plus HD - Rs 22.00
+http://103.178.58.10:8000/play/a00t/index.m3u8
+#EXTINF:-1,Seithigal - Rs 1.00
+http://103.178.58.10:8000/play/a034/index.m3u8
+#EXTINF:-1,Sirippoli TV - Rs 8.00
+http://103.178.58.10:8000/play/a01g/index.m3u8
+#EXTINF:-1,Sony Marathi
+http://103.178.58.10:8000/play/a04y/index.m3u8
+#EXTINF:-1,Sony Sab HD
+http://103.178.58.10:8000/play/a04w/index.m3u8
+#EXTINF:-1,Sports 18 - 1 HD - Rs 19.00
+http://103.178.58.10:8000/play/a03a/index.m3u8
+#EXTINF:-1,Star Bharat HD - Rs 19.00
+http://103.178.58.10:8000/play/a00h/index.m3u8
+#EXTINF:-1,Star Gold 2 HD - Rs 5.00
+http://103.178.58.10:8000/play/a036/index.m3u8
+#EXTINF:-1,Star Gold HD
+http://103.178.58.10:8000/play/a04x/index.m3u8
+#EXTINF:-1,Star Gold Select HD - Rs 8.00
+http://103.178.58.10:8000/play/a01y/index.m3u8
+#EXTINF:-1,Star Jalsha HD - Rs 19.00
+http://103.178.58.10:8000/play/a007/index.m3u8
+#EXTINF:-1,Star Maa Movies HD - Rs 19.00
+http://103.178.58.10:8000/play/a00b/index.m3u8
+#EXTINF:-1,Star Maa Music
+http://103.178.58.10:8000/play/a050/index.m3u8
+#EXTINF:-1,Star Pravah HD - Rs 19.00
+http://103.178.58.10:8000/play/a00y/index.m3u8
+#EXTINF:-1,Star Sports 1 HD - Rs 19.00
+http://103.178.58.10:8000/play/a00u/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi HD - Rs 19.00
+http://103.178.58.10:8000/play/a00z/index.m3u8
+#EXTINF:-1,Star Sports 1 Tamil HD - Rs 19.00
+http://103.178.58.10:8000/play/a014/index.m3u8
+#EXTINF:-1,Star Sports 1 Telugu HD - Rs 19.00
+http://103.178.58.10:8000/play/a00g/index.m3u8
+#EXTINF:-1,Star Sports 2 HD - Rs 19.00
+http://103.178.58.10:8000/play/a016/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD - Rs 19.00
+http://103.178.58.10:8000/play/a006/index.m3u8
+#EXTINF:-1,Star Sports Select 2 HD - Rs 15.00
+http://103.178.58.10:8000/play/a008/index.m3u8
+#EXTINF:-1,Star Suvarna HD - Rs 22.00
+http://103.178.58.10:8000/play/a04f/index.m3u8
+#EXTINF:-1,Sun Music HD - Rs 19.00
+http://103.178.58.10:8000/play/a01e/index.m3u8
+#EXTINF:-1,Sun TV HD - Rs 19.00
+http://103.178.58.10:8000/play/a017/index.m3u8
+#EXTINF:-1,Surya Comedy
+http://103.178.58.10:8000/play/a04n/index.m3u8
+#EXTINF:-1,Surya HD - Rs 19.00
+http://103.178.58.10:8000/play/a038/index.m3u8
+#EXTINF:-1,Surya Movies - Rs 11.00
+http://103.178.58.10:8000/play/a04g/index.m3u8
+#EXTINF:-1,Surya Music
+http://103.178.58.10:8000/play/a04l/index.m3u8
+#EXTINF:-1,TLC HD - Rs 3.00
+http://103.178.58.10:8000/play/a02h/index.m3u8
+#EXTINF:-1,Udaya Comedy
+http://103.178.58.10:8000/play/a04s/index.m3u8
+#EXTINF:-1,Udaya HD - Rs 19.00
+http://103.178.58.10:8000/play/a01d/index.m3u8
+#EXTINF:-1,Udaya Movies
+http://103.178.58.10:8000/play/a04q/index.m3u8
+#EXTINF:-1,Udaya Music - Rs 5.00
+http://103.178.58.10:8000/play/a04e/index.m3u8
+#EXTINF:-1,Vijay HD - Rs 22.00
+http://103.178.58.10:8000/play/a015/index.m3u8
+#EXTINF:-1,Vijay Super HD - Rs 19.00
+http://103.178.58.10:8000/play/a02t/index.m3u8
+#EXTINF:-1,Vijay Takkar - Rs 2.00
+http://103.178.58.10:8000/play/a003/index.m3u8
+#EXTINF:-1,Zee Cinema HD - Rs 19.00
+http://103.178.58.10:8000/play/a009/index.m3u8
+#EXTINF:-1,Zee Cinemalu HD
+http://103.178.58.10:8000/play/a04j/index.m3u8
+#EXTINF:-1,Zee Kannada HD - Rs 19.00
+http://103.178.58.10:8000/play/a00k/index.m3u8
+#EXTINF:-1,Zee Keralam HD - Rs 10.00
+http://103.178.58.10:8000/play/a037/index.m3u8
+#EXTINF:-1,Zee Marathi HD - Rs 19.00
+http://103.178.58.10:8000/play/a010/index.m3u8
+#EXTINF:-1,Zee News_C1
+http://103.178.58.10:8000/play/a03f/index.m3u8
+#EXTINF:-1,Zee News_C10
+http://103.178.58.10:8000/play/a041/index.m3u8
+#EXTINF:-1,Zee News_C11
+http://103.178.58.10:8000/play/a042/index.m3u8
+#EXTINF:-1,Zee News_C2
+http://103.178.58.10:8000/play/a03t/index.m3u8
+#EXTINF:-1,Zee News_C4
+http://103.178.58.10:8000/play/a03v/index.m3u8
+#EXTINF:-1,Zee News_C5
+http://103.178.58.10:8000/play/a03w/index.m3u8
+#EXTINF:-1,Zee News_C6
+http://103.178.58.10:8000/play/a03x/index.m3u8
+#EXTINF:-1,Zee News_C7
+http://103.178.58.10:8000/play/a03y/index.m3u8
+#EXTINF:-1,Zee News_C8
+http://103.178.58.10:8000/play/a03z/index.m3u8
+#EXTINF:-1,Zee Picchar HD - Rs 16.00
+http://103.178.58.10:8000/play/a02u/index.m3u8
+#EXTINF:-1,Zee TV - Rs 19.00
+http://103.178.58.10:8000/play/a056/index.m3u8
+#EXTINF:-1,Zee Talkies HD - Rs 19.00
+http://103.178.58.10:8000/play/a02l/index.m3u8
+#EXTINF:-1,Zee Tamil HD - Rs 19.00
+http://103.178.58.10:8000/play/a013/index.m3u8
+#EXTINF:-1,Zee Telugu HD - Rs 19.00
+http://103.178.58.10:8000/play/a012/index.m3u8
+#EXTINF:-1,Zee Thirai HD - Rs 16.00
+http://103.178.58.10:8000/play/a02v/index.m3u8
+#EXTINF:-1,Zee Yuva
+http://103.178.58.10:8000/play/a04o/index.m3u8
+EXTINF:-1,ZEE Cafe H-Rs19
+http://103.157.210.165:8000/play/a00h/index.m3u8
+#EXTINF:-1,ANIMAL PLAN HD-Rs3
+http://103.157.210.165:8000/play/a01c/index.m3u8
+#EXTINF:-1,MOVIES NO-Rs 10
+http://103.157.210.165:8000/play/a010/index.m3u8
+#EXTINF:-1,colors INFIN HD-Rs9
+http://103.157.210.165:8000/play/a01m/index.m3u8
+#EXTINF:-1,STAR MOV HD-Rs 19
+http://103.157.210.165:8000/play/a00j/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://103.157.210.165:8000/play/a009/index.m3u8
+#EXTINF:-1,SET HD - Rs 19
+http://103.157.210.165:8000/play/a017/index.m3u8
+#EXTINF:-1,PIX HD - Rs 15
+http://103.157.210.165:8000/play/a01h/index.m3u8
+#EXTINF:-1,&flix HD-Rs19
+http://103.157.210.165:8000/play/a016/index.m3u8
+#EXTINF:-1,Star Sports S 1 HD-Rs19
+http://103.157.210.165:8000/play/a01j/index.m3u8
+#EXTINF:-1,Star Sports 3 Rs 4
+http://103.157.210.165:8000/play/a00f/index.m3u8
+#EXTINF:-1,Star S Hin 1 HD- Rs19
+http://103.157.210.165:8000/play/a00b/index.m3u8
+#EXTINF:-1,nick - Rs 6
+http://103.157.210.165:8000/play/a00s/index.m3u8
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://103.157.210.165:8000/play/a00d/index.m3u8
+#EXTINF:-1,DISCOVERY K-Rs3
+http://103.157.210.165:8000/play/a00y/index.m3u8
+#EXTINF:-1,Star Plus HD -Rs19
+http://103.157.210.165:8000/play/a013/index.m3u8
+#EXTINF:-1,STAR BHARAT HD-Rs19
+http://103.157.210.165:8000/play/a01b/index.m3u8
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.157.210.165:8000/play/a00u/index.m3u8
+#EXTINF:-1,Star GOLD HD -Rs10
+http://103.157.210.165:8000/play/a01d/index.m3u8
+#EXTINF:-1,HISTORY TV18 HD-Rs7
+http://103.157.210.165:8000/play/a01e/index.m3u8
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.157.210.165:8000/play/a00w/index.m3u8
+#EXTINF:-1,Discovery HD-Rs6
+http://103.157.210.165:8000/play/a00m/index.m3u8
+#EXTINF:-1,CARTOON-Rs4.25
+http://103.157.210.165:8000/play/a00p/index.m3u8
+#EXTINF:-1,Sony BBC EarHD-Rs10
+http://103.157.210.165:8000/play/a01g/index.m3u8
+#EXTINF:-1,ThrillerActive-Rs45
+http://103.157.210.165:8000/play/a03w/index.m3u8
+#EXTINF:-1,SONIC- Rs 2
+http://103.157.210.165:8000/play/a00v/index.m3u8
+#EXTINF:-1,ZEE ANMOL-10p
+http://103.157.210.165:8000/play/a03m/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://103.157.210.165:8000/play/a00e/index.m3u8
+#EXTINF:-1,hungama tv-Rs 6
+http://103.157.210.165:8000/play/a00q/index.m3u8
+#EXTINF:-1,MAX HD -Rs 17
+http://103.157.210.165:8000/play/a00c/index.m3u8
+#EXTINF:-1,colors rishtey-Rs1
+http://103.157.210.165:8000/play/a03d/index.m3u8
+#EXTINF:-1,SONY PAL - 50p
+http://103.157.210.165:8000/play/a03l/index.m3u8
+#EXTINF:-1,TLC HD- Rs3
+http://103.157.210.165:8000/play/a00g/index.m3u8
+#EXTINF:-1,Romedy NOW-Rs 6
+http://103.157.210.165:8000/play/a011/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 10
+http://103.157.210.165:8000/play/a00i/index.m3u8
+#EXTINF:-1,Star Spo 2 HD- Rs19
+http://103.157.210.165:8000/play/a008/index.m3u8
+#EXTINF:-1,StarMov S HD-Rs 10
+http://103.157.210.165:8000/play/a00k/index.m3u8
+#EXTINF:-1,Star Sports S 2 HD-Rs10
+http://103.157.210.165:8000/play/a01k/index.m3u8
+#EXTINF:-1,ZEE CINEMA HD-Rs19
+http://103.157.210.165:8000/play/a01a/index.m3u8
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://103.157.210.165:8000/play/a014/index.m3u8
+#EXTINF:-1,Star Sports S 1 HD-Rs19 (clone)
+http://103.157.210.165:8000/play/a01z/index.m3u8
+#EXTINF:-1,Star Spo 1 HD-Rs19
+http://103.157.210.165:8000/play/a007/index.m3u8
+#EXTINF:-1,Nick Jr. - Rs1
+http://103.157.210.165:8000/play/a00x/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://103.157.210.165:8000/play/a01l/index.m3u8
+#EXTINF:-1,EuroSports HD-Rs 6
+http://103.157.210.165:8000/play/a018/index.m3u8
+#EXTINF:-1,SIX HD - Rs 19
+http://103.157.210.165:8000/play/a00a/index.m3u8
+#EXTINF:-1,National G HD-Rs10
+http://103.157.210.165:8000/play/a00l/index.m3u8
+#EXTINF:-1,Star Gold SelHD-Rs10
+http://103.157.210.165:8000/play/a01f/index.m3u8
+#EXTINF:-1,&pictures HD -Rs19
+http://103.157.210.165:8000/play/a01i/index.m3u8
+#EXTINF:-1,&PRIVE HD-Rs 19
+http://103.157.210.165:8000/play/a01o/index.m3u8
+#EXTINF:-1,Disney Chan-Rs8
+http://103.157.210.165:8000/play/a00r/index.m3u8
+#EXTINF:-1,nick HD+- Rs 10
+http://103.157.210.165:8000/play/a01n/index.m3u8
+#EXTINF:-1,Colors HD-Rs 19
+http://103.157.210.165:8000/play/a015/index.m3u8
+#EXTINF:-1,& FLIX HD
+http://103.169.98.53:8000/play/a07q
+#EXTINF:-1,& PICTURES HD
+http://103.169.98.53:8000/play/a087
+#EXTINF:-1,& PRIVE HD
+http://103.169.98.53:8000/play/a08d
+#EXTINF:-1,& TV HD
+http://103.169.98.53:8000/play/a08p
+#EXTINF:-1,&TV SD
+http://103.169.98.53:8000/play/a0sv
+#EXTINF:-1,24 NEWS HD
+http://103.169.98.53:8000/play/24NEWSHD
+#EXTINF:-1,92 NEWS HD
+http://103.169.98.53:8000/play/a0u6
+#EXTINF:-1,A PLUS
+http://103.169.98.53:8000/play/a0un
+#EXTINF:-1,A SPORT HD
+http://103.169.98.53:8000/play/a0u7
+#EXTINF:-1,A1 PAKISTAN
+http://103.169.98.53:8000/play/a0uo
+#EXTINF:-1,AAJ ENTERTAINMENT
+http://103.169.98.53:8000/play/a0vf
+#EXTINF:-1,AAJ NEWS (IN)
+http://103.169.98.53:8000/play/AAJNEWS
+#EXTINF:-1,AAN TV
+http://103.169.98.53:8000/play/a0w3
+#EXTINF:-1,ABB TAKK NEWS
+http://103.169.98.53:8000/play/AbbTakkNews
+#EXTINF:-1,AIK NEWS
+http://103.169.98.53:8000/play/a0wi
+#EXTINF:-1,AJJ NEWS
+http://103.169.98.53:8000/play/AJJNEWS
+#EXTINF:-1,ANIMAL PLANET HD
+http://103.169.98.53:8000/play/a081
+#EXTINF:-1,APNA TV
+http://103.169.98.53:8000/play/a0w6
+#EXTINF:-1,ARUJ-ENTERTAINMENT
+http://103.169.98.53:8000/play/a0w7
+#EXTINF:-1,ARY DIGITAL ASIA HD
+http://103.169.98.53:8000/play/a0up
+#EXTINF:-1,ARY MUSIK
+http://103.169.98.53:8000/play/a0uq
+#EXTINF:-1,ARY NEWS ASIA
+http://103.169.98.53:8000/play/a0ur
+#EXTINF:-1,ARY QTV
+http://103.169.98.53:8000/play/a0us
+#EXTINF:-1,ARY ZINDAGI
+http://103.169.98.53:8000/play/a0uy
+#EXTINF:-1,ASIANET HD
+http://103.169.98.53:8000/play/a0tx
+#EXTINF:-1,ASIANET MOVIES HD
+http://103.169.98.53:8000/play/a0k8
+#EXTINF:-1,ATVHD
+http://103.169.98.53:8000/play/a0ux
+#EXTINF:-1,BIG MAGIC - 10p
+http://103.169.98.53:8000/play/a0sp
+#EXTINF:-1,BINDASS
+http://103.169.98.53:8000/play/a07u
+#EXTINF:-1,BOL-ENTERTAINMENT
+http://103.169.98.53:8000/play/a0w8
+#EXTINF:-1,BOL-NEWS
+http://103.169.98.53:8000/play/a0w9
+#EXTINF:-1,Balle Balle- Free
+http://103.169.98.53:8000/play/a0om
+#EXTINF:-1,Bhakti Active- Rs 45
+http://103.169.98.53:8000/play/a0rs
+#EXTINF:-1,CAPITAL TV PAKISTAN
+http://103.169.98.53:8000/play/a0wj
+#EXTINF:-1,CARTOON NETWORK
+http://103.169.98.53:8000/play/a09b
+#EXTINF:-1,CHANNEL 5
+http://103.169.98.53:8000/play/a0vg
+#EXTINF:-1,CHANNEL FIVE
+http://103.169.98.53:8000/play/a0uw
+#EXTINF:-1,CITY 42
+http://103.169.98.53:8000/play/a0wg
+#EXTINF:-1,CNBC Prime HD -Rs1
+http://103.169.98.53:8000/play/a0ok
+#EXTINF:-1,COLORS HD
+http://103.169.98.53:8000/play/a07p
+#EXTINF:-1,COLORS INFINITY HD
+http://103.169.98.53:8000/play/a08b
+#EXTINF:-1,COLORS KANNADA HD
+http://103.169.98.53:8000/play/a0k2
+#EXTINF:-1,COLORS RISHTEY
+http://103.169.98.53:8000/play/a07t
+#EXTINF:-1,Cine Active- Rs 27
+http://103.169.98.53:8000/play/a0rv
+#EXTINF:-1,ColorsGujCinema-Rs1
+http://103.169.98.53:8000/play/a0qm
+#EXTINF:-1,Comedy Active- Rs 45
+http://103.169.98.53:8000/play/a0p6
+#EXTINF:-1,Cooking Active-Rs 45
+http://103.169.98.53:8000/play/a0qi
+#EXTINF:-1,DAWN NEWS
+http://103.169.98.53:8000/play/a0vh
+#EXTINF:-1,DD NATIONAL- Free
+http://103.169.98.53:8000/play/a0t8
+#EXTINF:-1,DISCOVERY HD
+http://103.169.98.53:8000/play/a099
+#EXTINF:-1,DISCOVERY INVESTIGATION SD
+http://103.169.98.53:8000/play/a08z
+#EXTINF:-1,DISCOVERY KIDS SD
+http://103.169.98.53:8000/play/a09k
+#EXTINF:-1,DISCOVERY SCIENCE
+http://103.169.98.53:8000/play/a08f
+#EXTINF:-1,DISCOVERY TURBO
+http://103.169.98.53:8000/play/a08g
+#EXTINF:-1,DISNEY INDIA SD
+http://103.169.98.53:8000/play/a09d
+#EXTINF:-1,DISNEY JR. SD
+http://103.169.98.53:8000/play/a09f
+#EXTINF:-1,DUNYA NEWS HD
+http://103.169.98.53:8000/play/DUNYANEWSHD
+#EXTINF:-1,Discovery- Rs 4
+http://103.169.98.53:8000/play/a0r4
+#EXTINF:-1,ETV Abhiruchi-Rs3
+http://103.169.98.53:8000/play/a0q5
+#EXTINF:-1,ETV Cinema-Rs 13
+http://103.169.98.53:8000/play/a0kg
+#EXTINF:-1,ETV HD - Rs 19
+http://103.169.98.53:8000/play/a0k3
+#EXTINF:-1,ETV Telengana-Rs2
+http://103.169.98.53:8000/play/a0q8
+#EXTINF:-1,EUROSPORT HD
+http://103.169.98.53:8000/play/a07s
+#EXTINF:-1,EXPRESS ENTERTAINMENT
+http://103.169.98.53:8000/play/a0vi
+#EXTINF:-1,EXPRESS NEWS
+http://103.169.98.53:8000/play/a0vj
+#EXTINF:-1,Evergreen Classics-Rs45
+http://103.169.98.53:8000/play/a0tu
+#EXTINF:-1,FAST SPORTS HD
+http://103.169.98.53:8000/play/a0uc
+#EXTINF:-1,FILMAZIA-GAANE
+http://103.169.98.53:8000/play/a0w4
+#EXTINF:-1,FLOWERS
+http://103.169.98.53:8000/play/a0s6
+#EXTINF:-1,FOX LIFE HD
+http://103.169.98.53:8000/play/a08n
+#EXTINF:-1,Fitness Active- Rs 45
+http://103.169.98.53:8000/play/a0qf
+#EXTINF:-1,GEMINI LIFE -Rs 5
+http://103.169.98.53:8000/play/a0kf
+#EXTINF:-1,GEMINI TV HD -Rs19
+http://103.169.98.53:8000/play/a0j9
+#EXTINF:-1,GEO ENTERTAINMENT HD
+http://103.169.98.53:8000/play/a0ud
+#EXTINF:-1,GEO KAHANI
+http://103.169.98.53:8000/play/a0ue
+#EXTINF:-1,GEO NEWS
+http://103.169.98.53:8000/play/a0uf
+#EXTINF:-1,GEO SUPER
+http://103.169.98.53:8000/play/a0ug
+#EXTINF:-1,GEO TEZ
+http://103.169.98.53:8000/play/a0uh
+#EXTINF:-1,GNN NEWS UHD
+http://103.169.98.53:8000/play/GNNNEWSUHD
+#EXTINF:-1,GREEN ENTERTAINMENT HD
+http://103.169.98.53:8000/play/a0u8
+#EXTINF:-1,GTV NEWS HD
+http://103.169.98.53:8000/play/a0wc
+#EXTINF:-1,HADI TV
+http://103.169.98.53:8000/play/a0vk
+#EXTINF:-1,HISTORY TV18 HD
+http://103.169.98.53:8000/play/a083
+#EXTINF:-1,HUM MASALA TV
+http://103.169.98.53:8000/play/a0vl
+#EXTINF:-1,HUM NEWS HD
+http://103.169.98.53:8000/play/HUMNEWSHD
+#EXTINF:-1,HUM PASHTO 1
+http://103.169.98.53:8000/play/a0vn
+#EXTINF:-1,HUM SITARAY
+http://103.169.98.53:8000/play/a0vo
+#EXTINF:-1,HUM TV HD
+http://103.169.98.53:8000/play/a0u9
+#EXTINF:-1,HUNGAMA TV
+http://103.169.98.53:8000/play/a09c
+#EXTINF:-1,Hits Active- Rs 45
+http://103.169.98.53:8000/play/a0r0
+#EXTINF:-1,Ibadat Active- Rs 45
+http://103.169.98.53:8000/play/a0pb
+#EXTINF:-1,India Daily Live- Free
+http://103.169.98.53:8000/play/a0sx
+#EXTINF:-1,JAYA MAX-Rs 2.52
+http://103.169.98.53:8000/play/a0s4
+#EXTINF:-1,JAYA PLUS- Rs1.68
+http://103.169.98.53:8000/play/a0sb
+#EXTINF:-1,Jalsha Movies-Rs15
+http://103.169.98.53:8000/play/a0rz
+#EXTINF:-1,JalshaMoviesHD-Rs19
+http://103.169.98.53:8000/play/a092
+#EXTINF:-1,KAY2 TV
+http://103.169.98.53:8000/play/a0wf
+#EXTINF:-1,KHYBER NEWS HD
+http://103.169.98.53:8000/play/a0we
+#EXTINF:-1,KTV HD
+http://103.169.98.53:8000/play/a0j7
+#EXTINF:-1,KUWAIT TV
+http://103.169.98.53:8000/play/a0uv
+#EXTINF:-1,LAHORE NEWS HD
+http://103.169.98.53:8000/play/LAHORENEWSHD
+#EXTINF:-1,LAHORE RANG HD
+http://103.169.98.53:8000/play/a0wd
+#EXTINF:-1,MADANI TV
+http://103.169.98.53:8000/play/a0uu
+#EXTINF:-1,METRO 1
+http://103.169.98.53:8000/play/a0ut
+#EXTINF:-1,METRO NEWS
+http://103.169.98.53:8000/play/a0uz
+#EXTINF:-1,MH ONE - Free
+http://103.169.98.53:8000/play/a0so
+#EXTINF:-1,MINI MAX (PAKISTAN)
+http://103.169.98.53:8000/play/a0v0
+#EXTINF:-1,MN+ HD
+http://103.169.98.53:8000/play/a095
+#EXTINF:-1,MTV Beats- 10p
+http://103.169.98.53:8000/play/a0qk
+#EXTINF:-1,MTV SD
+http://103.169.98.53:8000/play/a09i
+#EXTINF:-1,Mazhavil ManHD-Free
+http://103.169.98.53:8000/play/a0ti
+#EXTINF:-1,Movies Active- Rs 61
+http://103.169.98.53:8000/play/a0rx
+#EXTINF:-1,NAAT
+http://103.169.98.53:8000/play/NAAT
+#EXTINF:-1,NAT GEO HD
+http://103.169.98.53:8000/play/a098
+#EXTINF:-1,NAT GEO WILD HD
+http://103.169.98.53:8000/play/a08y
+#EXTINF:-1,NEO NEWS HD
+http://103.169.98.53:8000/play/NEONEWSHD
+#EXTINF:-1,NEWS 1
+http://103.169.98.53:8000/play/NEWS1
+#EXTINF:-1,NEWS ONE
+http://103.169.98.53:8000/play/a0vq
+#EXTINF:-1,NHK WORLD JPN
+http://103.169.98.53:8000/play/a0ui
+#EXTINF:-1,NICK HD+
+http://103.169.98.53:8000/play/a0ad
+#EXTINF:-1,NICK Jr.
+http://103.169.98.53:8000/play/a09j
+#EXTINF:-1,NICK SD
+http://103.169.98.53:8000/play/a09e
+#EXTINF:-1,NOOR TV
+http://103.169.98.53:8000/play/a0v1
+#EXTINF:-1,PAIGHAM PASHTO
+http://103.169.98.53:8000/play/a0vr
+#EXTINF:-1,PAK_VOICE NEWS
+http://103.169.98.53:8000/play/a0vs
+#EXTINF:-1,PEACE TV HD ENGLISH
+http://103.169.98.53:8000/play/a0v2
+#EXTINF:-1,PEACE TV HD URDU
+http://103.169.98.53:8000/play/a0v3
+#EXTINF:-1,PLAY TV
+http://103.169.98.53:8000/play/a0vt
+#EXTINF:-1,POGO SD
+http://103.169.98.53:8000/play/a09h
+#EXTINF:-1,PTC NEWS - Free
+http://103.169.98.53:8000/play/a0t7
+#EXTINF:-1,PTC PUNJABI- Free
+http://103.169.98.53:8000/play/a0t6
+#EXTINF:-1,PTC Simran- Free
+http://103.169.98.53:8000/play/a0rt
+#EXTINF:-1,PTC chakde-Free
+http://103.169.98.53:8000/play/a0t9
+#EXTINF:-1,PTV HOME HD
+http://103.169.98.53:8000/play/a0uj
+#EXTINF:-1,PTV NEWS HD
+http://103.169.98.53:8000/play/PTVNEWSHD
+#EXTINF:-1,PTV SPORTS HD
+http://103.169.98.53:8000/play/a0uk
+#EXTINF:-1,PTV WORLD
+http://103.169.98.53:8000/play/a0ul
+#EXTINF:-1,PUBLIC TV
+http://103.169.98.53:8000/play/a0wa
+#EXTINF:-1,Public Movies-Free
+http://103.169.98.53:8000/play/a0ta
+#EXTINF:-1,Punjabi Active-Rs45
+http://103.169.98.53:8000/play/a0qz
+#EXTINF:-1,QURAN TV
+http://103.169.98.53:8000/play/a0v4
+#EXTINF:-1,QURAN URDU
+http://103.169.98.53:8000/play/QURANURDU
+#EXTINF:-1,ROHI
+http://103.169.98.53:8000/play/a0wh
+#EXTINF:-1,ROZE NEWS
+http://103.169.98.53:8000/play/a0wb
+#EXTINF:-1,Raj  TV - Rs 4
+http://103.169.98.53:8000/play/a0ss
+#EXTINF:-1,Raj MUSIX -Rs 1.40
+http://103.169.98.53:8000/play/a0qv
+#EXTINF:-1,Raj NEWS -28p
+http://103.169.98.53:8000/play/a0qu
+#EXTINF:-1,RajDigitalPl-Rs1.60
+http://103.169.98.53:8000/play/a0qa
+#EXTINF:-1,RajMusixKannad-Free
+http://103.169.98.53:8000/play/a0sq
+#EXTINF:-1,RangmanchActiv-Rs66
+http://103.169.98.53:8000/play/a0pd
+#EXTINF:-1,SAB TV
+http://103.169.98.53:8000/play/a0v9
+#EXTINF:-1,SAMMA NEWS
+http://103.169.98.53:8000/play/SAMAA
+#EXTINF:-1,SAUDI QURAN
+http://103.169.98.53:8000/play/a0va
+#EXTINF:-1,SAUDI SUNNAH HD
+http://103.169.98.53:8000/play/a0vb
+#EXTINF:-1,SAUDI TV 1 HD
+http://103.169.98.53:8000/play/a0vc
+#EXTINF:-1,SHARJAH TV
+http://103.169.98.53:8000/play/a0vd
+#EXTINF:-1,SILVER SCREEN
+http://103.169.98.53:8000/play/a0ve
+#EXTINF:-1,SONIC NICK SD
+http://103.169.98.53:8000/play/a09g
+#EXTINF:-1,SONY AATH- Rs 5.50
+http://103.169.98.53:8000/play/a0ow
+#EXTINF:-1,SONY BBC EARTH HD
+http://103.169.98.53:8000/play/a085
+#EXTINF:-1,SONY MAX 2 SD
+http://103.169.98.53:8000/play/a08l
+#EXTINF:-1,SONY MAX HD
+http://103.169.98.53:8000/play/a08x
+#EXTINF:-1,SONY PAL
+http://103.169.98.53:8000/play/a07w
+#EXTINF:-1,SONY PIX HD
+http://103.169.98.53:8000/play/a086
+#EXTINF:-1,SONY SAB HD
+http://103.169.98.53:8000/play/a08q
+#EXTINF:-1,SONY SAB SD
+http://103.169.98.53:8000/play/a0sl
+#EXTINF:-1,SONY SET HD
+http://103.169.98.53:8000/play/a07r
+#EXTINF:-1,SONY SPORTS 1 HD
+http://103.169.98.53:8000/play/a08u
+#EXTINF:-1,SONY SPORTS 1 SD
+http://103.169.98.53:8000/play/a0or
+#EXTINF:-1,SONY SPORTS 2 HD
+http://103.169.98.53:8000/play/a05g
+#EXTINF:-1,SONY SPORTS 2 SD
+http://103.169.98.53:8000/play/a08a
+#EXTINF:-1,SONY SPORTS 3 HD
+http://103.169.98.53:8000/play/a090
+#EXTINF:-1,SONY SPORTS 3 SD
+http://103.169.98.53:8000/play/a0ot
+#EXTINF:-1,SONY SPORTS 4 SD
+http://103.169.98.53:8000/play/a0pr
+#EXTINF:-1,SONY SPORTS 5 HD
+http://103.169.98.53:8000/play/a08V
+#EXTINF:-1,SONY SPORTS 5 SD
+http://103.169.98.53:8000/play/a0ov
+#EXTINF:-1,SPECIAL TV
+http://103.169.98.53:8000/play/a0v8
+#EXTINF:-1,SPORTS 18 1 HD
+http://103.169.98.53:8000/play/a093
+#EXTINF:-1,STAR BHARAT HD
+http://103.169.98.53:8000/play/a080
+#EXTINF:-1,STAR GOLD 2 SD
+http://103.169.98.53:8000/play/a08j
+#EXTINF:-1,STAR GOLD HD
+http://103.169.98.53:8000/play/a082
+#EXTINF:-1,STAR GOLD ROMANCE
+http://103.169.98.53:8000/play/a08i
+#EXTINF:-1,STAR GOLD SD
+http://103.169.98.53:8000/play/a0rq
+#EXTINF:-1,STAR GOLD SELECT HD
+http://103.169.98.53:8000/play/a084
+#EXTINF:-1,STAR GOLD THRILLS
+http://103.169.98.53:8000/play/a08h
+#EXTINF:-1,STAR JALSHA HD-Rs19
+http://103.169.98.53:8000/play/a0of
+#EXTINF:-1,STAR MAA HD
+http://103.169.98.53:8000/play/a0k9
+#EXTINF:-1,STAR MAA MOVIES HD
+http://103.169.98.53:8000/play/SMMHD
+#EXTINF:-1,STAR MOVIES HD
+http://103.169.98.53:8000/play/a096
+#EXTINF:-1,STAR MOVIES SELECT HD
+http://103.169.98.53:8000/play/a097
+#EXTINF:-1,STAR PLUS HD
+http://103.169.98.53:8000/play/a07n
+#EXTINF:-1,STAR PLUS SD
+http://103.169.98.53:8000/play/a0sg
+#EXTINF:-1,STAR PRAVAH HD
+http://103.169.98.53:8000/play/a074
+#EXTINF:-1,STAR SPORTS 1 HD
+http://103.169.98.53:8000/play/a08s
+#EXTINF:-1,STAR SPORTS 1 HD HINDI
+http://103.169.98.53:8000/play/a08w
+#EXTINF:-1,STAR SPORTS 1 SD HINDI
+http://103.169.98.53:8000/play/a0oq
+#EXTINF:-1,STAR SPORTS 2 HD
+http://103.169.98.53:8000/play/a08t
+#EXTINF:-1,STAR SPORTS 3
+http://103.169.98.53:8000/play/a091
+#EXTINF:-1,STAR SPORTS SELECT 1 HD
+http://103.169.98.53:8000/play/a088
+#EXTINF:-1,STAR SPORTS SELECT 2 HD
+http://103.169.98.53:8000/play/a089
+#EXTINF:-1,STAR UTSAV
+http://103.169.98.53:8000/play/a07v
+#EXTINF:-1,SUCH NEWS
+http://103.169.98.53:8000/play/SUCHNEWS
+#EXTINF:-1,SUDAN TV
+http://103.169.98.53:8000/play/a0v7
+#EXTINF:-1,SUN LIFE- Rs 9
+http://103.169.98.53:8000/play/a0ke
+#EXTINF:-1,SUN MUSIC
+http://103.169.98.53:8000/play/a0s9
+#EXTINF:-1,SUN MUSIC HD
+http://103.169.98.53:8000/play/a071
+#EXTINF:-1,SUN NEWS - Rs 1
+http://103.169.98.53:8000/play/a0sa
+#EXTINF:-1,SUN TV HD-Rs 19
+http://103.169.98.53:8000/play/a06z
+#EXTINF:-1,SURYA COMEDY-Rs 4
+http://103.169.98.53:8000/play/a0kd
+#EXTINF:-1,SURYA HD- Rs 19
+http://103.169.98.53:8000/play/a0k6
+#EXTINF:-1,SURYA MUSIC-Rs 4
+http://103.169.98.53:8000/play/a0qt
+#EXTINF:-1,ShortsTVActive-Rs61
+http://103.169.98.53:8000/play/a0rk
+#EXTINF:-1,Star Maa Gold-Rs7
+http://103.169.98.53:8000/play/a0qo
+#EXTINF:-1,Star Sports 1-Rs19
+http://103.169.98.53:8000/play/a0oo
+#EXTINF:-1,Star Sports 2-Rs4
+http://103.169.98.53:8000/play/a0op
+#EXTINF:-1,StarSuvarnaHD-Rs19
+http://103.169.98.53:8000/play/a0df
+#EXTINF:-1,StarSuvarnaPlus-Rs5
+http://103.169.98.53:8000/play/a0qb
+#EXTINF:-1,Sun Bangla - Free
+http://103.169.98.53:8000/play/a0tr
+#EXTINF:-1,Super Hungama- Rs 4
+http://103.169.98.53:8000/play/a0jj
+#EXTINF:-1,TEN SPORTS FHD
+http://103.169.98.53:8000/play/a0ub
+#EXTINF:-1,TLC HD
+http://103.169.98.53:8000/play/a0bd
+#EXTINF:-1,TRT WORLD HD
+http://103.169.98.53:8000/play/a0um
+#EXTINF:-1,TV ONE
+http://103.169.98.53:8000/play/a0vv
+#EXTINF:-1,ThrillerActive-Rs45
+http://103.169.98.53:8000/play/a0t3
+#EXTINF:-1,UDAYA HD- Rs 19
+http://103.169.98.53:8000/play/a0ka
+#EXTINF:-1,URDU 1
+http://103.169.98.53:8000/play/a0ua
+#EXTINF:-1,VENUS HD
+http://103.169.98.53:8000/play/a0v6
+#EXTINF:-1,VIJAY HD- Rs 19
+http://103.169.98.53:8000/play/a06o
+#EXTINF:-1,VSH NEWS
+http://103.169.98.53:8000/play/a0v5
+#EXTINF:-1,Vijay Super HD - Rs 19
+http://103.169.98.53:8000/play/a0kc
+#EXTINF:-1,WASEB
+http://103.169.98.53:8000/play/a0vw
+#EXTINF:-1,Women'sActive-Rs45
+http://103.169.98.53:8000/play/a0qg
+#EXTINF:-1,ZEE ANMOL
+http://103.169.98.53:8000/play/a07x
+#EXTINF:-1,ZEE BANGLA SD
+http://103.169.98.53:8000/play/a0tw
+#EXTINF:-1,ZEE BOLLYWOOD
+http://103.169.98.53:8000/play/a0aj
+#EXTINF:-1,ZEE Bangla Cine-Rs10
+http://103.169.98.53:8000/play/a0t4
+#EXTINF:-1,ZEE CAFE HD
+http://103.169.98.53:8000/play/a094
+#EXTINF:-1,ZEE CINEMA HD
+http://103.169.98.53:8000/play/a07z
+#EXTINF:-1,ZEE CINEMALU-Rs 10
+http://103.169.98.53:8000/play/a0s1
+#EXTINF:-1,ZEE CinemaluHD-Rs16
+http://103.169.98.53:8000/play/a0se
+#EXTINF:-1,ZEE KANNADA HD
+http://103.169.98.53:8000/play/a0ja
+#EXTINF:-1,ZEE KERALAM HD
+http://103.169.98.53:8000/play/a0hk
+#EXTINF:-1,ZEE MARATHI HD-Rs 19
+http://103.169.98.53:8000/play/a46n
+#EXTINF:-1,ZEE Punjabi- Rs 10
+http://103.169.98.53:8000/play/a0p0
+#EXTINF:-1,ZEE TALKIES HD
+http://103.169.98.53:8000/play/a06l
+#EXTINF:-1,ZEE TAMIL HD
+http://103.169.98.53:8000/play/a0tt
+#EXTINF:-1,ZEE TELUGU HD
+http://103.169.98.53:8000/play/a0sd
+#EXTINF:-1,ZEE TV - Rs 19
+http://103.169.98.53:8000/play/a0sh
+#EXTINF:-1,ZEE TV HD
+http://103.169.98.53:8000/play/a07o
+#EXTINF:-1,ZING
+http://103.169.98.53:8000/play/a0pa
+#EXTINF:-1,ZOOM
+http://103.169.98.53:8000/play/a09l
+#EXTINF:-1,Zee24 KALAK-10p
+http://103.169.98.53:8000/play/a0pf
+#EXTINF:-1,colorMarathiHD-Rs17
+http://103.169.98.53:8000/play/a0oj
+#EXTINF:-1,colors - Rs 19
+http://103.169.98.53:8000/play/a0si
+#EXTINF:-1,colors Bangla-Rs 7
+http://103.169.98.53:8000/play/a0tv
+#EXTINF:-1,colors Gujarati-Rs6
+http://103.169.98.53:8000/play/a0sm
+#EXTINF:-1,colorsBanglaHD-Rs14
+http://103.169.98.53:8000/play/a0oi
+#EXTINF:-1,colorsKanMovies-Rs3
+http://103.169.98.53:8000/play/a0sn
+#EXTINF:-1,iFILE ENGLISH
+http://103.169.98.53:8000/play/a0vp
+#EXTINF:-1,mega 24 - Rs 1
+http://103.169.98.53:8000/play/a0ql
+#EXTINF:-1,Disney Jr.-Rs 4
+http://103.174.195.4:8000/play/a00r
+#EXTINF:-1,Star Gold SelHD-Rs10
+http://103.174.195.4:8000/play/a01h
+#EXTINF:-1,Colors HD-Rs 19
+http://103.174.195.4:8000/play/a015
+#EXTINF:-1,Sports18 1 HD-Rs10
+http://103.174.195.4:8000/play/a03q
+#EXTINF:-1,Nick Jr. - Rs1
+http://103.174.195.4:8000/play/a00u
+#EXTINF:-1,ZEE CINEMA-Rs19
+http://103.174.195.4:8000/play/a01c
+#EXTINF:-1,HISTORY TV1-Rs7
+http://103.174.195.4:8000/play/a01g
+#EXTINF:-1,Star Sport-Rs19
+http://103.174.195.4:8000/play/a01z
+#EXTINF:-1,SIX HD - Rs 19
+http://103.174.195.4:8000/play/a009
+#EXTINF:-1,Star Utsav-50p
+http://103.174.195.4:8000/play/a03o
+#EXTINF:-1,BBC WORLD - Rs 1
+http://103.174.195.4:8000/play/a00z
+#EXTINF:-1,Star Plus -Rs19
+http://103.174.195.4:8000/play/a013
+#EXTINF:-1,FOX Life - Rs 1
+http://103.174.195.4:8000/play/a03i
+#EXTINF:-1,Star Gold 2- Rs 1
+http://103.174.195.4:8000/play/a01u
+#EXTINF:-1,Disney Chan-Rs8
+http://103.174.195.4:8000/play/a00p
+#EXTINF:-1,CNN INTL - 50p
+http://103.174.195.4:8000/play/a00y
+#EXTINF:-1,MAX HD -Rs 17
+http://103.174.195.4:8000/play/a00a
+#EXTINF:-1,145-MN+ HD
+http://103.174.195.4:8000/play/a00h
+#EXTINF:-1,ZEE BOLLYWO-Rs2
+http://103.174.195.4:8000/play/a02r
+#EXTINF:-1,CARTOON-Rs4.25
+http://103.174.195.4:8000/play/a00n
+#EXTINF:-1,SONY MAX 2 - Rs 1
+http://103.174.195.4:8000/play/a01v
+#EXTINF:-1,Discovery H-Rs6
+http://103.174.195.4:8000/play/a00l
+#EXTINF:-1,SAB HD - Rs 19
+http://103.174.195.4:8000/play/a01y
+#EXTINF:-1,Romedy NOW-Rs 6
+http://103.174.195.4:8000/play/a011
+#EXTINF:-1,146-MOVIES NOW
+http://103.174.195.4:8000/play/a010
+#EXTINF:-1,Sony Ten 3 HD- Rs 17
+http://103.174.195.4:8000/play/a00d
+#EXTINF:-1,nick HD+- Rs 10
+http://103.174.195.4:8000/play/a01n
+#EXTINF:-1,Discovery S-Rs1
+http://103.174.195.4:8000/play/a01q
+#EXTINF:-1,142-Star Movies Select
+http://103.174.195.4:8000/play/a00j
+#EXTINF:-1,DISCOVERY K-Rs3
+http://103.174.195.4:8000/play/a00v
+#EXTINF:-1,Sony BBC EarHD-Rs10
+http://103.174.195.4:8000/play/a01i
+#EXTINF:-1,&flix HD-Rs19
+http://103.174.195.4:8000/play/a016
+#EXTINF:-1,ANIMAL PLAN-Rs3
+http://103.174.195.4:8000/play/a01e
+#EXTINF:-1,Star GOLD -Rs10
+http://103.174.195.4:8000/play/a01f
+#EXTINF:-1,Pogo - Rs 4.25
+http://103.174.195.4:8000/play/a030
+#EXTINF:-1,Sony Ten 1 HD- Rs 19
+http://103.174.195.4:8000/play/a008
+#EXTINF:-1,SET HD - Rs 19
+http://103.174.195.4:8000/play/a017
+#EXTINF:-1,nick - Rs 6
+http://103.174.195.4:8000/play/a00q
+#EXTINF:-1,STAR BHARA-Rs19
+http://103.174.195.4:8000/play/a01d
+#EXTINF:-1,PIX HD - Rs 15
+http://103.174.195.4:8000/play/a01j
+#EXTINF:-1,TLC HD- Rs3
+http://103.174.195.4:8000/play/a00f
+#EXTINF:-1,161.ZEE TV HD
+http://103.174.195.4:8000/play/a03m
+#EXTINF:-1,UTV ACTION-Rs 2
+http://103.174.195.4:8000/play/a01t
+#EXTINF:-1,Discovery T-Rs1
+http://103.174.195.4:8000/play/a01r
+#EXTINF:-1,Star Sport- Rs19
+http://103.174.195.4:8000/play/a02o
+#EXTINF:-1,Sony Ten 2 HD- Rs 17
+http://103.174.195.4:8000/play/a01l
+#EXTINF:-1,Star Sport-Rs19
+http://103.174.195.4:8000/play/a006
+#EXTINF:-1,Star Sport-Rs10
+http://103.174.195.4:8000/play/a020
+#EXTINF:-1,UTV MOVIES-Rs 2
+http://103.174.195.4:8000/play/a01s
+#EXTINF:-1,EuroSports HD-Rs 6
+http://103.174.195.4:8000/play/a019
+#EXTINF:-1,Zoom - 50p
+http://103.174.195.4:8000/play/a00w
+#EXTINF:-1,&pictures -Rs19
+http://103.174.195.4:8000/play/a01k
+#EXTINF:-1,&PRIVE HD-Rs 19
+http://103.174.195.4:8000/play/a01o
+#EXTINF:-1,NAT Geo Wild HD-Rs 5
+http://103.174.195.4:8000/play/a00b
+#EXTINF:-1,colors INFIN-Rs9
+http://103.174.195.4:8000/play/a01m
+#EXTINF:-1,National G-Rs10
+http://103.174.195.4:8000/play/a00k
+#EXTINF:-1,ZEE ANMOL-Rs 10p
+http://103.174.195.4:8000/play/a029
+#EXTINF:-1,&tv HD - Rs 19
+http://103.174.195.4:8000/play/a01x
+#EXTINF:-1,141-STAR MOVIES
+http://103.174.195.4:8000/play/a00i
+#EXTINF:-1,SONIC- Rs 2
+http://103.174.195.4:8000/play/a00s
+#EXTINF:-1,hungama tv-Rs 6
+http://103.174.195.4:8000/play/a00o
+#EXTINF:-1,Star Sport- Rs19
+http://103.174.195.4:8000/play/a007
+#EXTINF:-1,140-Investigation Discovery
+http://103.174.195.4:8000/play/a02z
+#EXTINF:-1,ZEE Cafe H-Rs19
+http://103.174.195.4:8000/play/a00g
