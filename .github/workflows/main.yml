@@ -1,0 +1,25 @@
+# Copyright (C) 2023 SArun61 <sarun61@gmail.com>
+name: Tata Sky Daily Workflow
+on:
+    schedule:
+        - cron: '00 21  * * *'
+    workflow_dispatch:
+        inputs:
+defaults:
+    run:
+        shell: bash
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Daily Loop
+              run: |
+                  git config --global user.name "SArun61"
+                  git config --global user.email "sarun61@gmail.com"
+                  git clone https://${{ secrets.TOKEN_NAME }}@github.com/SArun61/IPTV
+                  cd IPTV/
+                  curl -s 'https://sarun61-1-github-io.vercel.app/api/getM3u?sid=1297775882_A&id=380a8ed7-7644-4056-9acf-607a7b345761&sname=Barath%20Chittibabu&tkn=9oCe61qX0in6GNtOwsv50iuGo9zRSlTs&ent=1000000029_1000000035_1000000045_1000000110_1000000278_1000000365_1000000427_1000000429_1000000561_1000000673_1000000884_1000000966_1000000983_1000000984_1000001001_1000001011_1000001023_1000001050_1000001065_1000001139_1000001173_1000001178_1000001274_1000001275_1000001306_1000001368_1000001572_1000002198_1000002205_1000002219_1000002240_1000002254_1000002275_1000002276' > tata.m3u
+                  chmod 755 *
+                  git add .
+                  git commit --amend -m "TATA playlist has been updated."
+                  git push -f
